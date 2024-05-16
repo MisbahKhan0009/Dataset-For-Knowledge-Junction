@@ -1,0 +1,214 @@
+[
+  {
+    "CategoryID": 1,
+    "Name": "History"
+  },
+  {
+    "CategoryID": 2,
+    "Name": "Fiction"
+  },
+  {
+    "CategoryID": 3,
+    "Name": "Cooking"
+  },
+  {
+    "CategoryID": 4,
+    "Name": "Uncategorized"
+  },
+  {
+    "CategoryID": 5,
+    "Name": "Self-help"
+  },
+  {
+    "CategoryID": 6,
+    "Name": "Poetry"
+  },
+  {
+    "CategoryID": 7,
+    "Name": "Biography & Autobiography"
+  },
+  {
+    "CategoryID": 8,
+    "Name": "Health & Fitness"
+  },
+  {
+    "CategoryID": 9,
+    "Name": "Technology & Engineering"
+  },
+  {
+    "CategoryID": 10,
+    "Name": "Religion"
+  },
+  {
+    "CategoryID": 11,
+    "Name": "Philosophy"
+  },
+  {
+    "CategoryID": 12,
+    "Name": "Political Science"
+  },
+  {
+    "CategoryID": 13,
+    "Name": "Juvenile Nonfiction"
+  },
+  {
+    "CategoryID": 14,
+    "Name": "Pets"
+  },
+  {
+    "CategoryID": 15,
+    "Name": "Psychology"
+  },
+  {
+    "CategoryID": 16,
+    "Name": "Family & Relationships"
+  },
+  {
+    "CategoryID": 17,
+    "Name": "Sports & Recreation"
+  },
+  {
+    "CategoryID": 18,
+    "Name": "Photography"
+  },
+  {
+    "CategoryID": 19,
+    "Name": "Business & Economics"
+  },
+  {
+    "CategoryID": 20,
+    "Name": "Medical"
+  },
+  {
+    "CategoryID": 21,
+    "Name": "Travel"
+  },
+  {
+    "CategoryID": 22,
+    "Name": "Humor"
+  },
+  {
+    "CategoryID": 23,
+    "Name": "Science"
+  },
+  {
+    "CategoryID": 24,
+    "Name": "Performing Arts"
+  },
+  {
+    "CategoryID": 25,
+    "Name": "Games & Activities"
+  },
+  {
+    "CategoryID": 26,
+    "Name": "Young Adult Nonfiction"
+  },
+  {
+    "CategoryID": 27,
+    "Name": "Reference"
+  },
+  {
+    "CategoryID": 28,
+    "Name": "Social Science"
+  },
+  {
+    "CategoryID": 29,
+    "Name": "Education"
+  },
+  {
+    "CategoryID": 30,
+    "Name": "Nature"
+  },
+  {
+    "CategoryID": 31,
+    "Name": "Art"
+  },
+  {
+    "CategoryID": 32,
+    "Name": "House & Home"
+  },
+  {
+    "CategoryID": 33,
+    "Name": "Juvenile Fiction"
+  },
+  {
+    "CategoryID": 34,
+    "Name": "Design"
+  },
+  {
+    "CategoryID": 35,
+    "Name": "Gardening"
+  },
+  {
+    "CategoryID": 36,
+    "Name": "Mathematics"
+  },
+  {
+    "CategoryID": 37,
+    "Name": "Body"
+  },
+  {
+    "CategoryID": 38,
+    "Name": "Music"
+  },
+  {
+    "CategoryID": 39,
+    "Name": "Young Adult Fiction"
+  },
+  {
+    "CategoryID": 40,
+    "Name": "Drama"
+  },
+  {
+    "CategoryID": 41,
+    "Name": "Literary Criticism"
+  },
+  {
+    "CategoryID": 42,
+    "Name": "Architecture"
+  },
+  {
+    "CategoryID": 43,
+    "Name": "Computers"
+  },
+  {
+    "CategoryID": 44,
+    "Name": "Foreign Language Study"
+  },
+  {
+    "CategoryID": 45,
+    "Name": "Language Arts & Disciplines"
+  },
+  {
+    "CategoryID": 46,
+    "Name": "Crafts & Hobbies"
+  },
+  {
+    "CategoryID": 47,
+    "Name": "Literary Collections"
+  },
+  {
+    "CategoryID": 48,
+    "Name": "Antiques & Collectibles"
+  },
+  {
+    "CategoryID": 49,
+    "Name": "Law"
+  },
+  {
+    "CategoryID": 50,
+    "Name": "Games"
+  },
+  {
+    "CategoryID": 51,
+    "Name": "Comics & Graphic Novels"
+  },
+  {
+    "CategoryID": 52,
+    "Name": "Transportation"
+  },
+  {
+    "CategoryID": 53,
+    "Name": "Study Aids"
+  }
+]

@@ -1,0 +1,4426 @@
+[
+  {
+    "AuthorID": 1,
+    "Name": "Larry Colton"
+  },
+  {
+    "AuthorID": 2,
+    "Name": "Doris Grumbach"
+  },
+  {
+    "AuthorID": 3,
+    "Name": "Joseph C. Piscatella"
+  },
+  {
+    "AuthorID": 4,
+    "Name": "Paul D. Davis"
+  },
+  {
+    "AuthorID": 5,
+    "Name": "Amy Spangler"
+  },
+  {
+    "AuthorID": 6,
+    "Name": "Bo Short"
+  },
+  {
+    "AuthorID": 7,
+    "Name": "Canfield Jack (COM) and Hansen Mark Victor (COM)"
+  },
+  {
+    "AuthorID": 8,
+    "Name": "Mattie J. T. Stepanek"
+  },
+  {
+    "AuthorID": 9,
+    "Name": "Aksyonov Vassily Heim Michael Henry and Bouis Antonina W."
+  },
+  {
+    "AuthorID": 10,
+    "Name": "Eakin Katherine M. and Deaman Joane (EDT)"
+  },
+  {
+    "AuthorID": 11,
+    "Name": "Richard Smith"
+  },
+  {
+    "AuthorID": 12,
+    "Name": "Miller Judith Engelberg Stephen and Broad William J."
+  },
+  {
+    "AuthorID": 13,
+    "Name": "Burton L. Visotzky"
+  },
+  {
+    "AuthorID": 14,
+    "Name": "Peter J. Gomes"
+  },
+  {
+    "AuthorID": 15,
+    "Name": "Rick Bragg"
+  },
+  {
+    "AuthorID": 16,
+    "Name": "George Dennison"
+  },
+  {
+    "AuthorID": 17,
+    "Name": "Valerie Garner"
+  },
+  {
+    "AuthorID": 18,
+    "Name": "Roger Penrose"
+  },
+  {
+    "AuthorID": 19,
+    "Name": "Thornton Louise Sturtevant Jan and Sumrall Amber Coverdale (EDT)"
+  },
+  {
+    "AuthorID": 20,
+    "Name": "John L. Jackley"
+  },
+  {
+    "AuthorID": 21,
+    "Name": "Time-Life for Children (Firm) (COR) Singer Muff and Hoggan Pat (ILT)"
+  },
+  {
+    "AuthorID": 22,
+    "Name": "Brandt (EDT) Aymar"
+  },
+  {
+    "AuthorID": 23,
+    "Name": "Judith Viorst"
+  },
+  {
+    "AuthorID": 24,
+    "Name": "Edith Tiger"
+  },
+  {
+    "AuthorID": 25,
+    "Name": "Stephen W. Hawking"
+  },
+  {
+    "AuthorID": 26,
+    "Name": "Albert Einstein"
+  },
+  {
+    "AuthorID": 27,
+    "Name": "Bill Gertz"
+  },
+  {
+    "AuthorID": 28,
+    "Name": "Terry Kay"
+  },
+  {
+    "AuthorID": 29,
+    "Name": "Martha Manning"
+  },
+  {
+    "AuthorID": 30,
+    "Name": "M. Scott Peck"
+  },
+  {
+    "AuthorID": 31,
+    "Name": "Kathryn Harrison"
+  },
+  {
+    "AuthorID": 32,
+    "Name": "Hervie Haufler"
+  },
+  {
+    "AuthorID": 33,
+    "Name": "Kate L. Turabian"
+  },
+  {
+    "AuthorID": 34,
+    "Name": "Ron Suskind"
+  },
+  {
+    "AuthorID": 35,
+    "Name": "Kulka John (EDT) Danford Natalie (EDT) and Oates Joyce Carol (EDT)"
+  },
+  {
+    "AuthorID": 36,
+    "Name": "Ronald Kessler"
+  },
+  {
+    "AuthorID": 37,
+    "Name": "Thomas Moore"
+  },
+  {
+    "AuthorID": 38,
+    "Name": "Peter F. Stevens"
+  },
+  {
+    "AuthorID": 39,
+    "Name": "Caroline Preston"
+  },
+  {
+    "AuthorID": 40,
+    "Name": "Joseph F. Girzone"
+  },
+  {
+    "AuthorID": 41,
+    "Name": "Andrea Hopkins"
+  },
+  {
+    "AuthorID": 42,
+    "Name": "Harold S. Kushner"
+  },
+  {
+    "AuthorID": 43,
+    "Name": "Ornish Dean and Brown Shirley Elizabeth (EDT)"
+  },
+  {
+    "AuthorID": 44,
+    "Name": "Konemann Inc. (EDT)"
+  },
+  {
+    "AuthorID": 45,
+    "Name": "Jill Ker (EDT) Conway"
+  },
+  {
+    "AuthorID": 46,
+    "Name": "Paul Hodge"
+  },
+  {
+    "AuthorID": 47,
+    "Name": "Nielsen Jerri and Vollers Maryanne"
+  },
+  {
+    "AuthorID": 48,
+    "Name": "John Heinerman"
+  },
+  {
+    "AuthorID": 49,
+    "Name": "Reese Schonfeld"
+  },
+  {
+    "AuthorID": 50,
+    "Name": "Lawrence Ronald Melvin Plowden Judith and Rosch Paul"
+  },
+  {
+    "AuthorID": 51,
+    "Name": "Kenneth H. Cooper"
+  },
+  {
+    "AuthorID": 52,
+    "Name": "Archie Robinson"
+  },
+  {
+    "AuthorID": 53,
+    "Name": "Studs Terkel"
+  },
+  {
+    "AuthorID": 54,
+    "Name": "Brodner Steve (ILT) and Brouwer Steve"
+  },
+  {
+    "AuthorID": 55,
+    "Name": "Sandra Bernhard"
+  },
+  {
+    "AuthorID": 56,
+    "Name": "Kevin Goldman"
+  },
+  {
+    "AuthorID": 57,
+    "Name": "Fusaro Peter C. and Miller Ross M."
+  },
+  {
+    "AuthorID": 58,
+    "Name": "Schaef Anne Wilson and Fassel Diane"
+  },
+  {
+    "AuthorID": 59,
+    "Name": "Joseph Alsop"
+  },
+  {
+    "AuthorID": 60,
+    "Name": "Pollack Mark H. (EDT) and Rosenbaum J. F. (EDT)"
+  },
+  {
+    "AuthorID": 61,
+    "Name": "J. J. Scarisbrick"
+  },
+  {
+    "AuthorID": 62,
+    "Name": "Robert Coles"
+  },
+  {
+    "AuthorID": 63,
+    "Name": "E Elder"
+  },
+  {
+    "AuthorID": 64,
+    "Name": "Gould James L. and Gould Carol Grant (EDT)"
+  },
+  {
+    "AuthorID": 65,
+    "Name": "Cathy A. Wesler"
+  },
+  {
+    "AuthorID": 66,
+    "Name": "Ken McCormick"
+  },
+  {
+    "AuthorID": 67,
+    "Name": "Les Parrott"
+  },
+  {
+    "AuthorID": 68,
+    "Name": "John H. Bodley"
+  },
+  {
+    "AuthorID": 69,
+    "Name": "Geoffrey A. Moore"
+  },
+  {
+    "AuthorID": 70,
+    "Name": "Ann L. McLaughlin"
+  },
+  {
+    "AuthorID": 71,
+    "Name": "Vicki Iovine"
+  },
+  {
+    "AuthorID": 72,
+    "Name": "Watson John H. and Millett Larry (EDT)"
+  },
+  {
+    "AuthorID": 73,
+    "Name": "William H. Goetzmann"
+  },
+  {
+    "AuthorID": 74,
+    "Name": "Osborne David and Gaebler Ted"
+  },
+  {
+    "AuthorID": 75,
+    "Name": "Val Landi"
+  },
+  {
+    "AuthorID": 76,
+    "Name": "Kathryn Jackson"
+  },
+  {
+    "AuthorID": 77,
+    "Name": "A. G. L. Ives"
+  },
+  {
+    "AuthorID": 78,
+    "Name": "Philip Wylie"
+  },
+  {
+    "AuthorID": 79,
+    "Name": "Wyse Lois and Rogers Lilla (ILT)"
+  },
+  {
+    "AuthorID": 80,
+    "Name": "Naisbitt John and Aburdene Patricia"
+  },
+  {
+    "AuthorID": 81,
+    "Name": "Gary (EDT) and Blue Mountain Arts Collection (COR) Morris"
+  },
+  {
+    "AuthorID": 82,
+    "Name": "Sheridan Warner Baker"
+  },
+  {
+    "AuthorID": 83,
+    "Name": "P. W. Atkins"
+  },
+  {
+    "AuthorID": 84,
+    "Name": "Kirkland Douglas Marsh Ed W. and Kirkland Douglas (PHT)"
+  },
+  {
+    "AuthorID": 85,
+    "Name": "Jehan Sadat"
+  },
+  {
+    "AuthorID": 86,
+    "Name": "Sid Meier"
+  },
+  {
+    "AuthorID": 87,
+    "Name": "Philip Bergen Don DeNevi"
+  },
+  {
+    "AuthorID": 88,
+    "Name": "William F. Buckley"
+  },
+  {
+    "AuthorID": 89,
+    "Name": "Mirkin Gabe and Rich Diana"
+  },
+  {
+    "AuthorID": 90,
+    "Name": "Stephen R. Donaldson"
+  },
+  {
+    "AuthorID": 91,
+    "Name": "Grant W. Harold Thompson Magdala and Clarke Thomas E."
+  },
+  {
+    "AuthorID": 92,
+    "Name": "Bruce Brooks"
+  },
+  {
+    "AuthorID": 93,
+    "Name": "Ben Mezrich"
+  },
+  {
+    "AuthorID": 94,
+    "Name": "Quigley Sebastian (ILT) and Jefferis David"
+  },
+  {
+    "AuthorID": 95,
+    "Name": "Claude Gernade Bowers"
+  },
+  {
+    "AuthorID": 96,
+    "Name": "Olsen Wayne Ph.D. (EDT)"
+  },
+  {
+    "AuthorID": 97,
+    "Name": "Cohen-Sandler Roni Ph.D."
+  },
+  {
+    "AuthorID": 98,
+    "Name": "Wirths Claudine G. and Bowman-Kruhm Mary"
+  },
+  {
+    "AuthorID": 99,
+    "Name": "Reagan Ronald and Hannaford Peter"
+  },
+  {
+    "AuthorID": 100,
+    "Name": "Ben Lucien Burman"
+  },
+  {
+    "AuthorID": 101,
+    "Name": "Max De Pree"
+  },
+  {
+    "AuthorID": 102,
+    "Name": "Nathan McCall"
+  },
+  {
+    "AuthorID": 103,
+    "Name": "Adrienne Cecile Rich"
+  },
+  {
+    "AuthorID": 104,
+    "Name": "Villa Richard A. (EDT) and Thousand Jacqueline S. (EDT)"
+  },
+  {
+    "AuthorID": 105,
+    "Name": "Bruce Ross-Larson"
+  },
+  {
+    "AuthorID": 106,
+    "Name": "Hinckley Gordon B. and Wallace Mike (FRW)"
+  },
+  {
+    "AuthorID": 107,
+    "Name": "Nancy Roberts"
+  },
+  {
+    "AuthorID": 108,
+    "Name": "David Owen"
+  },
+  {
+    "AuthorID": 109,
+    "Name": "Earl A. Grollman"
+  },
+  {
+    "AuthorID": 110,
+    "Name": "E. M. Halliday"
+  },
+  {
+    "AuthorID": 111,
+    "Name": "Susan Powter"
+  },
+  {
+    "AuthorID": 112,
+    "Name": "William Cronon"
+  },
+  {
+    "AuthorID": 113,
+    "Name": "Arthur Byron Cover"
+  },
+  {
+    "AuthorID": 114,
+    "Name": "Bean Billy and Bull Chris"
+  },
+  {
+    "AuthorID": 115,
+    "Name": "Kaye A. Thomas"
+  },
+  {
+    "AuthorID": 116,
+    "Name": "Lodish Harvey F. Baltimore David and Berk Arnold (CON)"
+  },
+  {
+    "AuthorID": 117,
+    "Name": "Frank V. Fowlkes"
+  },
+  {
+    "AuthorID": 118,
+    "Name": "Covey Stephen R. Merrill A. Roger and Merrill Rebecca R."
+  },
+  {
+    "AuthorID": 119,
+    "Name": "Glen Samantha and Moore Mary Tyler (INT)"
+  },
+  {
+    "AuthorID": 120,
+    "Name": "George S. Pappas"
+  },
+  {
+    "AuthorID": 121,
+    "Name": "Lynna Williams"
+  },
+  {
+    "AuthorID": 122,
+    "Name": "Blanchard Kenneth H. and Lorber Robert"
+  },
+  {
+    "AuthorID": 123,
+    "Name": "Fuentes Carlos and Christensen Thomas (TRN)"
+  },
+  {
+    "AuthorID": 124,
+    "Name": "Rupp Joyce and Veeder Judith (ILT)"
+  },
+  {
+    "AuthorID": 125,
+    "Name": "Neale Donald Walsch"
+  },
+  {
+    "AuthorID": 126,
+    "Name": "Theodore R McKeldin"
+  },
+  {
+    "AuthorID": 127,
+    "Name": "Susan P. Compton"
+  },
+  {
+    "AuthorID": 128,
+    "Name": "Helen MacInnes"
+  },
+  {
+    "AuthorID": 129,
+    "Name": "Peter D. Kramer"
+  },
+  {
+    "AuthorID": 130,
+    "Name": "Tom Bodett"
+  },
+  {
+    "AuthorID": 131,
+    "Name": "Heather (EDT) Newbold"
+  },
+  {
+    "AuthorID": 132,
+    "Name": "Hm (COR)"
+  },
+  {
+    "AuthorID": 133,
+    "Name": "Rob Hoxton"
+  },
+  {
+    "AuthorID": 134,
+    "Name": "Fraser Kennedy Whitney Museum of American Art (COR) Weinberg Adam D. and Venn Beth"
+  },
+  {
+    "AuthorID": 135,
+    "Name": "Pat Ross"
+  },
+  {
+    "AuthorID": 136,
+    "Name": "Alan Hayes"
+  },
+  {
+    "AuthorID": 137,
+    "Name": "Tad Szulc"
+  },
+  {
+    "AuthorID": 138,
+    "Name": "Janice Papolos"
+  },
+  {
+    "AuthorID": 139,
+    "Name": "Pamela Peeke"
+  },
+  {
+    "AuthorID": 140,
+    "Name": "Halpern Belle Linda and Lubar Kathy"
+  },
+  {
+    "AuthorID": 141,
+    "Name": "Weisgard Leonard (ILT) and Wahl Jan"
+  },
+  {
+    "AuthorID": 142,
+    "Name": "John Kenneth Galbraith"
+  },
+  {
+    "AuthorID": 143,
+    "Name": "Rosen Robert (EDT) Digh Patricia Singer Marshall and Phillips Carl"
+  },
+  {
+    "AuthorID": 144,
+    "Name": "Michael J. Schmoker"
+  },
+  {
+    "AuthorID": 145,
+    "Name": "Hildebrand Ron (ILT) and Merwin John"
+  },
+  {
+    "AuthorID": 146,
+    "Name": "Pearl Cleage"
+  },
+  {
+    "AuthorID": 147,
+    "Name": "Roger LeRoy Miller"
+  },
+  {
+    "AuthorID": 148,
+    "Name": "Reader's Digest Association"
+  },
+  {
+    "AuthorID": 149,
+    "Name": "Clyde Edgerton"
+  },
+  {
+    "AuthorID": 150,
+    "Name": "Dian Dincin Buchman"
+  },
+  {
+    "AuthorID": 151,
+    "Name": "Sue Reidy"
+  },
+  {
+    "AuthorID": 152,
+    "Name": "Zemke Deborah (ILT) and Brown Rosemary Carleton"
+  },
+  {
+    "AuthorID": 153,
+    "Name": "Susan Polis Schutz"
+  },
+  {
+    "AuthorID": 154,
+    "Name": "Hammer Michael and Champy James"
+  },
+  {
+    "AuthorID": 155,
+    "Name": "Gloria (COM) Gaither"
+  },
+  {
+    "AuthorID": 156,
+    "Name": "Alfred M. Dashe"
+  },
+  {
+    "AuthorID": 157,
+    "Name": "Judy Martin"
+  },
+  {
+    "AuthorID": 158,
+    "Name": "Jonathan D. Spence"
+  },
+  {
+    "AuthorID": 159,
+    "Name": "Ellis M Zacharias"
+  },
+  {
+    "AuthorID": 160,
+    "Name": "James R. Evans"
+  },
+  {
+    "AuthorID": 161,
+    "Name": "Frank Arthur Worsley"
+  },
+  {
+    "AuthorID": 162,
+    "Name": "Karen (EDT) Horney"
+  },
+  {
+    "AuthorID": 163,
+    "Name": "Text by Theodore Rousseau"
+  },
+  {
+    "AuthorID": 164,
+    "Name": "Geoffrey Tyack"
+  },
+  {
+    "AuthorID": 165,
+    "Name": "Richard Lederer"
+  },
+  {
+    "AuthorID": 166,
+    "Name": "Stone Howard and Stone Marika"
+  },
+  {
+    "AuthorID": 167,
+    "Name": "Edward Sorel"
+  },
+  {
+    "AuthorID": 168,
+    "Name": "Mark David Reed Cartwright"
+  },
+  {
+    "AuthorID": 169,
+    "Name": "Kennelly Brendan Donovan Katie and Jeffares A. Norman"
+  },
+  {
+    "AuthorID": 170,
+    "Name": "NATAHANIEL CURRIER and JAMES MERRITT"
+  },
+  {
+    "AuthorID": 171,
+    "Name": "Patrick O'Brian"
+  },
+  {
+    "AuthorID": 172,
+    "Name": "Ebony"
+  },
+  {
+    "AuthorID": 173,
+    "Name": "Colleen Helgeson Nelson"
+  },
+  {
+    "AuthorID": 174,
+    "Name": "Nicholson Jack Baratta Tommy Baratta Marylou and Nicholson Jack (INT)"
+  },
+  {
+    "AuthorID": 175,
+    "Name": "Prima"
+  },
+  {
+    "AuthorID": 176,
+    "Name": "Low Betty-Bright and Hinsley Jacqueline"
+  },
+  {
+    "AuthorID": 177,
+    "Name": "Dale D McConkey"
+  },
+  {
+    "AuthorID": 178,
+    "Name": "Nicholas Perricone"
+  },
+  {
+    "AuthorID": 179,
+    "Name": "Stephanie Donaldson"
+  },
+  {
+    "AuthorID": 180,
+    "Name": "Lampert Vera Kemp Ian White Eric White"
+  },
+  {
+    "AuthorID": 181,
+    "Name": "Len Deighton"
+  },
+  {
+    "AuthorID": 182,
+    "Name": "Melinda Haynes"
+  },
+  {
+    "AuthorID": 183,
+    "Name": "Caroline Winthrop"
+  },
+  {
+    "AuthorID": 184,
+    "Name": "Benet Tvedten"
+  },
+  {
+    "AuthorID": 185,
+    "Name": "Helen Steiner Rice"
+  },
+  {
+    "AuthorID": 186,
+    "Name": "Allan Gerson"
+  },
+  {
+    "AuthorID": 187,
+    "Name": "Joseph Novello"
+  },
+  {
+    "AuthorID": 188,
+    "Name": "Harry Bard"
+  },
+  {
+    "AuthorID": 189,
+    "Name": "Rena Moses-Hrushovski"
+  },
+  {
+    "AuthorID": 190,
+    "Name": "Bernstein Carl and Woodward Bob"
+  },
+  {
+    "AuthorID": 191,
+    "Name": "Graham Lord"
+  },
+  {
+    "AuthorID": 192,
+    "Name": "Muriel St. Clare (EDT) Byrne"
+  },
+  {
+    "AuthorID": 193,
+    "Name": "Winthrop D. Jordan"
+  },
+  {
+    "AuthorID": 194,
+    "Name": "Zoe Davenport"
+  },
+  {
+    "AuthorID": 195,
+    "Name": "V. Gilbert Beers"
+  },
+  {
+    "AuthorID": 196,
+    "Name": "Ken Carey"
+  },
+  {
+    "AuthorID": 197,
+    "Name": "Mill John Stuart and Stillinger Jack (EDT)"
+  },
+  {
+    "AuthorID": 198,
+    "Name": "Harold R. Landon"
+  },
+  {
+    "AuthorID": 199,
+    "Name": "Martin Cruz Smith"
+  },
+  {
+    "AuthorID": 200,
+    "Name": "J. P. Sinclair Lewis"
+  },
+  {
+    "AuthorID": 201,
+    "Name": "Thomas Elizabeth Marshall and Davidson Andrew (ILT)"
+  },
+  {
+    "AuthorID": 202,
+    "Name": "Rainey Dennis and Rainey Barbara"
+  },
+  {
+    "AuthorID": 203,
+    "Name": "Raymond Tanter"
+  },
+  {
+    "AuthorID": 204,
+    "Name": "Alan M. Dershowitz"
+  },
+  {
+    "AuthorID": 205,
+    "Name": "Claire Derouin"
+  },
+  {
+    "AuthorID": 206,
+    "Name": "Thomas Piltz"
+  },
+  {
+    "AuthorID": 207,
+    "Name": "Philip Macht"
+  },
+  {
+    "AuthorID": 208,
+    "Name": "Gail Grant"
+  },
+  {
+    "AuthorID": 209,
+    "Name": "Nien Cheng"
+  },
+  {
+    "AuthorID": 210,
+    "Name": "Teri Dunn"
+  },
+  {
+    "AuthorID": 211,
+    "Name": "Mary Higgins Clark"
+  },
+  {
+    "AuthorID": 212,
+    "Name": "Vincent Scully"
+  },
+  {
+    "AuthorID": 213,
+    "Name": "Shannon Ravenel"
+  },
+  {
+    "AuthorID": 214,
+    "Name": "Rebecca Tyson Northen"
+  },
+  {
+    "AuthorID": 215,
+    "Name": "Howard Irving Chapelle"
+  },
+  {
+    "AuthorID": 216,
+    "Name": "Paul Henry Lang"
+  },
+  {
+    "AuthorID": 217,
+    "Name": "Edgar Snow"
+  },
+  {
+    "AuthorID": 218,
+    "Name": "Lester Del Rey"
+  },
+  {
+    "AuthorID": 219,
+    "Name": "keith briant"
+  },
+  {
+    "AuthorID": 220,
+    "Name": "Roger Vailland"
+  },
+  {
+    "AuthorID": 221,
+    "Name": "Desmond Morris"
+  },
+  {
+    "AuthorID": 222,
+    "Name": "Linda McCartney"
+  },
+  {
+    "AuthorID": 223,
+    "Name": "Herbert Block"
+  },
+  {
+    "AuthorID": 224,
+    "Name": "Maryanne Blacker"
+  },
+  {
+    "AuthorID": 225,
+    "Name": "Frank Rich"
+  },
+  {
+    "AuthorID": 226,
+    "Name": "Michael Hoeye"
+  },
+  {
+    "AuthorID": 227,
+    "Name": "Margaret Truman"
+  },
+  {
+    "AuthorID": 228,
+    "Name": "Schirripa Steve and Fleming Charles"
+  },
+  {
+    "AuthorID": 229,
+    "Name": "Stanley Elkin"
+  },
+  {
+    "AuthorID": 230,
+    "Name": "Nick Bantock"
+  },
+  {
+    "AuthorID": 231,
+    "Name": "Patricia Ballard"
+  },
+  {
+    "AuthorID": 232,
+    "Name": "Ted Mosel"
+  },
+  {
+    "AuthorID": 233,
+    "Name": "Helquist Brett (ILT) and Howe James"
+  },
+  {
+    "AuthorID": 234,
+    "Name": "James Truslow Adams"
+  },
+  {
+    "AuthorID": 235,
+    "Name": "Martin Amis"
+  },
+  {
+    "AuthorID": 236,
+    "Name": "Jack W. Hayford"
+  },
+  {
+    "AuthorID": 237,
+    "Name": "Kronschnab"
+  },
+  {
+    "AuthorID": 238,
+    "Name": "H. Freeman Wood"
+  },
+  {
+    "AuthorID": 239,
+    "Name": "Nancy Pickard"
+  },
+  {
+    "AuthorID": 240,
+    "Name": "Peter Jenkins"
+  },
+  {
+    "AuthorID": 241,
+    "Name": "Tasha (ILT) Tudor"
+  },
+  {
+    "AuthorID": 242,
+    "Name": "Linda Beatrice Brown"
+  },
+  {
+    "AuthorID": 243,
+    "Name": "Richard T Feller"
+  },
+  {
+    "AuthorID": 244,
+    "Name": "Moser Barry (ILT) and Hamilton Virginia"
+  },
+  {
+    "AuthorID": 245,
+    "Name": "W. E. B. Griffin"
+  },
+  {
+    "AuthorID": 246,
+    "Name": "Julie Green"
+  },
+  {
+    "AuthorID": 247,
+    "Name": "Susan Ramey"
+  },
+  {
+    "AuthorID": 248,
+    "Name": "Robert Boswell"
+  },
+  {
+    "AuthorID": 249,
+    "Name": "Maksim Gorky"
+  },
+  {
+    "AuthorID": 250,
+    "Name": "Terry Wise"
+  },
+  {
+    "AuthorID": 251,
+    "Name": "Frank Benjamin"
+  },
+  {
+    "AuthorID": 252,
+    "Name": "Catharine P. (EDT) Smith"
+  },
+  {
+    "AuthorID": 253,
+    "Name": "May Sarton"
+  },
+  {
+    "AuthorID": 254,
+    "Name": "Meg Jansz"
+  },
+  {
+    "AuthorID": 255,
+    "Name": "Harold. Brodkey"
+  },
+  {
+    "AuthorID": 256,
+    "Name": "Alice Hope"
+  },
+  {
+    "AuthorID": 257,
+    "Name": "Wallace Bruce Amsbary"
+  },
+  {
+    "AuthorID": 258,
+    "Name": "Charles Dickinson"
+  },
+  {
+    "AuthorID": 259,
+    "Name": "James C. Dobson"
+  },
+  {
+    "AuthorID": 260,
+    "Name": "Brethwaite Chris Ahern Lee Ann and Bridgeman Bill et al"
+  },
+  {
+    "AuthorID": 261,
+    "Name": "Nicolas Freeling"
+  },
+  {
+    "AuthorID": 262,
+    "Name": "Ralph W. Neighbour Jr."
+  },
+  {
+    "AuthorID": 263,
+    "Name": "Anderson Melinda Murray Kathleen and Arnold Alli (ILT)"
+  },
+  {
+    "AuthorID": 264,
+    "Name": "Provoost Anne and Nieuwenhuizen John"
+  },
+  {
+    "AuthorID": 265,
+    "Name": "Eoin Colfer"
+  },
+  {
+    "AuthorID": 266,
+    "Name": "Nicholson Baker"
+  },
+  {
+    "AuthorID": 267,
+    "Name": "Amy Bloom"
+  },
+  {
+    "AuthorID": 268,
+    "Name": "Madison Smartt Bell"
+  },
+  {
+    "AuthorID": 269,
+    "Name": "Kenneth H. Blanchard"
+  },
+  {
+    "AuthorID": 270,
+    "Name": "Frank Brady"
+  },
+  {
+    "AuthorID": 271,
+    "Name": "Susan RoAne"
+  },
+  {
+    "AuthorID": 272,
+    "Name": "Rocheleau Paul (ILT) and Homsen Kathleen"
+  },
+  {
+    "AuthorID": 273,
+    "Name": "Katharine Graham"
+  },
+  {
+    "AuthorID": 274,
+    "Name": "Clairmont Patsy Walsh Sheila Johnson Barbara Clairmont Patsy (EDT) Mullins Traci (EDT) Swindoll Luci Meberg Marilyn Wells Thelma and Women Of Faith (COR)"
+  },
+  {
+    "AuthorID": 275,
+    "Name": "McDowell Josh and Hostetler Bob"
+  },
+  {
+    "AuthorID": 276,
+    "Name": "Dave Barry"
+  },
+  {
+    "AuthorID": 277,
+    "Name": "Phyllis Pellman Good"
+  },
+  {
+    "AuthorID": 278,
+    "Name": "Andrew H. Vachss"
+  },
+  {
+    "AuthorID": 279,
+    "Name": "Arthur Schwartz"
+  },
+  {
+    "AuthorID": 280,
+    "Name": "Shulman Martha Rose and Drechsler Debbie (ILT)"
+  },
+  {
+    "AuthorID": 281,
+    "Name": "Sunset Books"
+  },
+  {
+    "AuthorID": 282,
+    "Name": "Gesue Monica (ILT) and Bonnell Jennifer"
+  },
+  {
+    "AuthorID": 283,
+    "Name": "Harold Clurman"
+  },
+  {
+    "AuthorID": 284,
+    "Name": "Robertson Davies"
+  },
+  {
+    "AuthorID": 285,
+    "Name": "Sears Barry and Goodbody Mary"
+  },
+  {
+    "AuthorID": 286,
+    "Name": "David Stick"
+  },
+  {
+    "AuthorID": 287,
+    "Name": "Peter Pipe Robert Frank Mager"
+  },
+  {
+    "AuthorID": 288,
+    "Name": "Mary Bray Pipher"
+  },
+  {
+    "AuthorID": 289,
+    "Name": "Desmond Seward"
+  },
+  {
+    "AuthorID": 290,
+    "Name": "Joachim Hans Schwelien"
+  },
+  {
+    "AuthorID": 291,
+    "Name": "Patti Barrett"
+  },
+  {
+    "AuthorID": 292,
+    "Name": "Bert Ghezzi"
+  },
+  {
+    "AuthorID": 293,
+    "Name": "Suzanne Frutig Bales"
+  },
+  {
+    "AuthorID": 294,
+    "Name": "John W. Schildt"
+  },
+  {
+    "AuthorID": 295,
+    "Name": "Hale Glorya (EDT) Anderson Anne Lee Ella Doldar Anderson Anne (ILT) and Lee Ella Doldar (ILT)"
+  },
+  {
+    "AuthorID": 296,
+    "Name": "Milo Miloradovich"
+  },
+  {
+    "AuthorID": 297,
+    "Name": "Ruth Mellinkoff"
+  },
+  {
+    "AuthorID": 298,
+    "Name": "Segalove Ilene and Velick Paul Bob"
+  },
+  {
+    "AuthorID": 299,
+    "Name": "John Boswell"
+  },
+  {
+    "AuthorID": 300,
+    "Name": "John Calvin Batchelor"
+  },
+  {
+    "AuthorID": 301,
+    "Name": "Eric  Bentley"
+  },
+  {
+    "AuthorID": 302,
+    "Name": "Louis Begley"
+  },
+  {
+    "AuthorID": 303,
+    "Name": "Linsley Leslie Aron Jon (PHT) and Savonen Robby (ILT)"
+  },
+  {
+    "AuthorID": 304,
+    "Name": "Cy Decosse Inc Cowles Creative Publishing"
+  },
+  {
+    "AuthorID": 305,
+    "Name": "Helen McCully"
+  },
+  {
+    "AuthorID": 306,
+    "Name": "Christopher Idone"
+  },
+  {
+    "AuthorID": 307,
+    "Name": "Catherine Drinker Bowen"
+  },
+  {
+    "AuthorID": 308,
+    "Name": "Timothy Ferris"
+  },
+  {
+    "AuthorID": 309,
+    "Name": "Andrew Weil"
+  },
+  {
+    "AuthorID": 310,
+    "Name": "Jane Gillespie"
+  },
+  {
+    "AuthorID": 311,
+    "Name": "Harris Greene"
+  },
+  {
+    "AuthorID": 312,
+    "Name": "Deborah Amos"
+  },
+  {
+    "AuthorID": 313,
+    "Name": "Vernor Vinge"
+  },
+  {
+    "AuthorID": 314,
+    "Name": "Suze Orman"
+  },
+  {
+    "AuthorID": 315,
+    "Name": "Bill Gilbert"
+  },
+  {
+    "AuthorID": 316,
+    "Name": "Penner Clifford and Penner Joyce"
+  },
+  {
+    "AuthorID": 317,
+    "Name": "A. Ia. Vaganova"
+  },
+  {
+    "AuthorID": 318,
+    "Name": "Benny Hinn"
+  },
+  {
+    "AuthorID": 319,
+    "Name": "Cole Lesley"
+  },
+  {
+    "AuthorID": 320,
+    "Name": "Schulz Charles M. and Larkin David (EDT)"
+  },
+  {
+    "AuthorID": 321,
+    "Name": "Brock Brower"
+  },
+  {
+    "AuthorID": 322,
+    "Name": "Moyers Bill D. Grubin David and Haba James"
+  },
+  {
+    "AuthorID": 323,
+    "Name": "Johnson Dave and Housenbold Jeffrey"
+  },
+  {
+    "AuthorID": 324,
+    "Name": "Neville Williams"
+  },
+  {
+    "AuthorID": 325,
+    "Name": "Stanley Sadie"
+  },
+  {
+    "AuthorID": 326,
+    "Name": "Robert Santelli"
+  },
+  {
+    "AuthorID": 327,
+    "Name": "Alexandra Robbins"
+  },
+  {
+    "AuthorID": 328,
+    "Name": "Don Kirk"
+  },
+  {
+    "AuthorID": 329,
+    "Name": "Buckley James Teitelbaum Michael and Wolff Rick (FRW)"
+  },
+  {
+    "AuthorID": 330,
+    "Name": "Ronald Enroth"
+  },
+  {
+    "AuthorID": 331,
+    "Name": "Faber Randall (COP) Faber Nancy (COM) and Hansen Jeanne (CON)"
+  },
+  {
+    "AuthorID": 332,
+    "Name": "James J Kavanaugh"
+  },
+  {
+    "AuthorID": 333,
+    "Name": "Harvey Rosenfeld"
+  },
+  {
+    "AuthorID": 334,
+    "Name": "Ripken Cal Jr. and Bryan Mike"
+  },
+  {
+    "AuthorID": 335,
+    "Name": "Rand Ted (ILT) Martin Bill and Archambault John"
+  },
+  {
+    "AuthorID": 336,
+    "Name": "Fiona Barnett"
+  },
+  {
+    "AuthorID": 337,
+    "Name": "Robert Hendrickson"
+  },
+  {
+    "AuthorID": 338,
+    "Name": "Albert H. (EDT) Small"
+  },
+  {
+    "AuthorID": 339,
+    "Name": "Bykofsky Sheree and Sander Jennifer Basye"
+  },
+  {
+    "AuthorID": 340,
+    "Name": "Ayelet Waldman"
+  },
+  {
+    "AuthorID": 341,
+    "Name": "Alan (EDT) Ryan"
+  },
+  {
+    "AuthorID": 342,
+    "Name": "Brinkman Rick and Kirschner Rick"
+  },
+  {
+    "AuthorID": 343,
+    "Name": "George Trevelyan"
+  },
+  {
+    "AuthorID": 344,
+    "Name": "Sean Hannity"
+  },
+  {
+    "AuthorID": 345,
+    "Name": "Shakespeare William and Hibbard G. R. (EDT)"
+  },
+  {
+    "AuthorID": 346,
+    "Name": "Synge John Millington and Saddlemyer Ann (EDT)"
+  },
+  {
+    "AuthorID": 347,
+    "Name": "Westheimer Ruth K. and Kaplan Steven"
+  },
+  {
+    "AuthorID": 348,
+    "Name": "Elaine Kittredge"
+  },
+  {
+    "AuthorID": 349,
+    "Name": "William K. Hartmann"
+  },
+  {
+    "AuthorID": 350,
+    "Name": "Carl A. Hammerschlag"
+  },
+  {
+    "AuthorID": 351,
+    "Name": "Dixon Dougal and Burton Jane"
+  },
+  {
+    "AuthorID": 352,
+    "Name": "Montgomery M. R. and Brown-Wing Katherine (ILT)"
+  },
+  {
+    "AuthorID": 353,
+    "Name": "Joan Bauer"
+  },
+  {
+    "AuthorID": 354,
+    "Name": "Dickens Charles and Sanders Andrew (EDT)"
+  },
+  {
+    "AuthorID": 355,
+    "Name": "Nancy Sinatra"
+  },
+  {
+    "AuthorID": 356,
+    "Name": "James Bastien"
+  },
+  {
+    "AuthorID": 357,
+    "Name": "Walter J. Hickel"
+  },
+  {
+    "AuthorID": 358,
+    "Name": "Jill Neimark"
+  },
+  {
+    "AuthorID": 359,
+    "Name": "J. Gordon Melton"
+  },
+  {
+    "AuthorID": 360,
+    "Name": "Shakespeare William and Holland Peter (EDT)"
+  },
+  {
+    "AuthorID": 361,
+    "Name": "Robert Miller"
+  },
+  {
+    "AuthorID": 362,
+    "Name": "Jacques Brian and Chalk Gary (ILT)"
+  },
+  {
+    "AuthorID": 363,
+    "Name": "David Bodanis"
+  },
+  {
+    "AuthorID": 364,
+    "Name": "Anne McCaffrey"
+  },
+  {
+    "AuthorID": 365,
+    "Name": "Peter Winn"
+  },
+  {
+    "AuthorID": 366,
+    "Name": "Helmut (EDT) Mayo Clinic (COR) and Buettner"
+  },
+  {
+    "AuthorID": 367,
+    "Name": "Victor Martinez"
+  },
+  {
+    "AuthorID": 368,
+    "Name": "Garrity John (INT) and Bishop Schuyler (EDT)"
+  },
+  {
+    "AuthorID": 369,
+    "Name": "Deepak Chopra"
+  },
+  {
+    "AuthorID": 370,
+    "Name": "Barbara Brabec"
+  },
+  {
+    "AuthorID": 371,
+    "Name": "Warren Jean and McKinnon Elizabeth S. (EDT)"
+  },
+  {
+    "AuthorID": 372,
+    "Name": "Barbara Reeves"
+  },
+  {
+    "AuthorID": 373,
+    "Name": "Laurie Orzakis"
+  },
+  {
+    "AuthorID": 374,
+    "Name": "John Bowen"
+  },
+  {
+    "AuthorID": 375,
+    "Name": "Jean Warren"
+  },
+  {
+    "AuthorID": 376,
+    "Name": "Frame Jeron Ashford and Holladay Scott (ILT)"
+  },
+  {
+    "AuthorID": 377,
+    "Name": "Leonard Lee Rue"
+  },
+  {
+    "AuthorID": 378,
+    "Name": "Barry Kent MacKay"
+  },
+  {
+    "AuthorID": 379,
+    "Name": "Arthur A Allen"
+  },
+  {
+    "AuthorID": 380,
+    "Name": "James Peterson"
+  },
+  {
+    "AuthorID": 381,
+    "Name": "James Henry and Bradbury Nicola (EDT)"
+  },
+  {
+    "AuthorID": 382,
+    "Name": "Nicolas Point"
+  },
+  {
+    "AuthorID": 383,
+    "Name": "William Bridges"
+  },
+  {
+    "AuthorID": 384,
+    "Name": "Cloud Henry and Townsend John"
+  },
+  {
+    "AuthorID": 385,
+    "Name": "Bruce Rich"
+  },
+  {
+    "AuthorID": 386,
+    "Name": "Bart Robinson"
+  },
+  {
+    "AuthorID": 387,
+    "Name": "Herbert Butterfield"
+  },
+  {
+    "AuthorID": 388,
+    "Name": "Burton Silver"
+  },
+  {
+    "AuthorID": 389,
+    "Name": "Holt Mcdougal (COR)"
+  },
+  {
+    "AuthorID": 390,
+    "Name": "Robert A. F. Thurman"
+  },
+  {
+    "AuthorID": 391,
+    "Name": "Baudez Claude F. and Picasso Sydney"
+  },
+  {
+    "AuthorID": 392,
+    "Name": "Adolf Erman"
+  },
+  {
+    "AuthorID": 393,
+    "Name": "Zatz Aline and Zatz Joel"
+  },
+  {
+    "AuthorID": 394,
+    "Name": "John S. Henderson"
+  },
+  {
+    "AuthorID": 395,
+    "Name": "Richard R. Werry"
+  },
+  {
+    "AuthorID": 396,
+    "Name": "Stansfield Turner"
+  },
+  {
+    "AuthorID": 397,
+    "Name": "Henry Mayer"
+  },
+  {
+    "AuthorID": 398,
+    "Name": "Adler David A. and Natti Susanna (ILT)"
+  },
+  {
+    "AuthorID": 399,
+    "Name": "Michael Chabon"
+  },
+  {
+    "AuthorID": 400,
+    "Name": "Michael Schumacher"
+  },
+  {
+    "AuthorID": 401,
+    "Name": "Melvin Burgess"
+  },
+  {
+    "AuthorID": 402,
+    "Name": "Kenneth Grahame"
+  },
+  {
+    "AuthorID": 403,
+    "Name": "Maggie Malone"
+  },
+  {
+    "AuthorID": 404,
+    "Name": "Eugene F Brigham"
+  },
+  {
+    "AuthorID": 405,
+    "Name": "Hamilton I. (EDT) McCubbin"
+  },
+  {
+    "AuthorID": 406,
+    "Name": "Gregory Gibson"
+  },
+  {
+    "AuthorID": 407,
+    "Name": "Liang Zhang (COM) Nathan Andrew J. (EDT) Link Perry (EDT) Nathan Andrew J. Zhang Liang Link E. Perry (EDT) Zhang Liang (EDT) Link E. Perry and Liang Zhang"
+  },
+  {
+    "AuthorID": 408,
+    "Name": "Janet Geringer Woititz"
+  },
+  {
+    "AuthorID": 409,
+    "Name": "Fell Derek and Erler Catriona"
+  },
+  {
+    "AuthorID": 410,
+    "Name": "Olivia Mellan"
+  },
+  {
+    "AuthorID": 411,
+    "Name": "Gerstner Louis V. Jr."
+  },
+  {
+    "AuthorID": 412,
+    "Name": "Adler Bill Hughes Heide and Hughes Heidi"
+  },
+  {
+    "AuthorID": 413,
+    "Name": "Ellen H. (EDT) Johnson"
+  },
+  {
+    "AuthorID": 414,
+    "Name": "Budd Schulberg"
+  },
+  {
+    "AuthorID": 415,
+    "Name": "Lehman Engel"
+  },
+  {
+    "AuthorID": 416,
+    "Name": "Andersen Hans Christian Levine Gail Carson Elliott Mark (ILT) and Elliott Mark"
+  },
+  {
+    "AuthorID": 417,
+    "Name": "Vera Mowry Roberts"
+  },
+  {
+    "AuthorID": 418,
+    "Name": "Prizzi Elaine and Hoffmann Jeanne"
+  },
+  {
+    "AuthorID": 419,
+    "Name": "Storm Jameson"
+  },
+  {
+    "AuthorID": 420,
+    "Name": "O'Mara Lesley and Geldart William Geldart (ILT)"
+  },
+  {
+    "AuthorID": 421,
+    "Name": "Winthrop Still Hudson"
+  },
+  {
+    "AuthorID": 422,
+    "Name": "Shmuel Boteach"
+  },
+  {
+    "AuthorID": 423,
+    "Name": "Marcia Muller"
+  },
+  {
+    "AuthorID": 424,
+    "Name": "David Heller"
+  },
+  {
+    "AuthorID": 425,
+    "Name": "Robert Bolt"
+  },
+  {
+    "AuthorID": 426,
+    "Name": "Karon Jan and Weidner Teri (ILT)"
+  },
+  {
+    "AuthorID": 427,
+    "Name": "Fisher Renee Kramer Joyce Peelen Jean and Llc Invisible No More"
+  },
+  {
+    "AuthorID": 428,
+    "Name": "Alvarez Garcia Teresa (EDT) Rodger Liam (EDT) and Ron Diaz Elena (EDT)"
+  },
+  {
+    "AuthorID": 429,
+    "Name": "C. D. B. Bryan"
+  },
+  {
+    "AuthorID": 430,
+    "Name": "James M. Fallows"
+  },
+  {
+    "AuthorID": 431,
+    "Name": "Lidell Lucinda Thomas Sara Cooke Carola Beresford and Porter Anthony"
+  },
+  {
+    "AuthorID": 432,
+    "Name": "Earl Babbie"
+  },
+  {
+    "AuthorID": 433,
+    "Name": "Barbara Holland"
+  },
+  {
+    "AuthorID": 434,
+    "Name": "Jan Mahnken"
+  },
+  {
+    "AuthorID": 435,
+    "Name": "Lillian B. Rubin"
+  },
+  {
+    "AuthorID": 436,
+    "Name": "Laura Sessions Stepp"
+  },
+  {
+    "AuthorID": 437,
+    "Name": "Jay Lehmann"
+  },
+  {
+    "AuthorID": 438,
+    "Name": "Michael J. Weiss"
+  },
+  {
+    "AuthorID": 439,
+    "Name": "Joe Alex Morris"
+  },
+  {
+    "AuthorID": 440,
+    "Name": "Gary Larson"
+  },
+  {
+    "AuthorID": 441,
+    "Name": "Bud Shuster"
+  },
+  {
+    "AuthorID": 442,
+    "Name": "Jim Rogers"
+  },
+  {
+    "AuthorID": 443,
+    "Name": "Various"
+  },
+  {
+    "AuthorID": 444,
+    "Name": "Harold Spencer"
+  },
+  {
+    "AuthorID": 445,
+    "Name": "Kenneth R. Timmerman"
+  },
+  {
+    "AuthorID": 446,
+    "Name": "Loren C. Eiseley"
+  },
+  {
+    "AuthorID": 447,
+    "Name": "Kim W. (EDT) Stallwood"
+  },
+  {
+    "AuthorID": 448,
+    "Name": "Marlo Morgan"
+  },
+  {
+    "AuthorID": 449,
+    "Name": "Kenneth S. Davis"
+  },
+  {
+    "AuthorID": 450,
+    "Name": "McClure Stuart Scambray Joel and Kurtz George"
+  },
+  {
+    "AuthorID": 451,
+    "Name": "Adams Robert and Sethi Rajeev (EDT)"
+  },
+  {
+    "AuthorID": 452,
+    "Name": "Mike Sexton"
+  },
+  {
+    "AuthorID": 453,
+    "Name": "Peter McHoy"
+  },
+  {
+    "AuthorID": 454,
+    "Name": "Harbison Elizabeth M. and McGowan Mary"
+  },
+  {
+    "AuthorID": 455,
+    "Name": "Richard Avery"
+  },
+  {
+    "AuthorID": 456,
+    "Name": "Allan Bloom"
+  },
+  {
+    "AuthorID": 457,
+    "Name": "V. S. Pritchett"
+  },
+  {
+    "AuthorID": 458,
+    "Name": "Navigators"
+  },
+  {
+    "AuthorID": 459,
+    "Name": "William Smith White"
+  },
+  {
+    "AuthorID": 460,
+    "Name": "Kenneth C. Davis"
+  },
+  {
+    "AuthorID": 461,
+    "Name": "Dale Jim Shapiro Ronald M. and Jankowski Mark A."
+  },
+  {
+    "AuthorID": 462,
+    "Name": "Tobias Cynthia Ulrich and Funk Carol"
+  },
+  {
+    "AuthorID": 463,
+    "Name": "Ernst Cassirer"
+  },
+  {
+    "AuthorID": 464,
+    "Name": "Ripken Cal Jr. Iooss Walter (PHT) and Vancil Mark (EDT)"
+  },
+  {
+    "AuthorID": 465,
+    "Name": "Adrienne"
+  },
+  {
+    "AuthorID": 466,
+    "Name": "William J. O'Neil"
+  },
+  {
+    "AuthorID": 467,
+    "Name": "Madeleine L'Engle"
+  },
+  {
+    "AuthorID": 468,
+    "Name": "Lehrer James Smith Peter (EDT) and Osnos Peter"
+  },
+  {
+    "AuthorID": 469,
+    "Name": "Dana Chidekel"
+  },
+  {
+    "AuthorID": 470,
+    "Name": "Jake Coburn"
+  },
+  {
+    "AuthorID": 471,
+    "Name": "Sarah Dessen"
+  },
+  {
+    "AuthorID": 472,
+    "Name": "Ivan Rendall"
+  },
+  {
+    "AuthorID": 473,
+    "Name": "Graber Steven and Lipsman Mark"
+  },
+  {
+    "AuthorID": 474,
+    "Name": "Norman Mark"
+  },
+  {
+    "AuthorID": 475,
+    "Name": "Leonard Foley"
+  },
+  {
+    "AuthorID": 476,
+    "Name": "James Bonwick"
+  },
+  {
+    "AuthorID": 477,
+    "Name": "Cooley Denton A. M.D. and Moore Carolyn E."
+  },
+  {
+    "AuthorID": 478,
+    "Name": "Enterprises Incorporated Trend"
+  },
+  {
+    "AuthorID": 479,
+    "Name": "Rosemary Benet"
+  },
+  {
+    "AuthorID": 480,
+    "Name": "Oberman Lola and Swan Joy (ILT)"
+  },
+  {
+    "AuthorID": 481,
+    "Name": "Norman MacLean"
+  },
+  {
+    "AuthorID": 482,
+    "Name": "Elizabeth Bowen"
+  },
+  {
+    "AuthorID": 483,
+    "Name": "Sherry Mitchell"
+  },
+  {
+    "AuthorID": 484,
+    "Name": "Marie Louise Graff"
+  },
+  {
+    "AuthorID": 485,
+    "Name": "James Joseph Rorimer"
+  },
+  {
+    "AuthorID": 486,
+    "Name": "John Locke"
+  },
+  {
+    "AuthorID": 487,
+    "Name": "Tina Harris"
+  },
+  {
+    "AuthorID": 488,
+    "Name": "Editor"
+  },
+  {
+    "AuthorID": 489,
+    "Name": "Ken Anderson"
+  },
+  {
+    "AuthorID": 490,
+    "Name": "Uwe Feist"
+  },
+  {
+    "AuthorID": 491,
+    "Name": "Richard Muhlberger"
+  },
+  {
+    "AuthorID": 492,
+    "Name": "New Skete Monks"
+  },
+  {
+    "AuthorID": 493,
+    "Name": "Camika Spencer"
+  },
+  {
+    "AuthorID": 494,
+    "Name": "Walter Plato and Hamilton"
+  },
+  {
+    "AuthorID": 495,
+    "Name": "H. Norman Wright"
+  },
+  {
+    "AuthorID": 496,
+    "Name": "Bruce Coville"
+  },
+  {
+    "AuthorID": 497,
+    "Name": "Nick Lumb"
+  },
+  {
+    "AuthorID": 498,
+    "Name": "Winifred Van Etten"
+  },
+  {
+    "AuthorID": 499,
+    "Name": "William Gardner Bell"
+  },
+  {
+    "AuthorID": 500,
+    "Name": "Susan M. Yohn"
+  },
+  {
+    "AuthorID": 501,
+    "Name": "Card Emily and Kelly Christie Watts"
+  },
+  {
+    "AuthorID": 502,
+    "Name": "Phillip Finch"
+  },
+  {
+    "AuthorID": 503,
+    "Name": "Alexander Welsh"
+  },
+  {
+    "AuthorID": 504,
+    "Name": "Allen D. Bragdon"
+  },
+  {
+    "AuthorID": 505,
+    "Name": "Kate Kelly"
+  },
+  {
+    "AuthorID": 506,
+    "Name": "Jackson Albert and Day David"
+  },
+  {
+    "AuthorID": 507,
+    "Name": "Charles Piazzi Smyth"
+  },
+  {
+    "AuthorID": 508,
+    "Name": "Peter L. Bergen"
+  },
+  {
+    "AuthorID": 509,
+    "Name": "DiSpirito Rocco Leutwyler Henry and Sherer Kris"
+  },
+  {
+    "AuthorID": 510,
+    "Name": "Wegman William Kismaric Carole and Heiferman Marvin"
+  },
+  {
+    "AuthorID": 511,
+    "Name": "Susan Miller"
+  },
+  {
+    "AuthorID": 512,
+    "Name": "Gardenway Book (EDT)"
+  },
+  {
+    "AuthorID": 513,
+    "Name": "Sylvan Schendler"
+  },
+  {
+    "AuthorID": 514,
+    "Name": "Harry H. L. Kitano"
+  },
+  {
+    "AuthorID": 515,
+    "Name": "Jim C Lawson"
+  },
+  {
+    "AuthorID": 516,
+    "Name": "International Center of Photography (PHT) Hollander Anne (EDT) Handy Ellen (EDT) and Handy Ellen"
+  },
+  {
+    "AuthorID": 517,
+    "Name": "Bob Armstrong"
+  },
+  {
+    "AuthorID": 518,
+    "Name": "McCain John and Salter Mark"
+  },
+  {
+    "AuthorID": 519,
+    "Name": "Timperlake Edward and Triplett William C. II"
+  },
+  {
+    "AuthorID": 520,
+    "Name": "Patricia Reilly Giff"
+  },
+  {
+    "AuthorID": 521,
+    "Name": "Keeling Jan (EDT) and Jinkins Barbara"
+  },
+  {
+    "AuthorID": 522,
+    "Name": "Paul Wildish"
+  },
+  {
+    "AuthorID": 523,
+    "Name": "Eleanor Hallowell Abbott"
+  },
+  {
+    "AuthorID": 524,
+    "Name": "Carol S. Pearson"
+  },
+  {
+    "AuthorID": 525,
+    "Name": "Frank Yerby"
+  },
+  {
+    "AuthorID": 526,
+    "Name": "Katie Abey"
+  },
+  {
+    "AuthorID": 527,
+    "Name": "Parramon's Editorial Team (COR)"
+  },
+  {
+    "AuthorID": 528,
+    "Name": "Mark V. Nesbitt"
+  },
+  {
+    "AuthorID": 529,
+    "Name": "Franey Pierre Jarrett Lauren (ILT) and Flaste Richard"
+  },
+  {
+    "AuthorID": 530,
+    "Name": "John Boardman"
+  },
+  {
+    "AuthorID": 531,
+    "Name": "More Thomas Sir Saint and Ogden H. V. S. (EDT)"
+  },
+  {
+    "AuthorID": 532,
+    "Name": "Bernard Goldberg"
+  },
+  {
+    "AuthorID": 533,
+    "Name": "Sue Bender"
+  },
+  {
+    "AuthorID": 534,
+    "Name": "Nelson A LIEBERMAN"
+  },
+  {
+    "AuthorID": 535,
+    "Name": "Donna Smallin"
+  },
+  {
+    "AuthorID": 536,
+    "Name": "Harry Slone"
+  },
+  {
+    "AuthorID": 537,
+    "Name": "MacNelly Jeff and Margolis Jon"
+  },
+  {
+    "AuthorID": 538,
+    "Name": "Sanders Andrew Hughes Arthur and Hughes Thomas"
+  },
+  {
+    "AuthorID": 539,
+    "Name": "Ovid Melville A. D. (TRN) and Kenney E. J. (INT)"
+  },
+  {
+    "AuthorID": 540,
+    "Name": "Zola Emile Collier Peter (TRN) and Lethbridge Robert (TRN)"
+  },
+  {
+    "AuthorID": 541,
+    "Name": "California Coastal Commission Caughman Madge and Ginsberg Joanne S."
+  },
+  {
+    "AuthorID": 542,
+    "Name": "Bobbie Kalman"
+  },
+  {
+    "AuthorID": 543,
+    "Name": "Paul Gallico"
+  },
+  {
+    "AuthorID": 544,
+    "Name": "Salli Brand Jullie Collins Catherine Cumming Tricia Greening Katrina Hall Frances Halliday Clare Louise Hunt Joanna Jones Lawrence Llewelyn Bo"
+  },
+  {
+    "AuthorID": 545,
+    "Name": "Dillard J. M. and Dillar J. M."
+  },
+  {
+    "AuthorID": 546,
+    "Name": "Michael W. Fox"
+  },
+  {
+    "AuthorID": 547,
+    "Name": "Barber Phil and Didinger Ray"
+  },
+  {
+    "AuthorID": 548,
+    "Name": "Maureen Caudill"
+  },
+  {
+    "AuthorID": 549,
+    "Name": "Anne Fleming"
+  },
+  {
+    "AuthorID": 550,
+    "Name": "Better Homes and Gardens"
+  },
+  {
+    "AuthorID": 551,
+    "Name": "Carl Berman"
+  },
+  {
+    "AuthorID": 552,
+    "Name": "Thomas (EDT) Moore"
+  },
+  {
+    "AuthorID": 553,
+    "Name": "Rust Art and Marley Michael"
+  },
+  {
+    "AuthorID": 554,
+    "Name": "Jan Karon"
+  },
+  {
+    "AuthorID": 555,
+    "Name": "Hunsaker Phillip L. Cook Curtis W. and Coffey Robert E."
+  },
+  {
+    "AuthorID": 556,
+    "Name": "Minkin Mary Jane M.D. and Wright Carol V."
+  },
+  {
+    "AuthorID": 557,
+    "Name": "Davis Jim and Wallace Carol"
+  },
+  {
+    "AuthorID": 558,
+    "Name": "Jeanne C Scherer"
+  },
+  {
+    "AuthorID": 559,
+    "Name": "Mays Steven (PHT) and Sterbenz Carol Endler"
+  },
+  {
+    "AuthorID": 560,
+    "Name": "Michele Brown"
+  },
+  {
+    "AuthorID": 561,
+    "Name": "Berry Susan Laura Ashley (Firm) (COR) Ashley Laura and Kuscenko Valerie (EDT)"
+  },
+  {
+    "AuthorID": 562,
+    "Name": "Kim Isaac Eisler"
+  },
+  {
+    "AuthorID": 563,
+    "Name": "Richard H. Rush"
+  },
+  {
+    "AuthorID": 564,
+    "Name": "Steven A. (EDT) National Criminal Justice Commission (U. S.) (COR) and Donziger"
+  },
+  {
+    "AuthorID": 565,
+    "Name": "Michaela Muntean"
+  },
+  {
+    "AuthorID": 566,
+    "Name": "Wilner Abby and Stocker Catherine"
+  },
+  {
+    "AuthorID": 567,
+    "Name": "John Frohnmayer"
+  },
+  {
+    "AuthorID": 568,
+    "Name": "Sullivan Mary Beth and Bourke Linda"
+  },
+  {
+    "AuthorID": 569,
+    "Name": "Robert J. Ackerman"
+  },
+  {
+    "AuthorID": 570,
+    "Name": "Evans Walker and Rathbone Belinda"
+  },
+  {
+    "AuthorID": 571,
+    "Name": "C. Donald Ahrens"
+  },
+  {
+    "AuthorID": 572,
+    "Name": "Loftin T. L. and Zarambouka Sofia (ILT)"
+  },
+  {
+    "AuthorID": 573,
+    "Name": "Dennis Duke"
+  },
+  {
+    "AuthorID": 574,
+    "Name": "G. N. Georgano"
+  },
+  {
+    "AuthorID": 575,
+    "Name": "Stevenson Robert Louis and Letley Emma"
+  },
+  {
+    "AuthorID": 576,
+    "Name": "A. E. Jeffcoat"
+  },
+  {
+    "AuthorID": 577,
+    "Name": "Bernard Lewis"
+  },
+  {
+    "AuthorID": 578,
+    "Name": "R. McKenzie Fisher"
+  },
+  {
+    "AuthorID": 579,
+    "Name": "Wayne W. Dyer"
+  },
+  {
+    "AuthorID": 580,
+    "Name": "Balcomb Kenneth C. Foster Larry and Minasian Stanley M."
+  },
+  {
+    "AuthorID": 581,
+    "Name": "Risa Teitler"
+  },
+  {
+    "AuthorID": 582,
+    "Name": "Ingram Catherine and Gandhi Ramchandra (FRW)"
+  },
+  {
+    "AuthorID": 583,
+    "Name": "White E. B. and Thurber James"
+  },
+  {
+    "AuthorID": 584,
+    "Name": "Weston Owen McDaniel"
+  },
+  {
+    "AuthorID": 585,
+    "Name": "Martin Buxbaum"
+  },
+  {
+    "AuthorID": 586,
+    "Name": "Michael Buller"
+  },
+  {
+    "AuthorID": 587,
+    "Name": "Edward Hoagland"
+  },
+  {
+    "AuthorID": 588,
+    "Name": "Simpkinson Charles (EDT) and Simpkinson Anne (EDT)"
+  },
+  {
+    "AuthorID": 589,
+    "Name": "Thomas Translated by Cleary"
+  },
+  {
+    "AuthorID": 590,
+    "Name": "Patricia Meehan"
+  },
+  {
+    "AuthorID": 591,
+    "Name": "Jim Antoniou"
+  },
+  {
+    "AuthorID": 592,
+    "Name": "Hobhouse Penelope and McDonald Elvin (CON)"
+  },
+  {
+    "AuthorID": 593,
+    "Name": "Helen Walsh"
+  },
+  {
+    "AuthorID": 594,
+    "Name": "Francine Prose"
+  },
+  {
+    "AuthorID": 595,
+    "Name": "Peter H. Hassrick"
+  },
+  {
+    "AuthorID": 596,
+    "Name": "Braselton Susan Collier (EDT) Civil War Trust (U. S.) (EDT) Andrews Edgar M. (EDT) Birkhead Paul J. (EDT) Fix Julie K. (EDT) Gruber Elliot H. (EDT) and McMahon Danielle V. (EDT)"
+  },
+  {
+    "AuthorID": 597,
+    "Name": "Timothy Findley"
+  },
+  {
+    "AuthorID": 598,
+    "Name": "George Simon"
+  },
+  {
+    "AuthorID": 599,
+    "Name": "Robert Dallek"
+  },
+  {
+    "AuthorID": 600,
+    "Name": "Brenda Maddox"
+  },
+  {
+    "AuthorID": 601,
+    "Name": "Robert Stewart"
+  },
+  {
+    "AuthorID": 602,
+    "Name": "Sicherman Barbara (EDT) and Green Carol Hurd (EDT)"
+  },
+  {
+    "AuthorID": 603,
+    "Name": "Ernest B. Furgurson"
+  },
+  {
+    "AuthorID": 604,
+    "Name": "Leona A. Mourad"
+  },
+  {
+    "AuthorID": 605,
+    "Name": "Charles R. Swindoll"
+  },
+  {
+    "AuthorID": 606,
+    "Name": "Kimberley Snow"
+  },
+  {
+    "AuthorID": 607,
+    "Name": "John Edward"
+  },
+  {
+    "AuthorID": 608,
+    "Name": "Allison John R. Howell Rate A. and Prentice Robert A."
+  },
+  {
+    "AuthorID": 609,
+    "Name": "Roy Nickerson"
+  },
+  {
+    "AuthorID": 610,
+    "Name": "Joseph Nowinski"
+  },
+  {
+    "AuthorID": 611,
+    "Name": "Keegan Warren J. Moriarty Sandra Duncan Tom"
+  },
+  {
+    "AuthorID": 612,
+    "Name": "The New Yorker"
+  },
+  {
+    "AuthorID": 613,
+    "Name": "Anna Joy"
+  },
+  {
+    "AuthorID": 614,
+    "Name": "Blackstone Margaret and Snyderman Nancy L. M.D."
+  },
+  {
+    "AuthorID": 615,
+    "Name": "Elizabeth Graver"
+  },
+  {
+    "AuthorID": 616,
+    "Name": "Akhil Sharma"
+  },
+  {
+    "AuthorID": 617,
+    "Name": "Andrea Seigel"
+  },
+  {
+    "AuthorID": 618,
+    "Name": "Arthur Cotterell"
+  },
+  {
+    "AuthorID": 619,
+    "Name": "Carolyn G. Heilbrun"
+  },
+  {
+    "AuthorID": 620,
+    "Name": "Grossman David and Rosenberg Betsy (TRN)"
+  },
+  {
+    "AuthorID": 621,
+    "Name": "Richard J. Degrandpre"
+  },
+  {
+    "AuthorID": 622,
+    "Name": "Richard Kluger"
+  },
+  {
+    "AuthorID": 623,
+    "Name": "Robin Simons"
+  },
+  {
+    "AuthorID": 624,
+    "Name": "Birkhead Mike and Birkhead Tim"
+  },
+  {
+    "AuthorID": 625,
+    "Name": "Vincent Sheean"
+  },
+  {
+    "AuthorID": 626,
+    "Name": "Richard Stoneman"
+  },
+  {
+    "AuthorID": 627,
+    "Name": "Libo Kenneth and Howe Irving"
+  },
+  {
+    "AuthorID": 628,
+    "Name": "George Fowler"
+  },
+  {
+    "AuthorID": 629,
+    "Name": "Munson Ronald and Hoffman Christopher A."
+  },
+  {
+    "AuthorID": 630,
+    "Name": "Wynia"
+  },
+  {
+    "AuthorID": 631,
+    "Name": "James Spada"
+  },
+  {
+    "AuthorID": 632,
+    "Name": "Rh Value Publishing"
+  },
+  {
+    "AuthorID": 633,
+    "Name": "Nick Yapp"
+  },
+  {
+    "AuthorID": 634,
+    "Name": "Ellen Nakashima"
+  },
+  {
+    "AuthorID": 635,
+    "Name": "David McCullough"
+  },
+  {
+    "AuthorID": 636,
+    "Name": "DAYAN Ruth and Feinberg Willie"
+  },
+  {
+    "AuthorID": 637,
+    "Name": "Arthur W. Sherwood"
+  },
+  {
+    "AuthorID": 638,
+    "Name": "Alistair Cooke"
+  },
+  {
+    "AuthorID": 639,
+    "Name": "Rick Warren"
+  },
+  {
+    "AuthorID": 640,
+    "Name": "Li Robbins"
+  },
+  {
+    "AuthorID": 641,
+    "Name": "Jacobs Harriet Child Lydia Maria Francis and Brent L."
+  },
+  {
+    "AuthorID": 642,
+    "Name": "Mathis Robert L. and Jackson John H."
+  },
+  {
+    "AuthorID": 643,
+    "Name": "Nancy Springer"
+  },
+  {
+    "AuthorID": 644,
+    "Name": "Caitlin Macy"
+  },
+  {
+    "AuthorID": 645,
+    "Name": "Alex Zwerdling"
+  },
+  {
+    "AuthorID": 646,
+    "Name": "Jewell Diana Lewis Rex (ILT) and Rex"
+  },
+  {
+    "AuthorID": 647,
+    "Name": "Jamison Cheryl Alters Jamison Bill and Shaw Bruce"
+  },
+  {
+    "AuthorID": 648,
+    "Name": "Richard Ferber"
+  },
+  {
+    "AuthorID": 649,
+    "Name": "Liza Dalby"
+  },
+  {
+    "AuthorID": 650,
+    "Name": "Robert Alter"
+  },
+  {
+    "AuthorID": 651,
+    "Name": "FISHER"
+  },
+  {
+    "AuthorID": 652,
+    "Name": "Warren F. Walker"
+  },
+  {
+    "AuthorID": 653,
+    "Name": "Miller Moira and Deuchar Ian (ILT)"
+  },
+  {
+    "AuthorID": 654,
+    "Name": "Stephen Greenleaf"
+  },
+  {
+    "AuthorID": 655,
+    "Name": "Nancy Mairs"
+  },
+  {
+    "AuthorID": 656,
+    "Name": "Cole Benjamin and Gurr Nadine"
+  },
+  {
+    "AuthorID": 657,
+    "Name": "Jon (EDT) Winokur"
+  },
+  {
+    "AuthorID": 658,
+    "Name": "Harold Gale"
+  },
+  {
+    "AuthorID": 659,
+    "Name": "Daniel Okrent"
+  },
+  {
+    "AuthorID": 660,
+    "Name": "Stephen Birmingham"
+  },
+  {
+    "AuthorID": 661,
+    "Name": "Carol B. Stack"
+  },
+  {
+    "AuthorID": 662,
+    "Name": "Goldman Francisco and Golman Francisco"
+  },
+  {
+    "AuthorID": 663,
+    "Name": "Robert W. Merry"
+  },
+  {
+    "AuthorID": 664,
+    "Name": "Frank J. Sulloway"
+  },
+  {
+    "AuthorID": 665,
+    "Name": "Mariners' Museum (Newport News Va.) (COR) Geer George S. (EDT) and Marvel William (EDT)"
+  },
+  {
+    "AuthorID": 666,
+    "Name": "Lester Joan Steinau and Norton Eleanor Holmes"
+  },
+  {
+    "AuthorID": 667,
+    "Name": "Frank R. Shivers"
+  },
+  {
+    "AuthorID": 668,
+    "Name": "Frederick Busch"
+  },
+  {
+    "AuthorID": 669,
+    "Name": "Ann Reilly"
+  },
+  {
+    "AuthorID": 670,
+    "Name": "Paul L. Maier"
+  },
+  {
+    "AuthorID": 671,
+    "Name": "Felicia (EDT) Mitchell"
+  },
+  {
+    "AuthorID": 672,
+    "Name": "William Moore"
+  },
+  {
+    "AuthorID": 673,
+    "Name": "Levine Kathy Scovell Jane and Appleton Amy Sarah"
+  },
+  {
+    "AuthorID": 674,
+    "Name": "Susan Kuklin"
+  },
+  {
+    "AuthorID": 675,
+    "Name": "York Sarah Mountbatten-Windsor Duchess of"
+  },
+  {
+    "AuthorID": 676,
+    "Name": "Kolman Bernard and Hill David R."
+  },
+  {
+    "AuthorID": 677,
+    "Name": "Christopher G. Janus"
+  },
+  {
+    "AuthorID": 678,
+    "Name": "Freedman Estelle B. and D'Emilio John"
+  },
+  {
+    "AuthorID": 679,
+    "Name": "Michael Medved"
+  },
+  {
+    "AuthorID": 680,
+    "Name": "Miller Anistatia R. and Brown Jared M."
+  },
+  {
+    "AuthorID": 681,
+    "Name": "R. P Blackmur"
+  },
+  {
+    "AuthorID": 682,
+    "Name": "Robert Bausch"
+  },
+  {
+    "AuthorID": 683,
+    "Name": "Reed E. Hundt"
+  },
+  {
+    "AuthorID": 684,
+    "Name": "Steven M. Krauzer"
+  },
+  {
+    "AuthorID": 685,
+    "Name": "Abba Solomon Eban"
+  },
+  {
+    "AuthorID": 686,
+    "Name": "Stormie Omartian"
+  },
+  {
+    "AuthorID": 687,
+    "Name": "Paul M. Barrett"
+  },
+  {
+    "AuthorID": 688,
+    "Name": "David Hume"
+  },
+  {
+    "AuthorID": 689,
+    "Name": "John Arthur"
+  },
+  {
+    "AuthorID": 690,
+    "Name": "Parker Robert M. Jr."
+  },
+  {
+    "AuthorID": 691,
+    "Name": "F. David Peat"
+  },
+  {
+    "AuthorID": 692,
+    "Name": "Larry E Jordan"
+  },
+  {
+    "AuthorID": 693,
+    "Name": "Diagram Group"
+  },
+  {
+    "AuthorID": 694,
+    "Name": "Anne Director"
+  },
+  {
+    "AuthorID": 695,
+    "Name": "Sandra Gulland"
+  },
+  {
+    "AuthorID": 696,
+    "Name": "Karen Levine"
+  },
+  {
+    "AuthorID": 697,
+    "Name": "Jackie Collins"
+  },
+  {
+    "AuthorID": 698,
+    "Name": "William B. Harwood"
+  },
+  {
+    "AuthorID": 699,
+    "Name": "Sabatino David A."
+  },
+  {
+    "AuthorID": 700,
+    "Name": "Gerald Bullett"
+  },
+  {
+    "AuthorID": 701,
+    "Name": "Williams Mark E. M.D."
+  },
+  {
+    "AuthorID": 702,
+    "Name": "Patterson Debbie (PHT) Thompson Sue and Coe Miriam"
+  },
+  {
+    "AuthorID": 703,
+    "Name": "Shakespeare William and Seward Tim (EDT)"
+  },
+  {
+    "AuthorID": 704,
+    "Name": "Theodora Ward"
+  },
+  {
+    "AuthorID": 705,
+    "Name": "Kidd Charles and Montague-Smith Patrick"
+  },
+  {
+    "AuthorID": 706,
+    "Name": "Dick Clark"
+  },
+  {
+    "AuthorID": 707,
+    "Name": "Daniel Rapoport"
+  },
+  {
+    "AuthorID": 708,
+    "Name": "Goodman Jordan Elliot and Bloch H. I. Sonny"
+  },
+  {
+    "AuthorID": 709,
+    "Name": "Bachmann E. Theodore Bachmann Mercia Brenne and Rorem Paul (EDT)"
+  },
+  {
+    "AuthorID": 710,
+    "Name": "Charles L. Allen"
+  },
+  {
+    "AuthorID": 711,
+    "Name": "William E. Leuchtenburg"
+  },
+  {
+    "AuthorID": 712,
+    "Name": "Edward MacKin"
+  },
+  {
+    "AuthorID": 713,
+    "Name": "Sandra Lee Stuart"
+  },
+  {
+    "AuthorID": 714,
+    "Name": "Desalvo Louise D'Arcy Kathleen Walsh and Hogan Katherine"
+  },
+  {
+    "AuthorID": 715,
+    "Name": "Joseph Durso"
+  },
+  {
+    "AuthorID": 716,
+    "Name": "Larraine Segil"
+  },
+  {
+    "AuthorID": 717,
+    "Name": "Tom Sharpe"
+  },
+  {
+    "AuthorID": 718,
+    "Name": "Joel Arthur Barker"
+  },
+  {
+    "AuthorID": 719,
+    "Name": "Gina Moore"
+  },
+  {
+    "AuthorID": 720,
+    "Name": "Joe Garner"
+  },
+  {
+    "AuthorID": 721,
+    "Name": "Moe Richard and Wilkie Carter"
+  },
+  {
+    "AuthorID": 722,
+    "Name": "Kimber Rita (TRN) Kimber Robert (TRN) and Muller Melissa"
+  },
+  {
+    "AuthorID": 723,
+    "Name": "Betty Kelen"
+  },
+  {
+    "AuthorID": 724,
+    "Name": "Betty Cavage"
+  },
+  {
+    "AuthorID": 725,
+    "Name": "Izzo John B. and Klein Eric"
+  },
+  {
+    "AuthorID": 726,
+    "Name": "Arthur H. (editor) Sanfelici"
+  },
+  {
+    "AuthorID": 727,
+    "Name": "Donald B. Kraybill"
+  },
+  {
+    "AuthorID": 728,
+    "Name": "Michael S. Barry"
+  },
+  {
+    "AuthorID": 729,
+    "Name": "Nevill Drury"
+  },
+  {
+    "AuthorID": 730,
+    "Name": "John Rosemond"
+  },
+  {
+    "AuthorID": 731,
+    "Name": "Joe Drape"
+  },
+  {
+    "AuthorID": 732,
+    "Name": "Paton Bruce C. M.D."
+  },
+  {
+    "AuthorID": 733,
+    "Name": "Bergman Ingmar and Tate Joan (TRN)"
+  },
+  {
+    "AuthorID": 734,
+    "Name": "Ellen Cochran (EDT) Smithsonian Institution (COR) and Hirzy"
+  },
+  {
+    "AuthorID": 735,
+    "Name": "Frank Moriarty"
+  },
+  {
+    "AuthorID": 736,
+    "Name": "Michael P. Gleason"
+  },
+  {
+    "AuthorID": 737,
+    "Name": "Brian (ILT) Avi and Floca"
+  },
+  {
+    "AuthorID": 738,
+    "Name": "Stephen J. Krasemann"
+  },
+  {
+    "AuthorID": 739,
+    "Name": "Vanzant Iyanla and Wilcots Almasi"
+  },
+  {
+    "AuthorID": 740,
+    "Name": "Iyanla Vanzant"
+  },
+  {
+    "AuthorID": 741,
+    "Name": "Norman Rosenthal"
+  },
+  {
+    "AuthorID": 742,
+    "Name": "Mark (EDT) Thompson"
+  },
+  {
+    "AuthorID": 743,
+    "Name": "Jackowski Edward J. Ph.D. and Jeffers Youzell (ILT)"
+  },
+  {
+    "AuthorID": 744,
+    "Name": "Sigmund Brouwer"
+  },
+  {
+    "AuthorID": 745,
+    "Name": "Abby Aldrich Rockefeller Folk Art Museum"
+  },
+  {
+    "AuthorID": 746,
+    "Name": "Deborah Morgenthal"
+  },
+  {
+    "AuthorID": 747,
+    "Name": "Sweetman Bill and Goodall James"
+  },
+  {
+    "AuthorID": 748,
+    "Name": "Anthony Depalma"
+  },
+  {
+    "AuthorID": 749,
+    "Name": "Kathleen A. Cole"
+  },
+  {
+    "AuthorID": 750,
+    "Name": "RICHARD A. WOLTERS"
+  },
+  {
+    "AuthorID": 751,
+    "Name": "Maria Von Matthiessen"
+  },
+  {
+    "AuthorID": 752,
+    "Name": "McLoughlin J.A. Lewis R.B."
+  },
+  {
+    "AuthorID": 753,
+    "Name": "Sidney M. Jourard"
+  },
+  {
+    "AuthorID": 754,
+    "Name": "H. W. Menard"
+  },
+  {
+    "AuthorID": 755,
+    "Name": "Peggy Harvey"
+  },
+  {
+    "AuthorID": 756,
+    "Name": "Sheri Holman"
+  },
+  {
+    "AuthorID": 757,
+    "Name": "Margaret E. Pearsall"
+  },
+  {
+    "AuthorID": 758,
+    "Name": "Gerald White Johnson"
+  },
+  {
+    "AuthorID": 759,
+    "Name": "Donna Fisher"
+  },
+  {
+    "AuthorID": 760,
+    "Name": "Susan C. Vaughan"
+  },
+  {
+    "AuthorID": 761,
+    "Name": "Lee Davis Willoughby"
+  },
+  {
+    "AuthorID": 762,
+    "Name": "Claudia Wiilds"
+  },
+  {
+    "AuthorID": 763,
+    "Name": "Marie Oge Beale"
+  },
+  {
+    "AuthorID": 764,
+    "Name": "Kenneth A. Briggs"
+  },
+  {
+    "AuthorID": 765,
+    "Name": "Harold J. Rothwax"
+  },
+  {
+    "AuthorID": 766,
+    "Name": "Paul A. Schweizer"
+  },
+  {
+    "AuthorID": 767,
+    "Name": "J. Anthony Lukas"
+  },
+  {
+    "AuthorID": 768,
+    "Name": "Robert N. (EDT) Corley"
+  },
+  {
+    "AuthorID": 769,
+    "Name": "Joseph Gies"
+  },
+  {
+    "AuthorID": 770,
+    "Name": "Monteleone John J. and Rickey Branch"
+  },
+  {
+    "AuthorID": 771,
+    "Name": "Cynthia A Hoover"
+  },
+  {
+    "AuthorID": 772,
+    "Name": "James Gleick"
+  },
+  {
+    "AuthorID": 773,
+    "Name": "Cynthia Heimel"
+  },
+  {
+    "AuthorID": 774,
+    "Name": "Rick and Delta Queen Steamboat Co. Rodgers"
+  },
+  {
+    "AuthorID": 775,
+    "Name": "David (EDT) Mazel"
+  },
+  {
+    "AuthorID": 776,
+    "Name": "Carol Ann Rinzler"
+  },
+  {
+    "AuthorID": 777,
+    "Name": "Elmer T. Clark"
+  },
+  {
+    "AuthorID": 778,
+    "Name": "Daniel (EDT) Halpern"
+  },
+  {
+    "AuthorID": 779,
+    "Name": "Jerzy Lileyko"
+  },
+  {
+    "AuthorID": 780,
+    "Name": "Harriet Goldhor Lerner"
+  },
+  {
+    "AuthorID": 781,
+    "Name": "Garry K. Kasparov"
+  },
+  {
+    "AuthorID": 782,
+    "Name": "Neil A. Grauer"
+  },
+  {
+    "AuthorID": 783,
+    "Name": "Prisco Andrew De and De Prisco Andrew"
+  },
+  {
+    "AuthorID": 784,
+    "Name": "Sarah Strohmeyer"
+  },
+  {
+    "AuthorID": 785,
+    "Name": "Julia Barrett"
+  },
+  {
+    "AuthorID": 786,
+    "Name": "James M. Henslin"
+  },
+  {
+    "AuthorID": 787,
+    "Name": "Sunset Ed"
+  },
+  {
+    "AuthorID": 788,
+    "Name": "Heilbroner David and Keeney Steven"
+  },
+  {
+    "AuthorID": 789,
+    "Name": "John Lehman"
+  },
+  {
+    "AuthorID": 790,
+    "Name": "Albert Michael (EDT) and Dellinger Dave (EDT)"
+  },
+  {
+    "AuthorID": 791,
+    "Name": "Frank Trapp"
+  },
+  {
+    "AuthorID": 792,
+    "Name": "William Katz"
+  },
+  {
+    "AuthorID": 793,
+    "Name": "Howard I. Leftin"
+  },
+  {
+    "AuthorID": 794,
+    "Name": "McClelland Deke and McClelland Daniel"
+  },
+  {
+    "AuthorID": 795,
+    "Name": "Burgess Linda (PHT) Carter Clare and Clare Carter"
+  },
+  {
+    "AuthorID": 796,
+    "Name": "Morgan Diane Brooks Karen Darmon Reed and Adams Beth (ILT)"
+  },
+  {
+    "AuthorID": 797,
+    "Name": "Erma Bombeck"
+  },
+  {
+    "AuthorID": 798,
+    "Name": "George Alec Effinger"
+  },
+  {
+    "AuthorID": 799,
+    "Name": "Al (EDT) Silverman"
+  },
+  {
+    "AuthorID": 800,
+    "Name": "Griffiths Paul Neighbour Oliver and Perle George"
+  },
+  {
+    "AuthorID": 801,
+    "Name": "Arthur Mizener"
+  },
+  {
+    "AuthorID": 802,
+    "Name": "Robert M. Rosenzweig"
+  },
+  {
+    "AuthorID": 803,
+    "Name": "Galen Grimes"
+  },
+  {
+    "AuthorID": 804,
+    "Name": "Sarah Stevenson"
+  },
+  {
+    "AuthorID": 805,
+    "Name": "Slung Michele and Lindbergh Reeve (INT)"
+  },
+  {
+    "AuthorID": 806,
+    "Name": "Todd S. Purdum"
+  },
+  {
+    "AuthorID": 807,
+    "Name": "Morris Dick and McGann Eileen"
+  },
+  {
+    "AuthorID": 808,
+    "Name": "Chris Jesse"
+  },
+  {
+    "AuthorID": 809,
+    "Name": "Sarah (EDT) Cooper"
+  },
+  {
+    "AuthorID": 810,
+    "Name": "William Hallberg"
+  },
+  {
+    "AuthorID": 811,
+    "Name": "E. Fuller Torrey"
+  },
+  {
+    "AuthorID": 812,
+    "Name": "West Cornel and Sealey Kelvin Shawn"
+  },
+  {
+    "AuthorID": 813,
+    "Name": "Ben Higgs"
+  },
+  {
+    "AuthorID": 814,
+    "Name": "Courtney Long"
+  },
+  {
+    "AuthorID": 815,
+    "Name": "Barbara Grizzuti Harrison"
+  },
+  {
+    "AuthorID": 816,
+    "Name": "Brian Wilson Aldiss"
+  },
+  {
+    "AuthorID": 817,
+    "Name": "A. Doak (EDT) Barnett"
+  },
+  {
+    "AuthorID": 818,
+    "Name": "Sidney Perkowitz"
+  },
+  {
+    "AuthorID": 819,
+    "Name": "Walter J. Boyne"
+  },
+  {
+    "AuthorID": 820,
+    "Name": "John Clancy"
+  },
+  {
+    "AuthorID": 821,
+    "Name": "Lieberman Leo and Beringause Arthur F."
+  },
+  {
+    "AuthorID": 822,
+    "Name": "Shereen Gertel Rutmand"
+  },
+  {
+    "AuthorID": 823,
+    "Name": "Vicky Shiotsu"
+  },
+  {
+    "AuthorID": 824,
+    "Name": "Beryl Markham"
+  },
+  {
+    "AuthorID": 825,
+    "Name": "Jensen Eric and McPherson Charles (ILT)"
+  },
+  {
+    "AuthorID": 826,
+    "Name": "John Robert Young"
+  },
+  {
+    "AuthorID": 827,
+    "Name": "Cosby Bill (FRW) Croce Pat and Lyon Bill"
+  },
+  {
+    "AuthorID": 828,
+    "Name": "Raymer Dottie Jacobson Jennifer and Parent-Teacher Advisory Board (COR)"
+  },
+  {
+    "AuthorID": 829,
+    "Name": "Joseph R. Mancuso"
+  },
+  {
+    "AuthorID": 830,
+    "Name": "Pesach Krauss"
+  },
+  {
+    "AuthorID": 831,
+    "Name": "Berlie Doherty"
+  },
+  {
+    "AuthorID": 832,
+    "Name": "Lewis M. (EDT) Branscomb"
+  },
+  {
+    "AuthorID": 833,
+    "Name": "Jimmie Cook"
+  },
+  {
+    "AuthorID": 834,
+    "Name": "Amos Pettingill"
+  },
+  {
+    "AuthorID": 835,
+    "Name": "Kirk Mitchell"
+  },
+  {
+    "AuthorID": 836,
+    "Name": "National Museum of American Art (U. S.) (COR) Driesbach Janice Tolhurst Jones Harvey Holland Katherine Church Oakland Museum (COR) and Crocker Art Museum (COR)"
+  },
+  {
+    "AuthorID": 837,
+    "Name": "Leslie Garisto"
+  },
+  {
+    "AuthorID": 838,
+    "Name": "Deborah Tannen"
+  },
+  {
+    "AuthorID": 839,
+    "Name": "Peter Burchard"
+  },
+  {
+    "AuthorID": 840,
+    "Name": "Mader"
+  },
+  {
+    "AuthorID": 841,
+    "Name": "Cleanth Brooks"
+  },
+  {
+    "AuthorID": 842,
+    "Name": "Nancy J. Chodorow"
+  },
+  {
+    "AuthorID": 843,
+    "Name": "Alan Wolfe"
+  },
+  {
+    "AuthorID": 844,
+    "Name": "Ann Seranne"
+  },
+  {
+    "AuthorID": 845,
+    "Name": "Ross Benson"
+  },
+  {
+    "AuthorID": 846,
+    "Name": "Better Homes and Gardens Books"
+  },
+  {
+    "AuthorID": 847,
+    "Name": "Alexander Chancellor"
+  },
+  {
+    "AuthorID": 848,
+    "Name": "Gloria (EDT) Hale"
+  },
+  {
+    "AuthorID": 849,
+    "Name": "Anne (EDT) Magruder"
+  },
+  {
+    "AuthorID": 850,
+    "Name": "Elizabeth Wilkinson"
+  },
+  {
+    "AuthorID": 851,
+    "Name": "American American Education Publishing"
+  },
+  {
+    "AuthorID": 852,
+    "Name": "Marianne Williamson"
+  },
+  {
+    "AuthorID": 853,
+    "Name": "Brent Kelley"
+  },
+  {
+    "AuthorID": 854,
+    "Name": "E. D. (EDT) Hirsch"
+  },
+  {
+    "AuthorID": 855,
+    "Name": "Kathleen Desmond Stang"
+  },
+  {
+    "AuthorID": 856,
+    "Name": "Dornfest Rael and Hemenway Kevin"
+  },
+  {
+    "AuthorID": 857,
+    "Name": "Kinky Friedman"
+  },
+  {
+    "AuthorID": 858,
+    "Name": "Christina Lessa"
+  },
+  {
+    "AuthorID": 859,
+    "Name": "Jacques Brian and Schoenherr Ian (ILT)"
+  },
+  {
+    "AuthorID": 860,
+    "Name": "Peter Benchley"
+  },
+  {
+    "AuthorID": 861,
+    "Name": "Andrew M. Greeley"
+  },
+  {
+    "AuthorID": 862,
+    "Name": "Barbara Gregorich"
+  },
+  {
+    "AuthorID": 863,
+    "Name": "Jack P. Jones"
+  },
+  {
+    "AuthorID": 864,
+    "Name": "Stephen S. Hall"
+  },
+  {
+    "AuthorID": 865,
+    "Name": "Ann Douglas"
+  },
+  {
+    "AuthorID": 866,
+    "Name": "Judy Sheridan"
+  },
+  {
+    "AuthorID": 867,
+    "Name": "Gordon W. Green"
+  },
+  {
+    "AuthorID": 868,
+    "Name": "Ideals Publications Inc"
+  },
+  {
+    "AuthorID": 869,
+    "Name": "Harry Turtledove"
+  },
+  {
+    "AuthorID": 870,
+    "Name": "Lawana Blackwell"
+  },
+  {
+    "AuthorID": 871,
+    "Name": "Webb B. Garrison"
+  },
+  {
+    "AuthorID": 872,
+    "Name": "Rogers Barbara Radcliffe and Rogers Stillman"
+  },
+  {
+    "AuthorID": 873,
+    "Name": "Waters Jason T. Rees Matthew J. and Coe Jeffrey T."
+  },
+  {
+    "AuthorID": 874,
+    "Name": "Pat Montandon"
+  },
+  {
+    "AuthorID": 875,
+    "Name": "Harriet Scott Chessman"
+  },
+  {
+    "AuthorID": 876,
+    "Name": "Sweet Melissa (ILT) and Bridges Margaret Park"
+  },
+  {
+    "AuthorID": 877,
+    "Name": "Alexander McCall Smith"
+  },
+  {
+    "AuthorID": 878,
+    "Name": "Hillary Davis"
+  },
+  {
+    "AuthorID": 879,
+    "Name": "Weaver Earl and Rodriguiz Alex"
+  },
+  {
+    "AuthorID": 880,
+    "Name": "Karen Andes"
+  },
+  {
+    "AuthorID": 881,
+    "Name": "Stephen Steinberg"
+  },
+  {
+    "AuthorID": 882,
+    "Name": "Kent M. Keith"
+  },
+  {
+    "AuthorID": 883,
+    "Name": "William Westbrook (EDT) Burton"
+  },
+  {
+    "AuthorID": 884,
+    "Name": "Morris Glenn and Glenn Morris"
+  },
+  {
+    "AuthorID": 885,
+    "Name": "Harold Ivan Smith"
+  },
+  {
+    "AuthorID": 886,
+    "Name": "Jane Hope"
+  },
+  {
+    "AuthorID": 887,
+    "Name": "Jan White"
+  },
+  {
+    "AuthorID": 888,
+    "Name": "Wayne A Kirkbride"
+  },
+  {
+    "AuthorID": 889,
+    "Name": "Jean-Claude Suares"
+  },
+  {
+    "AuthorID": 890,
+    "Name": "Eric Herrmann"
+  },
+  {
+    "AuthorID": 891,
+    "Name": "Charles (EDT) and Gwathmey Siegel & Associates Architects (COR) Gwathmey"
+  },
+  {
+    "AuthorID": 892,
+    "Name": "Bill Boyd"
+  },
+  {
+    "AuthorID": 893,
+    "Name": "Christopher Hodder-Williams"
+  },
+  {
+    "AuthorID": 894,
+    "Name": "Lois-Ann Yamanaka"
+  },
+  {
+    "AuthorID": 895,
+    "Name": "Coerte V. W. Felske"
+  },
+  {
+    "AuthorID": 896,
+    "Name": "Fergus Allen"
+  },
+  {
+    "AuthorID": 897,
+    "Name": "Christopher Hampton"
+  },
+  {
+    "AuthorID": 898,
+    "Name": "Elizabeth Gray Vining"
+  },
+  {
+    "AuthorID": 899,
+    "Name": "Robert Eversz"
+  },
+  {
+    "AuthorID": 900,
+    "Name": "Seppi Renggli"
+  },
+  {
+    "AuthorID": 901,
+    "Name": "Terence Conran"
+  },
+  {
+    "AuthorID": 902,
+    "Name": "Cornell James (EDT) and Carr John (EDT)"
+  },
+  {
+    "AuthorID": 903,
+    "Name": "Doug Mitchel"
+  },
+  {
+    "AuthorID": 904,
+    "Name": "F. Forrester Church"
+  },
+  {
+    "AuthorID": 905,
+    "Name": "Susan Winslow (EDT) Hodge"
+  },
+  {
+    "AuthorID": 906,
+    "Name": "Wendon Blake"
+  },
+  {
+    "AuthorID": 907,
+    "Name": "Patricia A. Pingry"
+  },
+  {
+    "AuthorID": 908,
+    "Name": "James C. Hefley"
+  },
+  {
+    "AuthorID": 909,
+    "Name": "Michael Hirsh"
+  },
+  {
+    "AuthorID": 910,
+    "Name": "Catherine Brighton"
+  },
+  {
+    "AuthorID": 911,
+    "Name": "Daniel Gavron"
+  },
+  {
+    "AuthorID": 912,
+    "Name": "Andrew Morris"
+  },
+  {
+    "AuthorID": 913,
+    "Name": "Roderick MacLeish"
+  },
+  {
+    "AuthorID": 914,
+    "Name": "Zubrow Ezra B. W. etc. Fritz Margaret C."
+  },
+  {
+    "AuthorID": 915,
+    "Name": "Daniel Partner"
+  },
+  {
+    "AuthorID": 916,
+    "Name": "Thompson Flora and Shuckburgh Julian"
+  },
+  {
+    "AuthorID": 917,
+    "Name": "Alan Gussow"
+  },
+  {
+    "AuthorID": 918,
+    "Name": "Bowman Marjorie A. (EDT) and Fisher Judith A. (EDT)"
+  },
+  {
+    "AuthorID": 919,
+    "Name": "Bernard G Campbell"
+  },
+  {
+    "AuthorID": 920,
+    "Name": "Dorothy Sucher"
+  },
+  {
+    "AuthorID": 921,
+    "Name": "Costello Peter and Jackson John Wyse"
+  },
+  {
+    "AuthorID": 922,
+    "Name": "Barbara Paul"
+  },
+  {
+    "AuthorID": 923,
+    "Name": "Hochschild Arlie Russell and Machung Anne"
+  },
+  {
+    "AuthorID": 924,
+    "Name": "Anthony C. Meisel"
+  },
+  {
+    "AuthorID": 925,
+    "Name": "Alexander Liberman"
+  },
+  {
+    "AuthorID": 926,
+    "Name": "Stephens Gloria and Yamazaki Tetsu (PHT)"
+  },
+  {
+    "AuthorID": 927,
+    "Name": "Jean Carper"
+  },
+  {
+    "AuthorID": 928,
+    "Name": "Falkner David and Morgan Joe"
+  },
+  {
+    "AuthorID": 929,
+    "Name": "Michael A. Reed"
+  },
+  {
+    "AuthorID": 930,
+    "Name": "Betty Groff"
+  },
+  {
+    "AuthorID": 931,
+    "Name": "Peter Maas"
+  },
+  {
+    "AuthorID": 932,
+    "Name": "Wendy Williams"
+  },
+  {
+    "AuthorID": 933,
+    "Name": "Ellington Darden"
+  },
+  {
+    "AuthorID": 934,
+    "Name": "Jim Flegg"
+  },
+  {
+    "AuthorID": 935,
+    "Name": "Lane Phalen"
+  },
+  {
+    "AuthorID": 936,
+    "Name": "E. C. Ayres"
+  },
+  {
+    "AuthorID": 937,
+    "Name": "Harrisson John Coleman Jim and Hagan Candace"
+  },
+  {
+    "AuthorID": 938,
+    "Name": "Adele Logan Alexander"
+  },
+  {
+    "AuthorID": 939,
+    "Name": "McNamara Robert S. and Blight James G."
+  },
+  {
+    "AuthorID": 940,
+    "Name": "David Moats"
+  },
+  {
+    "AuthorID": 941,
+    "Name": "Marghanita Laski"
+  },
+  {
+    "AuthorID": 942,
+    "Name": "G Bh"
+  },
+  {
+    "AuthorID": 943,
+    "Name": "Colum McCann"
+  },
+  {
+    "AuthorID": 944,
+    "Name": "Glen Rounds"
+  },
+  {
+    "AuthorID": 945,
+    "Name": "Gail Evans"
+  },
+  {
+    "AuthorID": 946,
+    "Name": "Bowman Martin W. and Bunce Patrick (PHT)"
+  },
+  {
+    "AuthorID": 947,
+    "Name": "Judy Fireman"
+  },
+  {
+    "AuthorID": 948,
+    "Name": "John Benson"
+  },
+  {
+    "AuthorID": 949,
+    "Name": "James L. Swanson"
+  },
+  {
+    "AuthorID": 950,
+    "Name": "Philip F. O'Connor"
+  },
+  {
+    "AuthorID": 951,
+    "Name": "S. L. Viehl"
+  },
+  {
+    "AuthorID": 952,
+    "Name": "Nathaniel Benchley"
+  },
+  {
+    "AuthorID": 953,
+    "Name": "Lunden Joan and Morton Laura"
+  },
+  {
+    "AuthorID": 954,
+    "Name": "Donelson R. Forsyth"
+  },
+  {
+    "AuthorID": 955,
+    "Name": "Mohr Stephen Baartse Mark (EDT) Hahn Steven Loesgen Brian Blair Richard Homer Alex Haines Corey Dalvi Dinar Slater John Zucca Mario Bolognese Luca Williams Kevin and Kropog Bill"
+  },
+  {
+    "AuthorID": 956,
+    "Name": "Jane Brox"
+  },
+  {
+    "AuthorID": 957,
+    "Name": "Thomas Chastain"
+  },
+  {
+    "AuthorID": 958,
+    "Name": "Peter Reese"
+  },
+  {
+    "AuthorID": 959,
+    "Name": "Dennis Rainey"
+  },
+  {
+    "AuthorID": 960,
+    "Name": "Robert Olen Butler"
+  },
+  {
+    "AuthorID": 961,
+    "Name": "Hines Rick Larson Mark K. and Platta Dave"
+  },
+  {
+    "AuthorID": 962,
+    "Name": "Comp Allan"
+  },
+  {
+    "AuthorID": 963,
+    "Name": "Joann Davis"
+  },
+  {
+    "AuthorID": 964,
+    "Name": "Steve Knickmeyer"
+  },
+  {
+    "AuthorID": 965,
+    "Name": "Piers Anthony"
+  },
+  {
+    "AuthorID": 966,
+    "Name": "Janicak Philip G. Davis John M. Preskorn Sheldon H. M.D. and Ayd Frank J. Jr."
+  },
+  {
+    "AuthorID": 967,
+    "Name": "Hart Russell and Richards Dan"
+  },
+  {
+    "AuthorID": 968,
+    "Name": "Louis W. Pauly"
+  },
+  {
+    "AuthorID": 969,
+    "Name": "Robert Perkins"
+  },
+  {
+    "AuthorID": 970,
+    "Name": "Abraham Rothberg"
+  },
+  {
+    "AuthorID": 971,
+    "Name": "Emily Martin"
+  },
+  {
+    "AuthorID": 972,
+    "Name": "G. Russell Evans"
+  },
+  {
+    "AuthorID": 973,
+    "Name": "Rosemary Nicol"
+  },
+  {
+    "AuthorID": 974,
+    "Name": "Jacqueline Jones"
+  },
+  {
+    "AuthorID": 975,
+    "Name": "Food Wine Staff"
+  },
+  {
+    "AuthorID": 976,
+    "Name": "Alison Smith"
+  },
+  {
+    "AuthorID": 977,
+    "Name": "Time-Life Books (COR)"
+  },
+  {
+    "AuthorID": 978,
+    "Name": "Mark Salzman"
+  },
+  {
+    "AuthorID": 979,
+    "Name": "Martin Bowman"
+  },
+  {
+    "AuthorID": 980,
+    "Name": "Elaine Prizzi"
+  },
+  {
+    "AuthorID": 981,
+    "Name": "Joseph Darracott"
+  },
+  {
+    "AuthorID": 982,
+    "Name": "Harris Mark and Boswell James"
+  },
+  {
+    "AuthorID": 983,
+    "Name": "David Lamb"
+  },
+  {
+    "AuthorID": 984,
+    "Name": "J. M. Barrie"
+  },
+  {
+    "AuthorID": 985,
+    "Name": "Jennie Reekie"
+  },
+  {
+    "AuthorID": 986,
+    "Name": "Han Nolan"
+  },
+  {
+    "AuthorID": 987,
+    "Name": "George Garrett"
+  },
+  {
+    "AuthorID": 988,
+    "Name": "Herman Hattaway"
+  },
+  {
+    "AuthorID": 989,
+    "Name": "New York Public Library (COR) Diefendorf Elizabeth (EDT) and Bryan Diana (ILT)"
+  },
+  {
+    "AuthorID": 990,
+    "Name": "ABEL"
+  },
+  {
+    "AuthorID": 991,
+    "Name": "Dina Anastasio"
+  },
+  {
+    "AuthorID": 992,
+    "Name": "Karen Fail"
+  },
+  {
+    "AuthorID": 993,
+    "Name": "Frederick (EDT) Busch"
+  },
+  {
+    "AuthorID": 994,
+    "Name": "Timothy James Beck"
+  },
+  {
+    "AuthorID": 995,
+    "Name": "Oster Maggie and Gilbertie Sal"
+  },
+  {
+    "AuthorID": 996,
+    "Name": "Matt Groening"
+  },
+  {
+    "AuthorID": 997,
+    "Name": "Anita Shreve"
+  },
+  {
+    "AuthorID": 998,
+    "Name": "Edward C. Senay"
+  },
+  {
+    "AuthorID": 999,
+    "Name": "Herrmann Anne C. and Stewart Abigail J. (EDT)"
+  },
+  {
+    "AuthorID": 1000,
+    "Name": "Dana Newmann"
+  },
+  {
+    "AuthorID": 1001,
+    "Name": "VILLASENOR (David)"
+  },
+  {
+    "AuthorID": 1002,
+    "Name": "Harl LA Place Jeffrey"
+  },
+  {
+    "AuthorID": 1003,
+    "Name": "Robin Hemley"
+  },
+  {
+    "AuthorID": 1004,
+    "Name": "Lilienfeld A. M. Lilienfeld D."
+  },
+  {
+    "AuthorID": 1005,
+    "Name": "Janette Turner Hospital"
+  },
+  {
+    "AuthorID": 1006,
+    "Name": "Russell (CON) Braddon"
+  },
+  {
+    "AuthorID": 1007,
+    "Name": "Good Housekeeping Institute"
+  },
+  {
+    "AuthorID": 1008,
+    "Name": "Edward Cannan"
+  },
+  {
+    "AuthorID": 1009,
+    "Name": "Roberto a Quesada"
+  },
+  {
+    "AuthorID": 1010,
+    "Name": "Nicolas Kanellos"
+  },
+  {
+    "AuthorID": 1011,
+    "Name": "Matthew Richardson"
+  },
+  {
+    "AuthorID": 1012,
+    "Name": "Baack Donald and Baack Pamela"
+  },
+  {
+    "AuthorID": 1013,
+    "Name": "Laurie Windham"
+  },
+  {
+    "AuthorID": 1014,
+    "Name": "Waters John Hastreiter Kim (EDT) and Hershkovits David (EDT)"
+  },
+  {
+    "AuthorID": 1015,
+    "Name": "Ric Edelman"
+  },
+  {
+    "AuthorID": 1016,
+    "Name": "Russell Linden"
+  },
+  {
+    "AuthorID": 1017,
+    "Name": "Snowden Miller"
+  },
+  {
+    "AuthorID": 1018,
+    "Name": "G. B. Trudeau"
+  },
+  {
+    "AuthorID": 1019,
+    "Name": "Don McKinney"
+  },
+  {
+    "AuthorID": 1020,
+    "Name": "David Contosta"
+  },
+  {
+    "AuthorID": 1021,
+    "Name": "Gail Sheehy"
+  },
+  {
+    "AuthorID": 1022,
+    "Name": "Nigel Hawkes"
+  },
+  {
+    "AuthorID": 1023,
+    "Name": "James McClure"
+  },
+  {
+    "AuthorID": 1024,
+    "Name": "Ted Sennett"
+  },
+  {
+    "AuthorID": 1025,
+    "Name": "Richard A. Peterson"
+  },
+  {
+    "AuthorID": 1026,
+    "Name": "Rakes Thomas A. and Choate Joyce S."
+  },
+  {
+    "AuthorID": 1027,
+    "Name": "Junior League of the City of New York (COR)"
+  },
+  {
+    "AuthorID": 1028,
+    "Name": "Don R. American Institute for Preventive Medicine and Powell"
+  },
+  {
+    "AuthorID": 1029,
+    "Name": "Sharon Yntema"
+  },
+  {
+    "AuthorID": 1030,
+    "Name": "Bernstein Merton D. and Bernstein Joan Brodshaug"
+  },
+  {
+    "AuthorID": 1031,
+    "Name": "John Toland"
+  },
+  {
+    "AuthorID": 1032,
+    "Name": "Paul Dickson"
+  },
+  {
+    "AuthorID": 1033,
+    "Name": "Ted Menten"
+  },
+  {
+    "AuthorID": 1034,
+    "Name": "Nat Hentoff"
+  },
+  {
+    "AuthorID": 1035,
+    "Name": "Freddie North"
+  },
+  {
+    "AuthorID": 1036,
+    "Name": "Richard (EDT) Rhodes"
+  },
+  {
+    "AuthorID": 1037,
+    "Name": "Stephen J. Rivele"
+  },
+  {
+    "AuthorID": 1038,
+    "Name": "Beryl Bainbridge"
+  },
+  {
+    "AuthorID": 1039,
+    "Name": "Marilee Lebon"
+  },
+  {
+    "AuthorID": 1040,
+    "Name": "Howe Irving and Howe Nicholas (EDT)"
+  },
+  {
+    "AuthorID": 1041,
+    "Name": "Samuel Osherson"
+  },
+  {
+    "AuthorID": 1042,
+    "Name": "Stearns Beverly Peterson and Stearns Stephen C."
+  },
+  {
+    "AuthorID": 1043,
+    "Name": "John Plowman"
+  },
+  {
+    "AuthorID": 1044,
+    "Name": "Milton Lomask"
+  },
+  {
+    "AuthorID": 1045,
+    "Name": "Judith Barrett"
+  },
+  {
+    "AuthorID": 1046,
+    "Name": "Richard. Buckle"
+  },
+  {
+    "AuthorID": 1047,
+    "Name": "Griggs Lewis (EDT) and Louw Lente-Louise (EDT)"
+  },
+  {
+    "AuthorID": 1048,
+    "Name": "Robert Leonard Reid"
+  },
+  {
+    "AuthorID": 1049,
+    "Name": "Alexandre Dumas"
+  },
+  {
+    "AuthorID": 1050,
+    "Name": "Edward Humes"
+  },
+  {
+    "AuthorID": 1051,
+    "Name": "Emma Donoghue"
+  },
+  {
+    "AuthorID": 1052,
+    "Name": "Roger Rosenblatt"
+  },
+  {
+    "AuthorID": 1053,
+    "Name": "Meyer Sheldon (EDT) and Leuchtenburg William E. (EDT)"
+  },
+  {
+    "AuthorID": 1054,
+    "Name": "Shakespeare William and Finamore Frank J. (EDT)"
+  },
+  {
+    "AuthorID": 1055,
+    "Name": "Hilaire Walden"
+  },
+  {
+    "AuthorID": 1056,
+    "Name": "William Stallings"
+  },
+  {
+    "AuthorID": 1057,
+    "Name": "Nathaniel Lande"
+  },
+  {
+    "AuthorID": 1058,
+    "Name": "John Patrick Diggins"
+  },
+  {
+    "AuthorID": 1059,
+    "Name": "Johanson Donald C. and O'Farrell Kevin"
+  },
+  {
+    "AuthorID": 1060,
+    "Name": "Seumas MacManus"
+  },
+  {
+    "AuthorID": 1061,
+    "Name": "Nance Barry and Bailes Lenny"
+  },
+  {
+    "AuthorID": 1062,
+    "Name": "Leslie Ann Nash"
+  },
+  {
+    "AuthorID": 1063,
+    "Name": "Lucinda Jaconette"
+  },
+  {
+    "AuthorID": 1064,
+    "Name": "Josephine Donovan"
+  },
+  {
+    "AuthorID": 1065,
+    "Name": "Lamb Robert"
+  },
+  {
+    "AuthorID": 1066,
+    "Name": "Coleman James Smoot and Sklar Richard L. (EDT)"
+  },
+  {
+    "AuthorID": 1067,
+    "Name": "John Wain"
+  },
+  {
+    "AuthorID": 1068,
+    "Name": "Carol Seefeldt"
+  },
+  {
+    "AuthorID": 1069,
+    "Name": "Douglas McBriarty"
+  },
+  {
+    "AuthorID": 1070,
+    "Name": "Robert Stinson"
+  },
+  {
+    "AuthorID": 1071,
+    "Name": "Scientific American"
+  },
+  {
+    "AuthorID": 1072,
+    "Name": "Kenneth D. Johnson"
+  },
+  {
+    "AuthorID": 1073,
+    "Name": "David Belgum"
+  },
+  {
+    "AuthorID": 1074,
+    "Name": "Mark Vancil"
+  },
+  {
+    "AuthorID": 1075,
+    "Name": "Allan D. Cruickshank"
+  },
+  {
+    "AuthorID": 1076,
+    "Name": "Nelson Keith L and Olin Spencer C."
+  },
+  {
+    "AuthorID": 1077,
+    "Name": "Sanford J. Ungar"
+  },
+  {
+    "AuthorID": 1078,
+    "Name": "Brad Leithauser"
+  },
+  {
+    "AuthorID": 1079,
+    "Name": "Neil Clark Warren"
+  },
+  {
+    "AuthorID": 1080,
+    "Name": "Hilary More"
+  },
+  {
+    "AuthorID": 1081,
+    "Name": "Pocket Canons"
+  },
+  {
+    "AuthorID": 1082,
+    "Name": "Michael Lerner"
+  },
+  {
+    "AuthorID": 1083,
+    "Name": "Geballe Shelley Gruendel Janice and Andiman Warren (EDT)"
+  },
+  {
+    "AuthorID": 1084,
+    "Name": "James McConkey"
+  },
+  {
+    "AuthorID": 1085,
+    "Name": "Kent Haruf"
+  },
+  {
+    "AuthorID": 1086,
+    "Name": "Frank Kirkpatrick"
+  },
+  {
+    "AuthorID": 1087,
+    "Name": "Susan Irvine"
+  },
+  {
+    "AuthorID": 1088,
+    "Name": "Wallace Judd"
+  },
+  {
+    "AuthorID": 1089,
+    "Name": "Harte John and Kamp Len (ILT)"
+  },
+  {
+    "AuthorID": 1090,
+    "Name": "Joan Johnston"
+  },
+  {
+    "AuthorID": 1091,
+    "Name": "Lynne Sharon Schwartz"
+  },
+  {
+    "AuthorID": 1092,
+    "Name": "Laverne McCain Gill"
+  },
+  {
+    "AuthorID": 1093,
+    "Name": "Alexander (EDT) Burnham"
+  },
+  {
+    "AuthorID": 1094,
+    "Name": "Hedin Robert A. (EDT) and Holthaus Gary (EDT)"
+  },
+  {
+    "AuthorID": 1095,
+    "Name": "Ellen Mickiewicz"
+  },
+  {
+    "AuthorID": 1096,
+    "Name": "P. J. (EDT) O'Rourke"
+  },
+  {
+    "AuthorID": 1097,
+    "Name": "Michael M. Horowitz"
+  },
+  {
+    "AuthorID": 1098,
+    "Name": "Sackett George C. and Metz Christopher Y."
+  },
+  {
+    "AuthorID": 1099,
+    "Name": "Schneider Deborah Lucas (TRN) and Ermarth Michael (EDT)"
+  },
+  {
+    "AuthorID": 1100,
+    "Name": "Sue V. Rosser"
+  },
+  {
+    "AuthorID": 1101,
+    "Name": "David Crane"
+  },
+  {
+    "AuthorID": 1102,
+    "Name": "Bush George W. and Krugman Paul R."
+  },
+  {
+    "AuthorID": 1103,
+    "Name": "Miles T. R. and Miles Elaine"
+  },
+  {
+    "AuthorID": 1104,
+    "Name": "Terrance Dicks"
+  },
+  {
+    "AuthorID": 1105,
+    "Name": "Judith Campbell"
+  },
+  {
+    "AuthorID": 1106,
+    "Name": "Robert Berkley"
+  }
+]

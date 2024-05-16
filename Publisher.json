@@ -1,0 +1,2358 @@
+[
+  {
+    "PublisherID": 1,
+    "Name": "Doubleday"
+  },
+  {
+    "PublisherID": 2,
+    "Name": "Putnam Pub Group"
+  },
+  {
+    "PublisherID": 3,
+    "Name": "Workman Pub Co"
+  },
+  {
+    "PublisherID": 4,
+    "Name": "Natl Pr Books"
+  },
+  {
+    "PublisherID": 5,
+    "Name": "Amy Spangler"
+  },
+  {
+    "PublisherID": 6,
+    "Name": "Excalibur Press"
+  },
+  {
+    "PublisherID": 7,
+    "Name": "Health Communications Inc"
+  },
+  {
+    "PublisherID": 8,
+    "Name": "VSP Books"
+  },
+  {
+    "PublisherID": 9,
+    "Name": "Random House"
+  },
+  {
+    "PublisherID": 10,
+    "Name": "Oxmoor House"
+  },
+  {
+    "PublisherID": 11,
+    "Name": "Workman Publishing Company"
+  },
+  {
+    "PublisherID": 12,
+    "Name": "Simon & Schuster"
+  },
+  {
+    "PublisherID": 13,
+    "Name": "Crown"
+  },
+  {
+    "PublisherID": 14,
+    "Name": "Harper Perennial"
+  },
+  {
+    "PublisherID": 15,
+    "Name": "Vintage"
+  },
+  {
+    "PublisherID": 16,
+    "Name": "Benford Books"
+  },
+  {
+    "PublisherID": 17,
+    "Name": "Penguin Books"
+  },
+  {
+    "PublisherID": 18,
+    "Name": "Carroll & Graf Pub"
+  },
+  {
+    "PublisherID": 19,
+    "Name": "Regnery Publishing, Inc."
+  },
+  {
+    "PublisherID": 20,
+    "Name": "Time Life Education"
+  },
+  {
+    "PublisherID": 21,
+    "Name": "Bonanza Books"
+  },
+  {
+    "PublisherID": 22,
+    "Name": "Hill & Wang"
+  },
+  {
+    "PublisherID": 23,
+    "Name": "Bantam"
+  },
+  {
+    "PublisherID": 24,
+    "Name": "Three Rivers Press"
+  },
+  {
+    "PublisherID": 25,
+    "Name": "Regnery Pub"
+  },
+  {
+    "PublisherID": 26,
+    "Name": "Atria Books"
+  },
+  {
+    "PublisherID": 27,
+    "Name": "HarperCollins"
+  },
+  {
+    "PublisherID": 28,
+    "Name": "Touchstone"
+  },
+  {
+    "PublisherID": 29,
+    "Name": "NAL Trade"
+  },
+  {
+    "PublisherID": 30,
+    "Name": "University of Chicago Press"
+  },
+  {
+    "PublisherID": 31,
+    "Name": "Harvest Books"
+  },
+  {
+    "PublisherID": 32,
+    "Name": "Pocket Books"
+  },
+  {
+    "PublisherID": 33,
+    "Name": "POTOMAC BOOKS"
+  },
+  {
+    "PublisherID": 34,
+    "Name": "Scribner"
+  },
+  {
+    "PublisherID": 35,
+    "Name": "Back Bay Books"
+  },
+  {
+    "PublisherID": 36,
+    "Name": "William Morrow Paperbacks"
+  },
+  {
+    "PublisherID": 37,
+    "Name": "Konemann"
+  },
+  {
+    "PublisherID": 38,
+    "Name": "W H Freeman & Co"
+  },
+  {
+    "PublisherID": 39,
+    "Name": "Miramax"
+  },
+  {
+    "PublisherID": 40,
+    "Name": "Gramercy"
+  },
+  {
+    "PublisherID": 41,
+    "Name": "Harperbusiness"
+  },
+  {
+    "PublisherID": 42,
+    "Name": "Prima Pub"
+  },
+  {
+    "PublisherID": 43,
+    "Name": "Pantheon"
+  },
+  {
+    "PublisherID": 44,
+    "Name": "Holt Paperbacks"
+  },
+  {
+    "PublisherID": 45,
+    "Name": "Wiley"
+  },
+  {
+    "PublisherID": 46,
+    "Name": "HarperOne"
+  },
+  {
+    "PublisherID": 47,
+    "Name": "Harper & Row"
+  },
+  {
+    "PublisherID": 48,
+    "Name": "Informa Healthcare"
+  },
+  {
+    "PublisherID": 49,
+    "Name": "University of California Press"
+  },
+  {
+    "PublisherID": 50,
+    "Name": "Zondervan Pub. House"
+  },
+  {
+    "PublisherID": 51,
+    "Name": "UNKNO"
+  },
+  {
+    "PublisherID": 52,
+    "Name": "Orion Books"
+  },
+  {
+    "PublisherID": 53,
+    "Name": "Zondervan"
+  },
+  {
+    "PublisherID": 54,
+    "Name": "HarperPerennial"
+  },
+  {
+    "PublisherID": 55,
+    "Name": "Cummings Pub.Co."
+  },
+  {
+    "PublisherID": 56,
+    "Name": "Harper Business"
+  },
+  {
+    "PublisherID": 57,
+    "Name": "Daniel & Daniel Pub"
+  },
+  {
+    "PublisherID": 58,
+    "Name": "TarcherPerigee"
+  },
+  {
+    "PublisherID": 59,
+    "Name": "Viking"
+  },
+  {
+    "PublisherID": 60,
+    "Name": "Viking Adult"
+  },
+  {
+    "PublisherID": 61,
+    "Name": "Plume"
+  },
+  {
+    "PublisherID": 62,
+    "Name": "Kensington"
+  },
+  {
+    "PublisherID": 63,
+    "Name": "Simon and Schuster"
+  },
+  {
+    "PublisherID": 64,
+    "Name": "London : Collins"
+  },
+  {
+    "PublisherID": 65,
+    "Name": "Rinehart & Company, Inc"
+  },
+  {
+    "PublisherID": 66,
+    "Name": "Little Brown & Co"
+  },
+  {
+    "PublisherID": 67,
+    "Name": "Blue Mountain Arts"
+  },
+  {
+    "PublisherID": 68,
+    "Name": "Crowell"
+  },
+  {
+    "PublisherID": 69,
+    "Name": "Basic Books"
+  },
+  {
+    "PublisherID": 70,
+    "Name": "Harper Paperbacks"
+  },
+  {
+    "PublisherID": 71,
+    "Name": "Infogames Interactive"
+  },
+  {
+    "PublisherID": 72,
+    "Name": "Leswing Press"
+  },
+  {
+    "PublisherID": 73,
+    "Name": "Del Rey"
+  },
+  {
+    "PublisherID": 74,
+    "Name": "Paulist Press"
+  },
+  {
+    "PublisherID": 75,
+    "Name": "Atria"
+  },
+  {
+    "PublisherID": 76,
+    "Name": "Tangerine Pr"
+  },
+  {
+    "PublisherID": 77,
+    "Name": "Houghton Mifflin Company"
+  },
+  {
+    "PublisherID": 78,
+    "Name": "Kensington Pub Corp"
+  },
+  {
+    "PublisherID": 79,
+    "Name": "Trophy Pr"
+  },
+  {
+    "PublisherID": 80,
+    "Name": "E.P. Dutton & company, inc"
+  },
+  {
+    "PublisherID": 81,
+    "Name": "Dell"
+  },
+  {
+    "PublisherID": 82,
+    "Name": "W. W. Norton & Company"
+  },
+  {
+    "PublisherID": 83,
+    "Name": "Assn for Supervision & Curriculum"
+  },
+  {
+    "PublisherID": 84,
+    "Name": "Norton*(ww Norton Co"
+  },
+  {
+    "PublisherID": 85,
+    "Name": "University of South Carolina Press"
+  },
+  {
+    "PublisherID": 86,
+    "Name": "Harcourt"
+  },
+  {
+    "PublisherID": 87,
+    "Name": "Beacon Press"
+  },
+  {
+    "PublisherID": 88,
+    "Name": "Hill and Wang"
+  },
+  {
+    "PublisherID": 89,
+    "Name": "Berkley"
+  },
+  {
+    "PublisherID": 90,
+    "Name": "Da Capo Press"
+  },
+  {
+    "PublisherID": 91,
+    "Name": "Fairmark Press"
+  },
+  {
+    "PublisherID": 92,
+    "Name": "W H Freeman & Co (Sd)"
+  },
+  {
+    "PublisherID": 93,
+    "Name": "Kensington Books"
+  },
+  {
+    "PublisherID": 94,
+    "Name": "Alumni Association of the US Army War College"
+  },
+  {
+    "PublisherID": 95,
+    "Name": "MacMillan Publishing Company."
+  },
+  {
+    "PublisherID": 96,
+    "Name": "Jossey-Bass Inc Pub"
+  },
+  {
+    "PublisherID": 97,
+    "Name": "Farrar, Straus and Giroux"
+  },
+  {
+    "PublisherID": 98,
+    "Name": "Ave Maria Pr"
+  },
+  {
+    "PublisherID": 99,
+    "Name": "Maryland Historical Society"
+  },
+  {
+    "PublisherID": 100,
+    "Name": "Harry N. Abrams, Inc."
+  },
+  {
+    "PublisherID": 101,
+    "Name": "William Morrow & Co"
+  },
+  {
+    "PublisherID": 102,
+    "Name": "Houghton Mifflin"
+  },
+  {
+    "PublisherID": 103,
+    "Name": "Robinson Hoxton Publishing, LLC"
+  },
+  {
+    "PublisherID": 104,
+    "Name": "Studio"
+  },
+  {
+    "PublisherID": 105,
+    "Name": "Harpercollins Publisher"
+  },
+  {
+    "PublisherID": 106,
+    "Name": "Avery"
+  },
+  {
+    "PublisherID": 107,
+    "Name": "Golden Books"
+  },
+  {
+    "PublisherID": 108,
+    "Name": "Houghton Mifflin Harcourt"
+  },
+  {
+    "PublisherID": 109,
+    "Name": "William Morrow"
+  },
+  {
+    "PublisherID": 110,
+    "Name": "West Publishing Co."
+  },
+  {
+    "PublisherID": 111,
+    "Name": "Readers Digest"
+  },
+  {
+    "PublisherID": 112,
+    "Name": "Algonquin Books"
+  },
+  {
+    "PublisherID": 113,
+    "Name": "Random House Value Publishing"
+  },
+  {
+    "PublisherID": 114,
+    "Name": "Blue Mountain Press"
+  },
+  {
+    "PublisherID": 115,
+    "Name": "HarperBus"
+  },
+  {
+    "PublisherID": 116,
+    "Name": "Star Song Pub Co"
+  },
+  {
+    "PublisherID": 117,
+    "Name": "Lowell House"
+  },
+  {
+    "PublisherID": 118,
+    "Name": "North Light Books"
+  },
+  {
+    "PublisherID": 119,
+    "Name": "W. W. Norton & Company, Inc."
+  },
+  {
+    "PublisherID": 120,
+    "Name": "Putnam"
+  },
+  {
+    "PublisherID": 121,
+    "Name": "West Group"
+  },
+  {
+    "PublisherID": 122,
+    "Name": "W W Norton & Co Inc"
+  },
+  {
+    "PublisherID": 123,
+    "Name": "The Metropolitan Museum of Art"
+  },
+  {
+    "PublisherID": 124,
+    "Name": "A & C Black (Publishers) Ltd"
+  },
+  {
+    "PublisherID": 125,
+    "Name": "Gibbs Smith"
+  },
+  {
+    "PublisherID": 126,
+    "Name": "Warner Juvenile Books"
+  },
+  {
+    "PublisherID": 127,
+    "Name": "Addison-Wesley Pub. Co"
+  },
+  {
+    "PublisherID": 128,
+    "Name": "Bdd Promotional Book Co"
+  },
+  {
+    "PublisherID": 129,
+    "Name": "Johnson Pub Co Inc"
+  },
+  {
+    "PublisherID": 130,
+    "Name": "Delta Station Press"
+  },
+  {
+    "PublisherID": 131,
+    "Name": "Prima Lifestyles"
+  },
+  {
+    "PublisherID": 132,
+    "Name": "AMACOM"
+  },
+  {
+    "PublisherID": 133,
+    "Name": "Grand Central Publishing"
+  },
+  {
+    "PublisherID": 134,
+    "Name": "Smithmark Pub"
+  },
+  {
+    "PublisherID": 135,
+    "Name": "Hyperion"
+  },
+  {
+    "PublisherID": 136,
+    "Name": "St Martins Pr"
+  },
+  {
+    "PublisherID": 137,
+    "Name": "Riverhead Books"
+  },
+  {
+    "PublisherID": 138,
+    "Name": "Summit Books"
+  },
+  {
+    "PublisherID": 139,
+    "Name": "Fleming H Revell Co"
+  },
+  {
+    "PublisherID": 140,
+    "Name": "Free Press"
+  },
+  {
+    "PublisherID": 141,
+    "Name": "A & W Publishers"
+  },
+  {
+    "PublisherID": 142,
+    "Name": "Oxford Book Co."
+  },
+  {
+    "PublisherID": 143,
+    "Name": "Jason Aronson, Inc."
+  },
+  {
+    "PublisherID": 144,
+    "Name": "Oxford University Press"
+  },
+  {
+    "PublisherID": 145,
+    "Name": "Ticknor & Fields"
+  },
+  {
+    "PublisherID": 146,
+    "Name": "Victor Books"
+  },
+  {
+    "PublisherID": 147,
+    "Name": "Collier Books"
+  },
+  {
+    "PublisherID": 148,
+    "Name": "Forge Books"
+  },
+  {
+    "PublisherID": 149,
+    "Name": "Thomas Nelson"
+  },
+  {
+    "PublisherID": 150,
+    "Name": "Palgrave Macmillan"
+  },
+  {
+    "PublisherID": 151,
+    "Name": "Barrons Juveniles"
+  },
+  {
+    "PublisherID": 152,
+    "Name": "H. Moos"
+  },
+  {
+    "PublisherID": 153,
+    "Name": "Maxrom Press"
+  },
+  {
+    "PublisherID": 154,
+    "Name": "Dover Publications"
+  },
+  {
+    "PublisherID": 155,
+    "Name": "Penguin"
+  },
+  {
+    "PublisherID": 156,
+    "Name": "Metro Books"
+  },
+  {
+    "PublisherID": 157,
+    "Name": "NEW YORK GRAPHIC SOCIETY"
+  },
+  {
+    "PublisherID": 158,
+    "Name": "Ballantine Books"
+  },
+  {
+    "PublisherID": 159,
+    "Name": "w.w. norton"
+  },
+  {
+    "PublisherID": 160,
+    "Name": "Knopf"
+  },
+  {
+    "PublisherID": 161,
+    "Name": "Arcade Publishing"
+  },
+  {
+    "PublisherID": 162,
+    "Name": "Whitecap Books - AcP Publishing"
+  },
+  {
+    "PublisherID": 163,
+    "Name": "Random House Trade Paperbacks"
+  },
+  {
+    "PublisherID": 164,
+    "Name": "Putnam Juvenile"
+  },
+  {
+    "PublisherID": 165,
+    "Name": "Clarkson Potter"
+  },
+  {
+    "PublisherID": 166,
+    "Name": "E. P. Dutton"
+  },
+  {
+    "PublisherID": 167,
+    "Name": "Chronicle Books"
+  },
+  {
+    "PublisherID": 168,
+    "Name": "Wine Appreciation Guild"
+  },
+  {
+    "PublisherID": 169,
+    "Name": "Little, Brown and Company"
+  },
+  {
+    "PublisherID": 170,
+    "Name": "Atheneum Books for Young Readers"
+  },
+  {
+    "PublisherID": 171,
+    "Name": "C. Scribner's sons"
+  },
+  {
+    "PublisherID": 172,
+    "Name": "Harmony"
+  },
+  {
+    "PublisherID": 173,
+    "Name": "Thomas Nelson Publishers"
+  },
+  {
+    "PublisherID": 174,
+    "Name": "Ideals Publishing"
+  },
+  {
+    "PublisherID": 175,
+    "Name": "Dover Pubns"
+  },
+  {
+    "PublisherID": 176,
+    "Name": "Delacorte Press"
+  },
+  {
+    "PublisherID": 177,
+    "Name": "St. Martin's Press"
+  },
+  {
+    "PublisherID": 178,
+    "Name": "Philomel"
+  },
+  {
+    "PublisherID": 179,
+    "Name": "One World/Ballantine"
+  },
+  {
+    "PublisherID": 180,
+    "Name": "Cathedral Church of Saint Peter and Saint Paul"
+  },
+  {
+    "PublisherID": 181,
+    "Name": "Blue Sky Press"
+  },
+  {
+    "PublisherID": 182,
+    "Name": "G. P. Putnam's Sons"
+  },
+  {
+    "PublisherID": 183,
+    "Name": "Antietam Pr"
+  },
+  {
+    "PublisherID": 184,
+    "Name": "Alfred A. Knopf"
+  },
+  {
+    "PublisherID": 185,
+    "Name": "Yale University Press"
+  },
+  {
+    "PublisherID": 186,
+    "Name": "McClure Press"
+  },
+  {
+    "PublisherID": 187,
+    "Name": "Sourcebooks Hysteria"
+  },
+  {
+    "PublisherID": 188,
+    "Name": "Barbour Publishing, Incorporated"
+  },
+  {
+    "PublisherID": 189,
+    "Name": "F. Muller"
+  },
+  {
+    "PublisherID": 190,
+    "Name": "Reilly & Lee"
+  },
+  {
+    "PublisherID": 191,
+    "Name": "Word"
+  },
+  {
+    "PublisherID": 192,
+    "Name": "Hallmark Cards"
+  },
+  {
+    "PublisherID": 193,
+    "Name": "Mysterious Pr"
+  },
+  {
+    "PublisherID": 194,
+    "Name": "Touch Publications"
+  },
+  {
+    "PublisherID": 195,
+    "Name": "Arthur A. Levine Books"
+  },
+  {
+    "PublisherID": 196,
+    "Name": "Pan Books Ltd"
+  },
+  {
+    "PublisherID": 197,
+    "Name": "David C. Cook"
+  },
+  {
+    "PublisherID": 198,
+    "Name": "MACMILLAN"
+  },
+  {
+    "PublisherID": 199,
+    "Name": "Rodale Books"
+  },
+  {
+    "PublisherID": 200,
+    "Name": "Good Books"
+  },
+  {
+    "PublisherID": 201,
+    "Name": "Sunset Pub Co"
+  },
+  {
+    "PublisherID": 202,
+    "Name": "Puffin"
+  },
+  {
+    "PublisherID": 203,
+    "Name": "Regan Books"
+  },
+  {
+    "PublisherID": 204,
+    "Name": "Dept of Cultural Resources & History"
+  },
+  {
+    "PublisherID": 205,
+    "Name": "Pitman Management and Training"
+  },
+  {
+    "PublisherID": 206,
+    "Name": "Bonner Universitats Buchdruckerei"
+  },
+  {
+    "PublisherID": 207,
+    "Name": "Servant Pubns"
+  },
+  {
+    "PublisherID": 208,
+    "Name": "Macmillan General Reference"
+  },
+  {
+    "PublisherID": 209,
+    "Name": "Burd Street Pr"
+  },
+  {
+    "PublisherID": 210,
+    "Name": "Derrydale"
+  },
+  {
+    "PublisherID": 211,
+    "Name": "W. Ritchie Press"
+  },
+  {
+    "PublisherID": 212,
+    "Name": "Andrews McMeel Publishing"
+  },
+  {
+    "PublisherID": 213,
+    "Name": "Main Street Books"
+  },
+  {
+    "PublisherID": 214,
+    "Name": "Linden Pub"
+  },
+  {
+    "PublisherID": 215,
+    "Name": "Meredith Pr"
+  },
+  {
+    "PublisherID": 216,
+    "Name": "Cowles Creative Publishing"
+  },
+  {
+    "PublisherID": 217,
+    "Name": "Little Brown"
+  },
+  {
+    "PublisherID": 218,
+    "Name": "Simon & Schuster, Inc."
+  },
+  {
+    "PublisherID": 219,
+    "Name": "Bluejay"
+  },
+  {
+    "PublisherID": 220,
+    "Name": "Riverhead Hardcover"
+  },
+  {
+    "PublisherID": 221,
+    "Name": "University of Nebraska Press"
+  },
+  {
+    "PublisherID": 222,
+    "Name": "Thomas Nelson Inc"
+  },
+  {
+    "PublisherID": 223,
+    "Name": "Atheneum"
+  },
+  {
+    "PublisherID": 224,
+    "Name": "Bantam Doubleday Dell"
+  },
+  {
+    "PublisherID": 225,
+    "Name": "McGraw-Hill Professional"
+  },
+  {
+    "PublisherID": 226,
+    "Name": "Macmillan Pub Co"
+  },
+  {
+    "PublisherID": 227,
+    "Name": "Globe Pequot Press"
+  },
+  {
+    "PublisherID": 228,
+    "Name": "Hachette Books"
+  },
+  {
+    "PublisherID": 229,
+    "Name": "Menasha Ridge Press"
+  },
+  {
+    "PublisherID": 230,
+    "Name": "A Thing or Two Media"
+  },
+  {
+    "PublisherID": 231,
+    "Name": "Intervarsity Pr"
+  },
+  {
+    "PublisherID": 232,
+    "Name": "F J H Music Co"
+  },
+  {
+    "PublisherID": 233,
+    "Name": "Dutton"
+  },
+  {
+    "PublisherID": 234,
+    "Name": "Square Fish"
+  },
+  {
+    "PublisherID": 235,
+    "Name": "Facts on File Inc."
+  },
+  {
+    "PublisherID": 236,
+    "Name": "McGraw-Hill Education"
+  },
+  {
+    "PublisherID": 237,
+    "Name": "Alpha"
+  },
+  {
+    "PublisherID": 238,
+    "Name": "Berkley Hardcover"
+  },
+  {
+    "PublisherID": 239,
+    "Name": "McGraw-Hill Companies"
+  },
+  {
+    "PublisherID": 240,
+    "Name": "Routledge"
+  },
+  {
+    "PublisherID": 241,
+    "Name": "Optext"
+  },
+  {
+    "PublisherID": 242,
+    "Name": "Beaufort Books"
+  },
+  {
+    "PublisherID": 243,
+    "Name": "Avon Books"
+  },
+  {
+    "PublisherID": 244,
+    "Name": "G.P. Putnam's Sons Books for Young Readers"
+  },
+  {
+    "PublisherID": 245,
+    "Name": "Readers Digest Assn"
+  },
+  {
+    "PublisherID": 246,
+    "Name": "Kjos Music Company"
+  },
+  {
+    "PublisherID": 247,
+    "Name": "Prentice Hall"
+  },
+  {
+    "PublisherID": 248,
+    "Name": "Visible Ink Press"
+  },
+  {
+    "PublisherID": 249,
+    "Name": "McGraw-Hill"
+  },
+  {
+    "PublisherID": 250,
+    "Name": "Ace"
+  },
+  {
+    "PublisherID": 251,
+    "Name": "HarperCollins Espanol"
+  },
+  {
+    "PublisherID": 252,
+    "Name": "Thomas Dunne Books"
+  },
+  {
+    "PublisherID": 253,
+    "Name": "M. Evans & Company"
+  },
+  {
+    "PublisherID": 254,
+    "Name": "Warren Publishing House, Inc."
+  },
+  {
+    "PublisherID": 255,
+    "Name": "Troll Communications"
+  },
+  {
+    "PublisherID": 256,
+    "Name": "Troll Pr"
+  },
+  {
+    "PublisherID": 257,
+    "Name": "Sierra Club Books"
+  },
+  {
+    "PublisherID": 258,
+    "Name": "Chariot Victor Pub"
+  },
+  {
+    "PublisherID": 259,
+    "Name": "Outdoor Life"
+  },
+  {
+    "PublisherID": 260,
+    "Name": "Key Porter Books"
+  },
+  {
+    "PublisherID": 261,
+    "Name": "National Geographic Society"
+  },
+  {
+    "PublisherID": 262,
+    "Name": "John Wiley & Sons"
+  },
+  {
+    "PublisherID": 263,
+    "Name": "Holt, Rinehart and Winston"
+  },
+  {
+    "PublisherID": 264,
+    "Name": "Da Capo Lifelong Books"
+  },
+  {
+    "PublisherID": 265,
+    "Name": "Beacon Pr"
+  },
+  {
+    "PublisherID": 266,
+    "Name": "Summerthought, Limited"
+  },
+  {
+    "PublisherID": 267,
+    "Name": "Ten Speed Press"
+  },
+  {
+    "PublisherID": 268,
+    "Name": "Holt McDougal"
+  },
+  {
+    "PublisherID": 269,
+    "Name": "Harry N. Abrams"
+  },
+  {
+    "PublisherID": 270,
+    "Name": "Countryman Pr"
+  },
+  {
+    "PublisherID": 271,
+    "Name": "Cornell Univ Pr"
+  },
+  {
+    "PublisherID": 272,
+    "Name": "Dodd, Mead"
+  },
+  {
+    "PublisherID": 273,
+    "Name": "Grove Press"
+  },
+  {
+    "PublisherID": 274,
+    "Name": "Viking Books for Young Readers"
+  },
+  {
+    "PublisherID": 275,
+    "Name": "Hyperion Books"
+  },
+  {
+    "PublisherID": 276,
+    "Name": "Writer's Digest Books"
+  },
+  {
+    "PublisherID": 277,
+    "Name": "Henry Holt and Co. (BYR)"
+  },
+  {
+    "PublisherID": 278,
+    "Name": "Gallery Books"
+  },
+  {
+    "PublisherID": 279,
+    "Name": "Sterling Pub Co Inc"
+  },
+  {
+    "PublisherID": 280,
+    "Name": "Dryden Press"
+  },
+  {
+    "PublisherID": 281,
+    "Name": "PublicAffairs"
+  },
+  {
+    "PublisherID": 282,
+    "Name": "Walker & Co"
+  },
+  {
+    "PublisherID": 283,
+    "Name": "Crown Publishers, Inc."
+  },
+  {
+    "PublisherID": 284,
+    "Name": "Distributed by the Macmillan Co"
+  },
+  {
+    "PublisherID": 285,
+    "Name": "Lake Pub Co"
+  },
+  {
+    "PublisherID": 286,
+    "Name": "Wings"
+  },
+  {
+    "PublisherID": 287,
+    "Name": "Villard"
+  },
+  {
+    "PublisherID": 288,
+    "Name": "Viking Juvenile"
+  },
+  {
+    "PublisherID": 289,
+    "Name": "iUniverse"
+  },
+  {
+    "PublisherID": 290,
+    "Name": "Abrams"
+  },
+  {
+    "PublisherID": 291,
+    "Name": "Wadsworth Pub. Co"
+  },
+  {
+    "PublisherID": 292,
+    "Name": "Garden Way Pub Co"
+  },
+  {
+    "PublisherID": 293,
+    "Name": "Prentice Hall College Div"
+  },
+  {
+    "PublisherID": 294,
+    "Name": "Harper"
+  },
+  {
+    "PublisherID": 295,
+    "Name": "Andrews And McMeel Publishing"
+  },
+  {
+    "PublisherID": 296,
+    "Name": "White Mane Pub"
+  },
+  {
+    "PublisherID": 297,
+    "Name": "Adams Media Corp"
+  },
+  {
+    "PublisherID": 298,
+    "Name": "U.S. Congress, Joint Committee on Printing"
+  },
+  {
+    "PublisherID": 299,
+    "Name": "Charles Scribner's Sons"
+  },
+  {
+    "PublisherID": 300,
+    "Name": "Lantern Books"
+  },
+  {
+    "PublisherID": 301,
+    "Name": "Mcgraw-Hill Osborne Media"
+  },
+  {
+    "PublisherID": 302,
+    "Name": "Smithsonian Institution Press"
+  },
+  {
+    "PublisherID": 303,
+    "Name": "Hermes House"
+  },
+  {
+    "PublisherID": 304,
+    "Name": "Fawcett"
+  },
+  {
+    "PublisherID": 305,
+    "Name": "NavPress"
+  },
+  {
+    "PublisherID": 306,
+    "Name": "Henry Holt & Co"
+  },
+  {
+    "PublisherID": 307,
+    "Name": "Vine Books"
+  },
+  {
+    "PublisherID": 308,
+    "Name": "Summit Publishing Group"
+  },
+  {
+    "PublisherID": 309,
+    "Name": "Laurel Leaf"
+  },
+  {
+    "PublisherID": 310,
+    "Name": "Dutton Juvenile"
+  },
+  {
+    "PublisherID": 311,
+    "Name": "Speak"
+  },
+  {
+    "PublisherID": 312,
+    "Name": "Author / Maryland Historical Society"
+  },
+  {
+    "PublisherID": 313,
+    "Name": "Everything"
+  },
+  {
+    "PublisherID": 314,
+    "Name": "Chicago Review Press"
+  },
+  {
+    "PublisherID": 315,
+    "Name": "St. Anthony Messenger Press"
+  },
+  {
+    "PublisherID": 316,
+    "Name": "Hippocrene Books"
+  },
+  {
+    "PublisherID": 317,
+    "Name": "Barron's Educational Series, inc"
+  },
+  {
+    "PublisherID": 318,
+    "Name": "Trend Enterprises Inc"
+  },
+  {
+    "PublisherID": 319,
+    "Name": "Farrar and Rinehart, inc"
+  },
+  {
+    "PublisherID": 320,
+    "Name": "Thames & Hudson"
+  },
+  {
+    "PublisherID": 321,
+    "Name": "Epm Pubns Inc"
+  },
+  {
+    "PublisherID": 322,
+    "Name": "Graphic Arts Center Publishing Company"
+  },
+  {
+    "PublisherID": 323,
+    "Name": "Education Insights"
+  },
+  {
+    "PublisherID": 324,
+    "Name": "Dempsey"
+  },
+  {
+    "PublisherID": 325,
+    "Name": "Aero Publishers"
+  },
+  {
+    "PublisherID": 326,
+    "Name": "St. Martin's Griffin"
+  },
+  {
+    "PublisherID": 327,
+    "Name": "Viking Pr"
+  },
+  {
+    "PublisherID": 328,
+    "Name": "Harvest House Publishers"
+  },
+  {
+    "PublisherID": 329,
+    "Name": "Doubleday Books for Young Readers"
+  },
+  {
+    "PublisherID": 330,
+    "Name": "For sale by the U.S. G.P.O., Supt. of Docs"
+  },
+  {
+    "PublisherID": 331,
+    "Name": "Cornell University Press"
+  },
+  {
+    "PublisherID": 332,
+    "Name": "Princeton University Press"
+  },
+  {
+    "PublisherID": 333,
+    "Name": "Bell Publishing Co."
+  },
+  {
+    "PublisherID": 334,
+    "Name": "Hyperion Books For Children"
+  },
+  {
+    "PublisherID": 335,
+    "Name": "Focus on the Family"
+  },
+  {
+    "PublisherID": 336,
+    "Name": "Ardmore Publications"
+  },
+  {
+    "PublisherID": 337,
+    "Name": "Bulfinch Pr"
+  },
+  {
+    "PublisherID": 338,
+    "Name": "International Marine/Ragged Mountain Press"
+  },
+  {
+    "PublisherID": 339,
+    "Name": "Regnery Publishing"
+  },
+  {
+    "PublisherID": 340,
+    "Name": "Delacorte Books for Young Readers"
+  },
+  {
+    "PublisherID": 341,
+    "Name": "Incentive Publications"
+  },
+  {
+    "PublisherID": 342,
+    "Name": "Tuttle Pub"
+  },
+  {
+    "PublisherID": 343,
+    "Name": "D. Appleton-Century company, incorporated"
+  },
+  {
+    "PublisherID": 344,
+    "Name": "Learning Horizons"
+  },
+  {
+    "PublisherID": 345,
+    "Name": "Thomas Publications"
+  },
+  {
+    "PublisherID": 346,
+    "Name": "Appleton-Century-Crofts"
+  },
+  {
+    "PublisherID": 347,
+    "Name": "Museum of Modern Art, NY"
+  },
+  {
+    "PublisherID": 348,
+    "Name": "Storey Books"
+  },
+  {
+    "PublisherID": 349,
+    "Name": "Backcountry Publications"
+  },
+  {
+    "PublisherID": 350,
+    "Name": "Crabtree Classics"
+  },
+  {
+    "PublisherID": 351,
+    "Name": "Coward-McCann Inc."
+  },
+  {
+    "PublisherID": 352,
+    "Name": "BAY BOOKS"
+  },
+  {
+    "PublisherID": 353,
+    "Name": "Howell Book House"
+  },
+  {
+    "PublisherID": 354,
+    "Name": "Turner Pub"
+  },
+  {
+    "PublisherID": 355,
+    "Name": "Meredith Publishing Co."
+  },
+  {
+    "PublisherID": 356,
+    "Name": "Howell Press@inc"
+  },
+  {
+    "PublisherID": 357,
+    "Name": "Richard d Irwin"
+  },
+  {
+    "PublisherID": 358,
+    "Name": "Lippincott"
+  },
+  {
+    "PublisherID": 359,
+    "Name": "Golden Book"
+  },
+  {
+    "PublisherID": 360,
+    "Name": "Mariner Books"
+  },
+  {
+    "PublisherID": 361,
+    "Name": "West Pub. Co"
+  },
+  {
+    "PublisherID": 362,
+    "Name": "Tee Loftin Pubs"
+  },
+  {
+    "PublisherID": 363,
+    "Name": "Hugh Lauter Levin Associates"
+  },
+  {
+    "PublisherID": 364,
+    "Name": "Beekman House"
+  },
+  {
+    "PublisherID": 365,
+    "Name": "Winslow House Books"
+  },
+  {
+    "PublisherID": 366,
+    "Name": "New Leaf Publishing Group"
+  },
+  {
+    "PublisherID": 367,
+    "Name": "Smithsonian Inst Pr"
+  },
+  {
+    "PublisherID": 368,
+    "Name": "Tfh Pubns Inc"
+  },
+  {
+    "PublisherID": 369,
+    "Name": "Rupa & Co"
+  },
+  {
+    "PublisherID": 370,
+    "Name": "Carleton Print. Co"
+  },
+  {
+    "PublisherID": 371,
+    "Name": "M. Buxbaum"
+  },
+  {
+    "PublisherID": 372,
+    "Name": "Harper San Francisco"
+  },
+  {
+    "PublisherID": 373,
+    "Name": "New York: Barnes & Noble, 1998"
+  },
+  {
+    "PublisherID": 374,
+    "Name": "Canongate U.S."
+  },
+  {
+    "PublisherID": 375,
+    "Name": "Abrams : distributed by New American Library"
+  },
+  {
+    "PublisherID": 376,
+    "Name": "William Morrow Cookbooks"
+  },
+  {
+    "PublisherID": 377,
+    "Name": "BARNES & NOBLE"
+  },
+  {
+    "PublisherID": 378,
+    "Name": "Belknap Press of Harvard University Press"
+  },
+  {
+    "PublisherID": 379,
+    "Name": "Mosby Inc"
+  },
+  {
+    "PublisherID": 380,
+    "Name": "W Pub Group"
+  },
+  {
+    "PublisherID": 381,
+    "Name": "Shambhala"
+  },
+  {
+    "PublisherID": 382,
+    "Name": "Jodere Group"
+  },
+  {
+    "PublisherID": 383,
+    "Name": "Dryden Pr"
+  },
+  {
+    "PublisherID": 384,
+    "Name": "Harcourt College Pub"
+  },
+  {
+    "PublisherID": 385,
+    "Name": "Columbia University Press"
+  },
+  {
+    "PublisherID": 386,
+    "Name": "Farrar Straus & Giroux"
+  },
+  {
+    "PublisherID": 387,
+    "Name": "Facts on File"
+  },
+  {
+    "PublisherID": 388,
+    "Name": "Diamond Books, London, England"
+  },
+  {
+    "PublisherID": 389,
+    "Name": "Wadsworth Publishing"
+  },
+  {
+    "PublisherID": 390,
+    "Name": "Cambridge University Press"
+  },
+  {
+    "PublisherID": 391,
+    "Name": "Cornell Maritime Pr/Tidewater Pub"
+  },
+  {
+    "PublisherID": 392,
+    "Name": "Carroll & Graf"
+  },
+  {
+    "PublisherID": 393,
+    "Name": "Amistad"
+  },
+  {
+    "PublisherID": 394,
+    "Name": "Perennial"
+  },
+  {
+    "PublisherID": 395,
+    "Name": "Anchor"
+  },
+  {
+    "PublisherID": 396,
+    "Name": "Fireside"
+  },
+  {
+    "PublisherID": 397,
+    "Name": "Longman Higher Education Division (a Pearson Education company)"
+  },
+  {
+    "PublisherID": 398,
+    "Name": "Dial"
+  },
+  {
+    "PublisherID": 399,
+    "Name": "Dial Press"
+  },
+  {
+    "PublisherID": 400,
+    "Name": "I.B. Tauris"
+  },
+  {
+    "PublisherID": 401,
+    "Name": "Random House Puzzles & Games"
+  },
+  {
+    "PublisherID": 402,
+    "Name": "Book Sales"
+  },
+  {
+    "PublisherID": 403,
+    "Name": "Johns Hopkins University Press"
+  },
+  {
+    "PublisherID": 404,
+    "Name": "New Directions"
+  },
+  {
+    "PublisherID": 405,
+    "Name": "Quilt Digest"
+  },
+  {
+    "PublisherID": 406,
+    "Name": "Ferment Press"
+  },
+  {
+    "PublisherID": 407,
+    "Name": "Random House Reference"
+  },
+  {
+    "PublisherID": 408,
+    "Name": "Macmillan Coll Div"
+  },
+  {
+    "PublisherID": 409,
+    "Name": "Harper and Row"
+  },
+  {
+    "PublisherID": 410,
+    "Name": "Dutton Adult"
+  },
+  {
+    "PublisherID": 411,
+    "Name": "Bobbs-Merrill Educational Pub"
+  },
+  {
+    "PublisherID": 412,
+    "Name": "Baen"
+  },
+  {
+    "PublisherID": 413,
+    "Name": "Brady Publishing"
+  },
+  {
+    "PublisherID": 414,
+    "Name": "Storey Publishing, LLC"
+  },
+  {
+    "PublisherID": 415,
+    "Name": "Aspen Systems"
+  },
+  {
+    "PublisherID": 416,
+    "Name": "W. Morrow"
+  },
+  {
+    "PublisherID": 417,
+    "Name": "Thomas Y Crowell Company"
+  },
+  {
+    "PublisherID": 418,
+    "Name": "Follett Pub. Co"
+  },
+  {
+    "PublisherID": 419,
+    "Name": "Dearborn Trade Pub"
+  },
+  {
+    "PublisherID": 420,
+    "Name": "Fortress Press"
+  },
+  {
+    "PublisherID": 421,
+    "Name": "Revell"
+  },
+  {
+    "PublisherID": 422,
+    "Name": "Lyle Stuart"
+  },
+  {
+    "PublisherID": 423,
+    "Name": "Quadrangle/New York Times Book Co"
+  },
+  {
+    "PublisherID": 424,
+    "Name": "Crown Business"
+  },
+  {
+    "PublisherID": 425,
+    "Name": "Atlantic Monthly Press"
+  },
+  {
+    "PublisherID": 426,
+    "Name": "Sourcebooks Inc"
+  },
+  {
+    "PublisherID": 427,
+    "Name": "Metropolitan Books"
+  },
+  {
+    "PublisherID": 428,
+    "Name": "T. Nelson"
+  },
+  {
+    "PublisherID": 429,
+    "Name": "Fairwinds Press"
+  },
+  {
+    "PublisherID": 430,
+    "Name": "Chain Sales Marketing/Aviation History"
+  },
+  {
+    "PublisherID": 431,
+    "Name": "Continuum International Publishing Group"
+  },
+  {
+    "PublisherID": 432,
+    "Name": "Atlantic Monthly Pr"
+  },
+  {
+    "PublisherID": 433,
+    "Name": "Fulcrum Publishing"
+  },
+  {
+    "PublisherID": 434,
+    "Name": "Smithsonian Institution"
+  },
+  {
+    "PublisherID": 435,
+    "Name": "Insiders' Guide"
+  },
+  {
+    "PublisherID": 436,
+    "Name": "HarperCol"
+  },
+  {
+    "PublisherID": 437,
+    "Name": "Tyndale House Publishers"
+  },
+  {
+    "PublisherID": 438,
+    "Name": "Colonial Williamsburg Foundation"
+  },
+  {
+    "PublisherID": 439,
+    "Name": "Lark Books"
+  },
+  {
+    "PublisherID": 440,
+    "Name": "Motorbooks Intl"
+  },
+  {
+    "PublisherID": 441,
+    "Name": "Merrill"
+  },
+  {
+    "PublisherID": 442,
+    "Name": "Van Nostrand Reinhold"
+  },
+  {
+    "PublisherID": 443,
+    "Name": "Hci"
+  },
+  {
+    "PublisherID": 444,
+    "Name": "Stemmer House Pub"
+  },
+  {
+    "PublisherID": 445,
+    "Name": "Bard Press"
+  },
+  {
+    "PublisherID": 446,
+    "Name": "Dell Pub Co"
+  },
+  {
+    "PublisherID": 447,
+    "Name": "National Trust for Historic Preservation"
+  },
+  {
+    "PublisherID": 448,
+    "Name": "Smithsonian"
+  },
+  {
+    "PublisherID": 449,
+    "Name": "The Smithsonian Institution Press"
+  },
+  {
+    "PublisherID": 450,
+    "Name": "Hearst Books"
+  },
+  {
+    "PublisherID": 451,
+    "Name": "Stackpole Books"
+  },
+  {
+    "PublisherID": 452,
+    "Name": "Abingdon-Cokesbury"
+  },
+  {
+    "PublisherID": 453,
+    "Name": "Crown Publishers"
+  },
+  {
+    "PublisherID": 454,
+    "Name": "Interpress"
+  },
+  {
+    "PublisherID": 455,
+    "Name": "Pergamon Press"
+  },
+  {
+    "PublisherID": 456,
+    "Name": "The Johns Hopkins University Press"
+  },
+  {
+    "PublisherID": 457,
+    "Name": "Allyn & Bacon"
+  },
+  {
+    "PublisherID": 458,
+    "Name": "Lane Publishing"
+  },
+  {
+    "PublisherID": 459,
+    "Name": "South End Press"
+  },
+  {
+    "PublisherID": 460,
+    "Name": "American Federation of Arts"
+  },
+  {
+    "PublisherID": 461,
+    "Name": "Pia Pr"
+  },
+  {
+    "PublisherID": 462,
+    "Name": "Peachpit Pr"
+  },
+  {
+    "PublisherID": 463,
+    "Name": "Potter Craft"
+  },
+  {
+    "PublisherID": 464,
+    "Name": "Tor Books"
+  },
+  {
+    "PublisherID": 465,
+    "Name": "Sams"
+  },
+  {
+    "PublisherID": 466,
+    "Name": "National Geographic"
+  },
+  {
+    "PublisherID": 467,
+    "Name": "Times Books"
+  },
+  {
+    "PublisherID": 468,
+    "Name": "Research Triangle Pub"
+  },
+  {
+    "PublisherID": 469,
+    "Name": "NYU Press"
+  },
+  {
+    "PublisherID": 470,
+    "Name": "Perennial (HarperCollins)"
+  },
+  {
+    "PublisherID": 471,
+    "Name": "Cadmus Fine Books"
+  },
+  {
+    "PublisherID": 472,
+    "Name": "Stewart Tabori & Chang"
+  },
+  {
+    "PublisherID": 473,
+    "Name": "Castle"
+  },
+  {
+    "PublisherID": 474,
+    "Name": "Troll Communications Llc"
+  },
+  {
+    "PublisherID": 475,
+    "Name": "Frank Schaffer Publications"
+  },
+  {
+    "PublisherID": 476,
+    "Name": "North Point Press"
+  },
+  {
+    "PublisherID": 477,
+    "Name": "Hamish Hamilton Ltd"
+  },
+  {
+    "PublisherID": 478,
+    "Name": "The MIT Press"
+  },
+  {
+    "PublisherID": 479,
+    "Name": "Aspen Pub"
+  },
+  {
+    "PublisherID": 480,
+    "Name": "BROWN, W.C., COMPANY"
+  },
+  {
+    "PublisherID": 481,
+    "Name": "V. Gollancz"
+  },
+  {
+    "PublisherID": 482,
+    "Name": "Better Homes & Gardens Books"
+  },
+  {
+    "PublisherID": 483,
+    "Name": "Anness"
+  },
+  {
+    "PublisherID": 484,
+    "Name": "Amer Education Pub"
+  },
+  {
+    "PublisherID": 485,
+    "Name": "Crescent"
+  },
+  {
+    "PublisherID": 486,
+    "Name": "O'Reilly Media"
+  },
+  {
+    "PublisherID": 487,
+    "Name": "Universe"
+  },
+  {
+    "PublisherID": 488,
+    "Name": "Forge"
+  },
+  {
+    "PublisherID": 489,
+    "Name": "School Zone Publishing"
+  },
+  {
+    "PublisherID": 490,
+    "Name": "M-H SCH EDUC GRP"
+  },
+  {
+    "PublisherID": 491,
+    "Name": "Maple Tree Press"
+  },
+  {
+    "PublisherID": 492,
+    "Name": "Random House Inc"
+  },
+  {
+    "PublisherID": 493,
+    "Name": "Ideals Childrens Books"
+  },
+  {
+    "PublisherID": 494,
+    "Name": "Bethany House Publishers"
+  },
+  {
+    "PublisherID": 495,
+    "Name": "Rutledge Hill Pr"
+  },
+  {
+    "PublisherID": 496,
+    "Name": "Globe Pequot Pr"
+  },
+  {
+    "PublisherID": 497,
+    "Name": "Coriolis Group"
+  },
+  {
+    "PublisherID": 498,
+    "Name": "Renaissance Books"
+  },
+  {
+    "PublisherID": 499,
+    "Name": "Seven Stories Press"
+  },
+  {
+    "PublisherID": 500,
+    "Name": "SeaStar"
+  },
+  {
+    "PublisherID": 501,
+    "Name": "Canongate Books Ltd"
+  },
+  {
+    "PublisherID": 502,
+    "Name": "Beckett Pubns"
+  },
+  {
+    "PublisherID": 503,
+    "Name": "Perigee Trade"
+  },
+  {
+    "PublisherID": 504,
+    "Name": "Putnam Adult"
+  },
+  {
+    "PublisherID": 505,
+    "Name": "Univ of North Carolina Pr"
+  },
+  {
+    "PublisherID": 506,
+    "Name": "Rr Bowker Llc"
+  },
+  {
+    "PublisherID": 507,
+    "Name": "Hollym International Corporation"
+  },
+  {
+    "PublisherID": 508,
+    "Name": "The Monacelli Press"
+  },
+  {
+    "PublisherID": 509,
+    "Name": "Elton Wolf Pub"
+  },
+  {
+    "PublisherID": 510,
+    "Name": "Warner Books"
+  },
+  {
+    "PublisherID": 511,
+    "Name": "Faber & Faber"
+  },
+  {
+    "PublisherID": 512,
+    "Name": "Scribner Book Company"
+  },
+  {
+    "PublisherID": 513,
+    "Name": "PUblications International, Ltd."
+  },
+  {
+    "PublisherID": 514,
+    "Name": "University of Pennsylvania Press"
+  },
+  {
+    "PublisherID": 515,
+    "Name": "Watson-Guptill"
+  },
+  {
+    "PublisherID": 516,
+    "Name": "Ideals Pubns"
+  },
+  {
+    "PublisherID": 517,
+    "Name": "Logos International"
+  },
+  {
+    "PublisherID": 518,
+    "Name": "W. H. Freeman"
+  },
+  {
+    "PublisherID": 519,
+    "Name": "Pomegranate"
+  },
+  {
+    "PublisherID": 520,
+    "Name": "Wiley-Blackwell (Fence Creek Publishing)"
+  },
+  {
+    "PublisherID": 521,
+    "Name": "Aldine Pub. Co"
+  },
+  {
+    "PublisherID": 522,
+    "Name": "Bookthrift Co"
+  },
+  {
+    "PublisherID": 523,
+    "Name": "Routledge Kegan & Paul"
+  },
+  {
+    "PublisherID": 524,
+    "Name": "The Viking Press"
+  },
+  {
+    "PublisherID": 525,
+    "Name": "Contemporary Books"
+  },
+  {
+    "PublisherID": 526,
+    "Name": "Taylor Trade Publishing"
+  },
+  {
+    "PublisherID": 527,
+    "Name": "Brigadoon Bay Books"
+  },
+  {
+    "PublisherID": 528,
+    "Name": "Meredith Books/bh&g"
+  },
+  {
+    "PublisherID": 529,
+    "Name": "Phoenix House"
+  },
+  {
+    "PublisherID": 530,
+    "Name": "Holiday House"
+  },
+  {
+    "PublisherID": 531,
+    "Name": "Gotham"
+  },
+  {
+    "PublisherID": 532,
+    "Name": "New Millennium Pub"
+  },
+  {
+    "PublisherID": 533,
+    "Name": "Cato Institute"
+  },
+  {
+    "PublisherID": 534,
+    "Name": "Roc Hardcover"
+  },
+  {
+    "PublisherID": 535,
+    "Name": "Apress"
+  },
+  {
+    "PublisherID": 536,
+    "Name": "CAN"
+  },
+  {
+    "PublisherID": 537,
+    "Name": "Spring Arbor Distributors"
+  },
+  {
+    "PublisherID": 538,
+    "Name": "Krause Pubns Inc"
+  },
+  {
+    "PublisherID": 539,
+    "Name": "Howe Brothers"
+  },
+  {
+    "PublisherID": 540,
+    "Name": "Conari Press"
+  },
+  {
+    "PublisherID": 541,
+    "Name": "Williams & Wilkins"
+  },
+  {
+    "PublisherID": 542,
+    "Name": "For Dummies"
+  },
+  {
+    "PublisherID": 543,
+    "Name": "Signal Books"
+  },
+  {
+    "PublisherID": 544,
+    "Name": "Ulysses Press"
+  },
+  {
+    "PublisherID": 545,
+    "Name": "American Express Publishing Company"
+  },
+  {
+    "PublisherID": 546,
+    "Name": "Smithmark Publishers"
+  },
+  {
+    "PublisherID": 547,
+    "Name": "Fearon Teacher AIDS"
+  },
+  {
+    "PublisherID": 548,
+    "Name": "Folio Society"
+  },
+  {
+    "PublisherID": 549,
+    "Name": "Clarion Books"
+  },
+  {
+    "PublisherID": 550,
+    "Name": "Addison Wesley Longman (Higher Education Division, Pearson Education)"
+  },
+  {
+    "PublisherID": 551,
+    "Name": "Harper Design"
+  },
+  {
+    "PublisherID": 552,
+    "Name": "Center for Applied Research in"
+  },
+  {
+    "PublisherID": 553,
+    "Name": "Naturegraph Pub"
+  },
+  {
+    "PublisherID": 554,
+    "Name": "Harl Jeffrey"
+  },
+  {
+    "PublisherID": 555,
+    "Name": "Story Press"
+  },
+  {
+    "PublisherID": 556,
+    "Name": "Good Housekeeping Books"
+  },
+  {
+    "PublisherID": 557,
+    "Name": "Anthony Nelson"
+  },
+  {
+    "PublisherID": 558,
+    "Name": "Four Walls Eight Windows"
+  },
+  {
+    "PublisherID": 559,
+    "Name": "Arte Publico Pr"
+  },
+  {
+    "PublisherID": 560,
+    "Name": "Kodansha Amer Inc"
+  },
+  {
+    "PublisherID": 561,
+    "Name": "Allworth Pr"
+  },
+  {
+    "PublisherID": 562,
+    "Name": "D.A.P./Paper Magazine"
+  },
+  {
+    "PublisherID": 563,
+    "Name": "Jossey-Bass"
+  },
+  {
+    "PublisherID": 564,
+    "Name": "Whitman Publishing"
+  },
+  {
+    "PublisherID": 565,
+    "Name": "Maxwell Macmillan International"
+  },
+  {
+    "PublisherID": 566,
+    "Name": "Littlehampton Book Services Ltd"
+  },
+  {
+    "PublisherID": 567,
+    "Name": "American Institute for Preventive Medicine Press"
+  },
+  {
+    "PublisherID": 568,
+    "Name": "McBooks Pr"
+  },
+  {
+    "PublisherID": 569,
+    "Name": "Addison-Wesley"
+  },
+  {
+    "PublisherID": 570,
+    "Name": "Holt Rinehart & Winston"
+  },
+  {
+    "PublisherID": 571,
+    "Name": "Trafalgar Square"
+  },
+  {
+    "PublisherID": 572,
+    "Name": "Noble Pr"
+  },
+  {
+    "PublisherID": 573,
+    "Name": "Ecco"
+  },
+  {
+    "PublisherID": 574,
+    "Name": "HP Trade"
+  },
+  {
+    "PublisherID": 575,
+    "Name": "Que Pub"
+  },
+  {
+    "PublisherID": 576,
+    "Name": "Paddington Press : distributed by Grosset & Dunlap"
+  },
+  {
+    "PublisherID": 577,
+    "Name": "Ungar Pub Co"
+  },
+  {
+    "PublisherID": 578,
+    "Name": "Benjamin-Cummings Pub Co"
+  },
+  {
+    "PublisherID": 579,
+    "Name": "Augsburg Fortress Pub"
+  },
+  {
+    "PublisherID": 580,
+    "Name": "Thomas Nelson Pub."
+  },
+  {
+    "PublisherID": 581,
+    "Name": "Grove Pr"
+  },
+  {
+    "PublisherID": 582,
+    "Name": "Dell Publishing"
+  },
+  {
+    "PublisherID": 583,
+    "Name": "Rutgers Univ Pr"
+  },
+  {
+    "PublisherID": 584,
+    "Name": "University of Virginia Press"
+  },
+  {
+    "PublisherID": 585,
+    "Name": "University of Arizona Press"
+  },
+  {
+    "PublisherID": 586,
+    "Name": "Duke University Press Books"
+  },
+  {
+    "PublisherID": 587,
+    "Name": "International Thomson Publishing"
+  },
+  {
+    "PublisherID": 588,
+    "Name": "Indiana University Press"
+  },
+  {
+    "PublisherID": 589,
+    "Name": "Target / W. H. Allen"
+  }
+]
