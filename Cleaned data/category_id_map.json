@@ -1,0 +1,178 @@
+[
+    {
+        "CategoryID": 1,
+        "Name": "Existentialist novel"
+    },
+    {
+        "CategoryID": 2,
+        "Name": "Autobiography"
+    },
+    {
+        "CategoryID": 3,
+        "Name": "Fiction"
+    },
+    {
+        "CategoryID": 4,
+        "Name": "Epic Poetry"
+    },
+    {
+        "CategoryID": 5,
+        "Name": "Classic Literature"
+    },
+    {
+        "CategoryID": 6,
+        "Name": "Romantic Novel"
+    },
+    {
+        "CategoryID": 7,
+        "Name": "Children's literature"
+    },
+    {
+        "CategoryID": 8,
+        "Name": "Adventure Fiction"
+    },
+    {
+        "CategoryID": 9,
+        "Name": "Literature"
+    },
+    {
+        "CategoryID": 10,
+        "Name": "Memoir"
+    },
+    {
+        "CategoryID": 11,
+        "Name": "Philosophical novel"
+    },
+    {
+        "CategoryID": 12,
+        "Name": "Epic poetry"
+    },
+    {
+        "CategoryID": 13,
+        "Name": "Post-apocalyptic Fiction"
+    },
+    {
+        "CategoryID": 14,
+        "Name": "Philosophical literature"
+    },
+    {
+        "CategoryID": 15,
+        "Name": "Political Satire"
+    },
+    {
+        "CategoryID": 16,
+        "Name": "Novella"
+    },
+    {
+        "CategoryID": 17,
+        "Name": "Realism"
+    },
+    {
+        "CategoryID": 18,
+        "Name": "Semi-autobiographical novel"
+    },
+    {
+        "CategoryID": 19,
+        "Name": "Epic Fantasy"
+    },
+    {
+        "CategoryID": 20,
+        "Name": "Psychology"
+    },
+    {
+        "CategoryID": 21,
+        "Name": "Fantasy"
+    },
+    {
+        "CategoryID": 22,
+        "Name": "Modernist novel"
+    },
+    {
+        "CategoryID": 23,
+        "Name": "Science"
+    },
+    {
+        "CategoryID": 24,
+        "Name": "Mystery"
+    },
+    {
+        "CategoryID": 25,
+        "Name": "Horror"
+    },
+    {
+        "CategoryID": 26,
+        "Name": "Quest Fiction"
+    },
+    {
+        "CategoryID": 27,
+        "Name": "Philosophical fiction"
+    },
+    {
+        "CategoryID": 28,
+        "Name": "War novel"
+    },
+    {
+        "CategoryID": 29,
+        "Name": "Satirical novel"
+    },
+    {
+        "CategoryID": 30,
+        "Name": "Children's Literature"
+    },
+    {
+        "CategoryID": 31,
+        "Name": "Magic Realism"
+    },
+    {
+        "CategoryID": 32,
+        "Name": "Tragedy"
+    },
+    {
+        "CategoryID": 33,
+        "Name": "Multicultural Fiction"
+    },
+    {
+        "CategoryID": 34,
+        "Name": "Historical Novel"
+    },
+    {
+        "CategoryID": 35,
+        "Name": "Allegorical Novel"
+    },
+    {
+        "CategoryID": 36,
+        "Name": "Picaresque novel"
+    },
+    {
+        "CategoryID": 37,
+        "Name": "Young Adult Fiction"
+    },
+    {
+        "CategoryID": 38,
+        "Name": "Crime Fiction"
+    },
+    {
+        "CategoryID": 39,
+        "Name": "Historical Fiction"
+    },
+    {
+        "CategoryID": 40,
+        "Name": "Science Fiction"
+    },
+    {
+        "CategoryID": 41,
+        "Name": "Dystopian Fiction"
+    },
+    {
+        "CategoryID": 42,
+        "Name": "Gothic Fiction"
+    },
+    {
+        "CategoryID": 43,
+        "Name": "Romance"
+    },
+    {
+        "CategoryID": 44,
+        "Name": "Self-help"
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "PublisherID": 1,
+        "Name": "Hogarth Press"
+    },
+    {
+        "PublisherID": 2,
+        "Name": "None"
+    },
+    {
+        "PublisherID": 3,
+        "Name": "Hamish Hamilton"
+    },
+    {
+        "PublisherID": 4,
+        "Name": "Knopf Canada"
+    },
+    {
+        "PublisherID": 5,
+        "Name": "Harper Perennial Modern Classics"
+    },
+    {
+        "PublisherID": 6,
+        "Name": "Celadon Books"
+    },
+    {
+        "PublisherID": 7,
+        "Name": "Spiegel & Grau"
+    },
+    {
+        "PublisherID": 8,
+        "Name": "Harper"
+    },
+    {
+        "PublisherID": 9,
+        "Name": "Chapman & Hall"
+    },
+    {
+        "PublisherID": 10,
+        "Name": "Bantam Books"
+    },
+    {
+        "PublisherID": 11,
+        "Name": "George Allen & Unwin"
+    },
+    {
+        "PublisherID": 12,
+        "Name": "Amy Einhorn Books"
+    },
+    {
+        "PublisherID": 13,
+        "Name": "McClelland & Stewart"
+    },
+    {
+        "PublisherID": 14,
+        "Name": "Knopf"
+    },
+    {
+        "PublisherID": 15,
+        "Name": "The Viking Press"
+    },
+    {
+        "PublisherID": 16,
+        "Name": "Chilton Books"
+    },
+    {
+        "PublisherID": 17,
+        "Name": "Heinemann"
+    },
+    {
+        "PublisherID": 18,
+        "Name": "Doubleday"
+    },
+    {
+        "PublisherID": 19,
+        "Name": "Farrar, Straus and Giroux"
+    },
+    {
+        "PublisherID": 20,
+        "Name": "Allen & Unwin"
+    },
+    {
+        "PublisherID": 21,
+        "Name": "Little, Brown and Company"
+    },
+    {
+        "PublisherID": 22,
+        "Name": "T. Egerton, Whitehall"
+    },
+    {
+        "PublisherID": 23,
+        "Name": "Bradbury & Evans"
+    },
+    {
+        "PublisherID": 24,
+        "Name": "Lackington, Hughes, Harding, Mavor & Jones"
+    },
+    {
+        "PublisherID": 25,
+        "Name": "Dutton Books"
+    },
+    {
+        "PublisherID": 26,
+        "Name": "Charles Scribner's Sons"
+    },
+    {
+        "PublisherID": 27,
+        "Name": "The Russian Messenger"
+    },
+    {
+        "PublisherID": 28,
+        "Name": "DAW Books"
+    },
+    {
+        "PublisherID": 29,
+        "Name": "Kodansha"
+    },
+    {
+        "PublisherID": 30,
+        "Name": "Harper & Row"
+    },
+    {
+        "PublisherID": 31,
+        "Name": "P\u00e9tion"
+    },
+    {
+        "PublisherID": 32,
+        "Name": "G.P. Putnam's Sons"
+    },
+    {
+        "PublisherID": 33,
+        "Name": "Gallimard"
+    },
+    {
+        "PublisherID": 34,
+        "Name": "William Caxton"
+    },
+    {
+        "PublisherID": 35,
+        "Name": "Scholastic"
+    },
+    {
+        "PublisherID": 36,
+        "Name": "Blackwood's Magazine"
+    },
+    {
+        "PublisherID": 37,
+        "Name": "Delacorte Press"
+    },
+    {
+        "PublisherID": 38,
+        "Name": "Smith, Elder & Co."
+    },
+    {
+        "PublisherID": 39,
+        "Name": "Geoffrey Bles"
+    },
+    {
+        "PublisherID": 40,
+        "Name": "Riverhead Books"
+    },
+    {
+        "PublisherID": 41,
+        "Name": "Pan Books"
+    },
+    {
+        "PublisherID": 42,
+        "Name": "Macmillan Publishers"
+    },
+    {
+        "PublisherID": 43,
+        "Name": "Vintage Books"
+    },
+    {
+        "PublisherID": 44,
+        "Name": "Faber and Faber"
+    },
+    {
+        "PublisherID": 45,
+        "Name": "Smyrna"
+    },
+    {
+        "PublisherID": 46,
+        "Name": "William Heinemann"
+    },
+    {
+        "PublisherID": 47,
+        "Name": "A. Lacroix, Verboeckhoven & Cie."
+    },
+    {
+        "PublisherID": 48,
+        "Name": "Ticknor and Fields"
+    },
+    {
+        "PublisherID": 49,
+        "Name": "Bantam Spectra"
+    },
+    {
+        "PublisherID": 50,
+        "Name": "Thomas Cautley Newby"
+    },
+    {
+        "PublisherID": 51,
+        "Name": "Norstedts F\u00f6rlag"
+    },
+    {
+        "PublisherID": 52,
+        "Name": "Scribner's"
+    },
+    {
+        "PublisherID": 53,
+        "Name": "Lippincott's Monthly Magazine"
+    },
+    {
+        "PublisherID": 54,
+        "Name": "Francisco de Robles"
+    },
+    {
+        "PublisherID": 55,
+        "Name": "Crown Publishing Group"
+    },
+    {
+        "PublisherID": 56,
+        "Name": "HarperTorch"
+    },
+    {
+        "PublisherID": 57,
+        "Name": "MacAdam/Cage"
+    },
+    {
+        "PublisherID": 58,
+        "Name": "James R. Osgood, McIlvaine & Co."
+    },
+    {
+        "PublisherID": 59,
+        "Name": "Ballantine Books"
+    },
+    {
+        "PublisherID": 60,
+        "Name": "Secker & Warburg"
+    },
+    {
+        "PublisherID": 61,
+        "Name": "A. Nonesuch Press"
+    },
+    {
+        "PublisherID": 62,
+        "Name": "Jonathan Cape & Harrison Smith"
+    },
+    {
+        "PublisherID": 63,
+        "Name": "Random House"
+    },
+    {
+        "PublisherID": 64,
+        "Name": "Richard Bentley (UK)"
+    },
+    {
+        "PublisherID": 65,
+        "Name": "Simon & Schuster"
+    },
+    {
+        "PublisherID": 66,
+        "Name": "Reynal & Hitchcock"
+    },
+    {
+        "PublisherID": 67,
+        "Name": "Sylvia Beach"
+    },
+    {
+        "PublisherID": 68,
+        "Name": "St. Martin's Press"
+    },
+    {
+        "PublisherID": 69,
+        "Name": "William Blackwood & Sons"
+    },
+    {
+        "PublisherID": 70,
+        "Name": "George Newnes"
+    },
+    {
+        "PublisherID": 71,
+        "Name": "Chatto & Windus"
+    },
+    {
+        "PublisherID": 72,
+        "Name": "Alfred A. Knopf"
+    },
+    {
+        "PublisherID": 73,
+        "Name": "Thomas Egerton, Military Library"
+    },
+    {
+        "PublisherID": 74,
+        "Name": "Ticknor, Reed, and Fields"
+    }
+]
