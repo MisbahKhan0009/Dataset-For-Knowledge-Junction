@@ -1,0 +1,420 @@
+[
+  {
+    "FullName": "Erin Morgenstern",
+    "Nationality": "American",
+    "Biography": "Erin Morgenstern is an American author best known for her debut novel, 'The Night Circus,' which garnered widespread acclaim for its enchanting storytelling and magical realism. Born in Massachusetts, Morgenstern studied theater and studio art before transitioning to writing. Her imaginative narratives often explore themes of magic, love, and destiny, captivating readers with her lyrical prose and vivid imagery."
+  },
+  {
+    "FullName": "Charles Dickens",
+    "Nationality": "British",
+    "Biography": "Charles Dickens was a prolific British novelist and social critic of the Victorian era. Born in Portsmouth, England, Dickens rose to fame with iconic works such as 'Oliver Twist,' 'Great Expectations,' and 'A Tale of Two Cities.' His novels vividly depict the struggles of the poor and the injustices of society, earning him widespread acclaim and cementing his legacy as one of the greatest writers in English literature."
+  },
+  {
+    "FullName": "Albert Camus",
+    "Nationality": "French",
+    "Biography": "Albert Camus was a French philosopher, author, and journalist known for his existentialist and absurdist themes. Born in Algeria, then a French colony, Camus's literary works, including 'The Stranger' and 'The Plague,' explore the human condition and the search for meaning in a seemingly indifferent universe. His philosophical insights and literary contributions continue to influence modern thought and literature."
+  },
+  {
+    "FullName": "Daniel Kahneman",
+    "Nationality": "American",
+    "Biography": "Daniel Kahneman is an Israeli-American psychologist and Nobel laureate known for his groundbreaking work in behavioral economics and cognitive psychology. Born in Tel Aviv, Israel, Kahneman's research on decision-making, biases, and heuristics has revolutionized our understanding of human behavior and economic theory. His book 'Thinking, Fast and Slow' is a seminal work in the field, earning widespread acclaim for its insights into the human mind."
+  },
+  {
+    "FullName": "Paulo Coelho",
+    "Nationality": "Brazilian",
+    "Biography": "Paulo Coelho is a Brazilian author known for his inspirational novels, including 'The Alchemist' and 'Brida.' Born in Rio de Janeiro, Coelho's writing often draws upon his own spiritual journey and experiences, exploring themes of self-discovery, destiny, and personal growth. Translated into numerous languages, his works have touched the hearts of millions worldwide, making him one of the most widely read authors of contemporary literature."
+  },
+  {
+    "FullName": "Virgil",
+    "Nationality": "Roman",
+    "Biography": "Virgil, also known as Publius Vergilius Maro, was an ancient Roman poet of the Augustan period. Born near Mantua, Italy, Virgil's epic poem 'The Aeneid' is considered one of the greatest works of Latin literature. Commissioned by Emperor Augustus, 'The Aeneid' traces the legendary journey of Aeneas, a Trojan hero, and serves as a national epic glorifying Rome's origins and destiny. Virgil's poetic mastery and profound influence on Western literature endure to this day."
+  },
+
+  {
+    "FullName": "Gillian Flynn",
+    "Nationality": "American",
+    "Biography": "Gillian Flynn is an American author known for her gripping psychological thrillers. Born in Kansas City, Missouri, Flynn gained widespread acclaim for her novel 'Gone Girl,' which was later adapted into a successful film. Her dark and suspenseful storytelling captivates readers, exploring themes of deception, identity, and the complexities of human relationships."
+  },
+  {
+    "FullName": "Sylvia Plath",
+    "Nationality": "American",
+    "Biography": "Sylvia Plath was an American poet, novelist, and short story writer. Born in Boston, Massachusetts, Plath's literary works, including her semi-autobiographical novel 'The Bell Jar' and her poetry collection 'Ariel,' explore themes of mental illness, gender roles, and the search for identity. Despite her tragic death at a young age, Plath's profound impact on modern literature endures."
+  },
+  {
+    "FullName": "Arthur Conan Doyle",
+    "Nationality": "British",
+    "Biography": "Arthur Conan Doyle was a British writer best known for creating the iconic detective Sherlock Holmes. Born in Edinburgh, Scotland, Doyle's Sherlock Holmes stories, featuring his brilliant deductive reasoning and loyal companion Dr. John Watson, have become classics of detective fiction. Beyond Holmes, Doyle was a prolific author, exploring a wide range of genres and subjects throughout his literary career."
+  },
+  {
+    "FullName": "Charlotte Bront",
+    "Nationality": "British",
+    "Biography": "Charlotte Brontë was a British novelist and poet, best known for her novel 'Jane Eyre.' Born in Yorkshire, England, Brontë's groundbreaking work challenged Victorian conventions with its portrayal of a strong, independent female protagonist. Her exploration of social class, gender inequality, and the pursuit of self-worth continues to resonate with readers worldwide."
+  },
+  {
+    "FullName": "Heather Morris",
+    "Nationality": "Australian",
+    "Biography": "Heather Morris is an Australian author and screenwriter best known for her novel 'The Tattooist of Auschwitz.' Based on a true story, the book chronicles the experiences of Holocaust survivor Lale Sokolov, who worked as a tattooist at Auschwitz-Birkenau. Morris's poignant storytelling sheds light on the resilience of the human spirit in the face of unimaginable adversity."
+  },
+  {
+    "FullName": "James Joyce",
+    "Nationality": "Irish",
+    "Biography": "James Joyce was an Irish novelist, poet, and short story writer, regarded as one of the most influential figures in modernist literature. Born in Dublin, Ireland, Joyce's experimental writing style and groundbreaking techniques, as seen in his masterpiece 'Ulysses,' revolutionized the literary landscape. His exploration of themes such as identity, language, and consciousness continues to inspire readers and writers worldwide."
+  },
+  {
+    "FullName": "William Golding",
+    "Nationality": "British",
+    "Biography": "William Golding was a British novelist best known for his novel 'Lord of the Flies.' Born in Cornwall, England, Golding's exploration of human nature and society in 'Lord of the Flies' earned him the Nobel Prize in Literature. His works often delve into themes of civilization, morality, and the inherent darkness within humanity."
+  },
+  {
+    "FullName": "William Faulkner",
+    "Nationality": "American",
+    "Biography": "William Faulkner was an American novelist and short story writer known for his literary achievements in Southern Gothic literature. Born in Mississippi, Faulkner's novels, including 'The Sound and the Fury' and 'As I Lay Dying,' explore the complexities of the American South, often depicting themes of race, class, and the decline of the Old South."
+  },
+  {
+    "FullName": "John Steinbeck",
+    "Nationality": "American",
+    "Biography": "John Steinbeck was an American author and Nobel laureate known for his realistic and compassionate portrayals of the American working class. Born in California, Steinbeck's novels, such as 'The Grapes of Wrath' and 'Of Mice and Men,' capture the struggles and dreams of ordinary people during the Great Depression. His literary contributions earned him widespread acclaim and recognition."
+  },
+  {
+    "FullName": "Ernest Hemingway",
+    "Nationality": "American",
+    "Biography": "Ernest Hemingway was an American novelist, short story writer, and journalist, known for his concise and powerful prose style. Born in Illinois, Hemingway's novels, including 'The Old Man and the Sea' and 'A Farewell to Arms,' often depict themes of war, masculinity, and the human condition. His adventurous life and literary achievements have made him a cultural icon of the 20th century."
+  },
+  {
+    "FullName": "John Green",
+    "Nationality": "American",
+    "Biography": "John Green is an American author and YouTube personality known for his young adult novels. Born in Indiana, Green's novels, such as 'The Fault in Our Stars' and 'Looking for Alaska,' tackle themes of love, loss, and adolescence with sensitivity and wit. His works have garnered widespread popularity and critical acclaim, earning him a dedicated fanbase worldwide."
+  },
+  {
+    "FullName": "Kathryn Stockett",
+    "Nationality": "American",
+    "Biography": "Kathryn Stockett is an American author best known for her novel 'The Help.' Born and raised in Mississippi, Stockett's poignant exploration of race, class, and female empowerment in 'The Help' struck a chord with readers worldwide. Her compelling storytelling and memorable characters have made 'The Help' a beloved modern classic."
+  },
+  {
+    "FullName": "Jane Austen",
+    "Nationality": "British",
+    "Biography": "Jane Austen was a British novelist known for her keen observations of society and insightful character studies. Born in Hampshire, England, Austen's novels, including 'Pride and Prejudice' and 'Sense and Sensibility,' are celebrated for their wit, irony, and social commentary. Her works remain enduring classics of English literature, admired for their timeless portrayal of human nature and romance."
+  },
+  {
+    "FullName": "Joseph Heller",
+    "Nationality": "American",
+    "Biography": "Joseph Heller was an American author best known for his satirical novel 'Catch-22.' Born in New York City, Heller's dark humor and biting critique of bureaucracy and war in 'Catch-22' earned him widespread acclaim. His innovative narrative style and thought-provoking themes have cemented his reputation as one of the most influential writers of the 20th century."
+  },
+  {
+    "FullName": "Toni Morrison",
+    "Nationality": "American",
+    "Biography": "Toni Morrison was an American novelist, essayist, and Nobel laureate known for her powerful exploration of African American experiences. Born in Ohio, Morrison's novels, including 'Beloved' and 'Song of Solomon,' confront themes of race, identity, and trauma with lyrical prose and profound insight. Her literary achievements have earned her numerous awards and accolades, solidifying her legacy as a literary giant."
+  },
+  {
+    "FullName": "Nathaniel Hawthorne",
+    "Nationality": "American",
+    "Biography": "Nathaniel Hawthorne was an American novelist and short story writer known for his dark romanticism and exploration of Puritanism. Born in Massachusetts, Hawthorne's novel 'The Scarlet Letter' is a seminal work of American literature, examining themes of sin, guilt, and redemption in colonial New England. His introspective and allegorical writing style has left an indelible mark on American literature."
+  },
+
+  {
+    "FullName": "Audrey Niffenegger",
+    "Nationality": "American",
+    "Biography": "Audrey Niffenegger is an American author and visual artist best known for her novel 'The Time Traveler's Wife.' Born in South Haven, Michigan, Niffenegger's imaginative storytelling blurs the lines between fantasy and reality, exploring themes of love, fate, and the passage of time. Her unique blend of romance and science fiction has captivated readers around the world."
+  },
+  {
+    "FullName": "M. Scott Peck",
+    "Nationality": "American",
+    "Biography": "M. Scott Peck was an American psychiatrist and author best known for his self-help book 'The Road Less Traveled.' Born in New York City, Peck's work explores topics such as personal growth, spirituality, and mental health. His compassionate approach to psychology and philosophy has inspired readers to embrace life's challenges and pursue a path of self-discovery and fulfillment."
+  },
+  {
+    "FullName": "Alex Michaelides",
+    "Nationality": "British",
+    "Biography": "Alex Michaelides is a British-Cypriot author known for his psychological thriller novel 'The Silent Patient.' Born in Cyprus and raised in England, Michaelides's gripping debut novel captivated readers with its twisty plot and suspenseful storytelling. His exploration of the human psyche and the mysteries of the mind has earned him widespread acclaim in the literary world."
+  },
+  {
+    "FullName": "Stephen Hawking",
+    "Nationality": "British",
+    "Biography": "Stephen Hawking was a British theoretical physicist, cosmologist, and author, renowned for his contributions to the fields of cosmology and quantum gravity. Born in Oxford, England, Hawking's groundbreaking work on black holes and the nature of the universe, as outlined in his book 'A Brief History of Time,' has inspired scientists and readers alike, making complex scientific concepts accessible to the general public."
+  },
+  {
+    "FullName": "Markus Zusak",
+    "Nationality": "Australian",
+    "Biography": "Markus Zusak is an Australian author known for his novel 'The Book Thief.' Born in Sydney, Australia, Zusak's powerful storytelling and unique narrative voice have resonated with readers worldwide. 'The Book Thief,' set during World War II, explores themes of courage, love, and the power of words, earning critical acclaim and numerous literary awards."
+  },
+  {
+    "FullName": "Haruki Murakami",
+    "Nationality": "Japanese",
+    "Biography": "Haruki Murakami is a Japanese author known for his surreal and philosophical novels. Born in Kyoto, Japan, Murakami's works, including 'Norwegian Wood' and 'Kafka on the Shore,' blend elements of magical realism, existentialism, and pop culture. His exploration of loneliness, alienation, and the human condition has made him one of the most celebrated and influential authors of contemporary literature."
+  },
+  {
+    "FullName": "Rudyard Kipling",
+    "Nationality": "British",
+    "Biography": "Rudyard Kipling was a British author and poet best known for his stories and poems set in British India. Born in Bombay, India (now Mumbai), Kipling's works, including 'The Jungle Book' and 'Kim,' capture the spirit of adventure and the complexities of colonial life. His vivid storytelling and evocative prose have left an indelible mark on children's literature and English literature as a whole."
+  },
+  {
+    "FullName": "Gabriel Garcia Marquez",
+    "Nationality": "Colombian",
+    "Biography": "Gabriel García Márquez was a Colombian novelist, short story writer, and Nobel laureate known for his magical realism and literary masterpieces. Born in Aracataca, Colombia, García Márquez's novels, including 'One Hundred Years of Solitude' and 'Love in the Time of Cholera,' are celebrated for their lush imagery, intricate storytelling, and exploration of Latin American culture and history."
+  },
+  {
+    "FullName": "Kurt Vonnegut",
+    "Nationality": "American",
+    "Biography": "Kurt Vonnegut was an American author known for his satirical and science fiction novels. Born in Indianapolis, Indiana, Vonnegut's works, including 'Slaughterhouse-Five' and 'Cat's Cradle,' tackle themes of war, technology, and the human condition with wit and insight. His irreverent storytelling and biting social commentary have made him a countercultural icon and literary figure."
+  },
+  {
+    "FullName": "Patrick Rothfuss",
+    "Nationality": "American",
+    "Biography": "Patrick Rothfuss is an American author known for his fantasy series 'The Kingkiller Chronicle.' Born in Madison, Wisconsin, Rothfuss's epic fantasy novels, including 'The Name of the Wind' and 'The Wise Man's Fear,' transport readers to the magical world of Temerant, filled with compelling characters and intricate world-building. His lyrical prose and masterful storytelling have earned him a devoted fanbase and critical acclaim."
+  },
+  {
+    "FullName": "Mark Twain",
+    "Nationality": "American",
+    "Biography": "Mark Twain, born Samuel Langhorne Clemens, was an American author and humorist best known for his novels 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn.' Born in Florida, Missouri, Twain's witty observations of American society and his mastery of vernacular storytelling have made him one of the most beloved and influential writers in American literature."
+  },
+  {
+    "FullName": "Dante Alighieri",
+    "Nationality": "Italian",
+    "Biography": "Dante Alighieri was an Italian poet, writer, and philosopher best known for his epic poem 'Divine Comedy.' Born in Florence, Italy, Dante's 'Divine Comedy,' consisting of three parts—'Inferno,' 'Purgatorio,' and 'Paradiso'—is considered one of the greatest works of world literature. His exploration of the afterlife, moral theology, and political allegory continues to resonate with readers and scholars."
+  },
+  {
+    "FullName": "Miguel de Cervantes",
+    "Nationality": "Spanish",
+    "Biography": "Miguel de Cervantes was a Spanish novelist, poet, and playwright best known for his novel 'Don Quixote.' Born in Alcalá de Henares, Spain, Cervantes's masterpiece 'Don Quixote,' often regarded as the first modern novel, follows the adventures of the eccentric knight-errant Don Quixote and his loyal squire Sancho Panza. Cervantes's innovative narrative techniques and timeless themes of idealism and reality have secured his place as a literary giant."
+  },
+  {
+    "FullName": "Charles Duhigg",
+    "Nationality": "American",
+    "Biography": "Charles Duhigg is an American author and journalist known for his explorations of the science of habit formation and productivity. Born in New Mexico, Duhigg's book 'The Power of Habit' delves into the psychology behind habits and how they shape our lives and businesses. His insightful research and engaging storytelling have made him a sought-after speaker and thought leader in the field of behavioral psychology."
+  },
+  {
+    "FullName": "Joseph Conrad",
+    "Nationality": "British",
+    "Biography": "Joseph Conrad was a British novelist considered one of the greatest English-language writers of the 20th century. Born in what is now Ukraine, Conrad's works, including 'Heart of Darkness' and 'Lord Jim,' explore themes of human nature, colonialism, and the moral dilemmas of existence. His profound insight into the human psyche and mastery of narrative technique have earned him a lasting place in literary history."
+  },
+  {
+    "FullName": "George Eliot",
+    "Nationality": "British",
+    "Biography": "George Eliot, born Mary Ann Evans, was a British novelist and one of the leading writers of the Victorian era. Born in Warwickshire, England, Eliot's novels, including 'Middlemarch' and 'The Mill on the Floss,' are celebrated for their psychological depth, realism, and social commentary. Her insightful portrayals of complex characters and exploration of moral and social issues have earned her a prominent place in English literature."
+  },
+  {
+    "FullName": "Geoffrey Chaucer",
+    "Nationality": "English",
+    "Biography": "Geoffrey Chaucer was an English poet and author known as the 'Father of English literature.' Born in London, Chaucer's masterpiece, 'The Canterbury Tales,' is a seminal work of Middle English literature, showcasing his wit, satire, and keen observation of medieval society. His contributions to English poetry and language have had a profound and enduring impact on literature and culture."
+  },
+  {
+    "FullName": "Kristin Hannah",
+    "Nationality": "American",
+    "Biography": "Kristin Hannah is an American author known for her emotionally rich and compelling novels. Born in California, Hannah's best-selling books, such as 'The Nightingale' and 'Firefly Lane,' explore themes of love, friendship, and resilience in the face of adversity. Her poignant storytelling and vivid characters have resonated with readers worldwide, making her one of the most beloved authors of contemporary fiction."
+  },
+  {
+    "FullName": "Frank Herbert",
+    "Nationality": "American",
+    "Biography": "Frank Herbert was an American author best known for his science fiction epic 'Dune' and its sequels. Born in Washington, Herbert's sprawling and intricate universe, set in a distant future where politics, religion, and ecology collide, has captivated readers for generations. His imaginative world-building and philosophical themes have earned him a place among the greatest science fiction writers of all time."
+  },
+  {
+    "FullName": "Stieg Larsson",
+    "Nationality": "Swedish",
+    "Biography": "Stieg Larsson was a Swedish journalist and author known for his Millennium series, beginning with 'The Girl with the Dragon Tattoo.' Born in Skelleftehamn, Sweden, Larsson's gripping crime novels, featuring investigative journalist Mikael Blomkvist and hacker Lisbeth Salander, tackle themes of corruption, violence, and societal injustice. His posthumously published works have become international bestsellers, cementing his legacy as a master of Nordic noir."
+  },
+  {
+    "FullName": "Tara Westover",
+    "Nationality": "American",
+    "Biography": "Tara Westover is an American author known for her memoir 'Educated.' Born in Idaho, Westover's memoir recounts her journey from growing up in a strict and isolated household to earning a PhD from Cambridge University. 'Educated' explores themes of family, education, and the power of self-discovery, earning widespread acclaim for its honesty, resilience, and triumph over adversity."
+  },
+  {
+    "FullName": "Mary Shelley",
+    "Nationality": "British",
+    "Biography": "Mary Shelley was a British novelist and writer best known for her Gothic novel 'Frankenstein.' Born in London, England, Shelley's groundbreaking work, written when she was just eighteen years old, explores themes of creation, ambition, and the consequences of scientific discovery. Her imaginative storytelling and exploration of ethical dilemmas continue to resonate with readers and inspire adaptations across various media."
+  },
+  {
+    "FullName": "Andy Weir",
+    "Nationality": "American",
+    "Biography": "Andy Weir is an American author known for his science fiction novel 'The Martian.' Born in California, Weir's self-published novel, originally serialized online, became a literary sensation and was later adapted into a successful film. His meticulous research, technical accuracy, and humor have endeared him to fans of hard science fiction around the world."
+  },
+  {
+    "FullName": "Thomas Hardy",
+    "Nationality": "British",
+    "Biography": "Thomas Hardy was an English novelist and poet known for his depictions of rural life in Wessex, England. Born in Dorset, England, Hardy's novels, including 'Tess of the d'Urbervilles' and 'Far from the Madding Crowd,' explore themes of fate, class, and the conflict between individual desires and societal expectations. His poetic prose and tragic narratives have earned him a lasting place in English literature."
+  },
+  {
+    "FullName": "Zadie Smith",
+    "Nationality": "British",
+    "Biography": "Zadie Smith is a British author known for her critically acclaimed novels exploring themes of race, identity, and multiculturalism. Born in London, England, Smith's debut novel 'White Teeth' garnered widespread acclaim, heralding the arrival of a bold new voice in contemporary literature. Her insightful observations of modern society and richly drawn characters have established her as one of the most influential writers of her generation."
+  },
+  {
+    "FullName": "Mark Haddon",
+    "Nationality": "British",
+    "Biography": "Mark Haddon is a British author and illustrator best known for his novel 'The Curious Incident of the Dog in the Night-Time.' Born in Northampton, England, Haddon's novel, narrated by a teenage boy with autism, offers a unique perspective on the human mind and the mysteries of life. His empathetic portrayal of neurodiversity and poignant storytelling have earned him widespread acclaim and literary awards."
+  },
+  {
+    "FullName": "George Orwell",
+    "Nationality": "British",
+    "Biography": "George Orwell, born Eric Arthur Blair, was a British novelist, essayist, and critic best known for his dystopian novel 'Nineteen Eighty-Four' and allegorical novella 'Animal Farm.' Born in British India, Orwell's works explore themes of totalitarianism, surveillance, and political oppression, reflecting his own experiences and observations of the 20th century. His keen insight into social and political issues continues to resonate with readers around the world."
+  },
+  {
+    "FullName": "Alexandre Dumas",
+    "Nationality": "French",
+    "Biography": "Alexandre Dumas was a French writer known for his adventure novels, including 'The Three Musketeers' and 'The Count of Monte Cristo.' Born in Villers-Cotterêts, France, Dumas's swashbuckling tales of heroism, romance, and revenge have captivated readers for generations. His prolific output and timeless stories have made him one of the most widely read authors in literary history."
+  },
+
+  {
+    "FullName": "George R.R. Martin",
+    "Nationality": "American",
+    "Biography": "George R.R. Martin is an American author and screenwriter best known for his epic fantasy series 'A Song of Ice and Fire,' which was adapted into the acclaimed television series 'Game of Thrones.' Born in New Jersey, Martin's richly detailed world-building, complex characters, and political intrigue have captivated readers and viewers worldwide. His work has earned numerous awards and accolades, establishing him as one of the most influential figures in contemporary fantasy literature."
+  },
+  {
+    "FullName": "Douglas Adams",
+    "Nationality": "British",
+    "Biography": "Douglas Adams was a British author and humorist best known for his science fiction series 'The Hitchhiker's Guide to the Galaxy.' Born in Cambridge, England, Adams's witty and irreverent take on space exploration, philosophy, and bureaucracy has earned him a cult following. His unique blend of satire and absurdity continues to entertain and inspire readers around the world."
+  },
+  {
+    "FullName": "Margaret Mitchell",
+    "Nationality": "American",
+    "Biography": "Margaret Mitchell was an American author best known for her novel 'Gone with the Wind.' Born in Atlanta, Georgia, Mitchell's sweeping saga of the American South during the Civil War and Reconstruction era has become a literary classic. Her vivid characters, epic romance, and exploration of race and class have made 'Gone with the Wind' one of the best-selling novels of all time and earned Mitchell the Pulitzer Prize for Fiction."
+  },
+  {
+    "FullName": "Delia Owens",
+    "Nationality": "American",
+    "Biography": "Delia Owens is an American author and zoologist known for her debut novel 'Where the Crawdads Sing.' Born in Georgia, Owens's atmospheric mystery novel, set in the marshes of North Carolina, has captivated readers with its lyrical prose and evocative storytelling. Her background in wildlife science and her love for nature shine through in her writing, creating a compelling and immersive reading experience."
+  },
+  {
+    "FullName": "Leo Tolstoy",
+    "Nationality": "Russian",
+    "Biography": "Leo Tolstoy was a Russian novelist and philosopher considered one of the greatest authors of all time. Born in Yasnaya Polyana, Russia, Tolstoy's masterpieces, including 'War and Peace' and 'Anna Karenina,' are celebrated for their exploration of the human condition, morality, and the Russian society of the 19th century. His profound insights into love, faith, and the meaning of life continue to resonate with readers around the world."
+  },
+  {
+    "FullName": "Khaled Hosseini",
+    "Nationality": "Afghan",
+    "Biography": "Khaled Hosseini is an Afghan-American author and physician known for his novels 'The Kite Runner,' 'A Thousand Splendid Suns,' and 'And the Mountains Echoed.' Born in Kabul, Afghanistan, Hosseini's deeply moving stories, set against the backdrop of Afghanistan's tumultuous history, have touched readers with their themes of friendship, family, and redemption. His work has earned him international acclaim and a dedicated global following."
+  },
+  {
+    "FullName": "Dan Brown",
+    "Nationality": "American",
+    "Biography": "Dan Brown is an American author known for his bestselling thriller novels, including 'The Da Vinci Code' and 'Angels & Demons.' Born in New Hampshire, Brown's meticulously researched and fast-paced narratives, often centered around religious and historical mysteries, have captivated readers around the world. His books have been translated into numerous languages and adapted into blockbuster films."
+  },
+  {
+    "FullName": "Yann Martel",
+    "Nationality": "Canadian",
+    "Biography": "Yann Martel is a Canadian author known for his novel 'Life of Pi,' which won the Man Booker Prize for Fiction in 2002. Born in Spain and raised in Canada, Martel's imaginative tale of a young boy adrift at sea with a Bengal tiger has enchanted readers with its allegorical richness and philosophical depth. His exploration of faith, survival, and the power of storytelling has earned him critical acclaim and international recognition."
+  },
+  {
+    "FullName": "Fyodor Dostoevsky",
+    "Nationality": "Russian",
+    "Biography": "Fyodor Dostoevsky was a Russian novelist, philosopher, and journalist considered one of the greatest psychological novelists in world literature. Born in Moscow, Russia, Dostoevsky's works, including 'Crime and Punishment' and 'The Brothers Karamazov,' explore themes of morality, existentialism, and the human psyche. His profound insights into the depths of the human soul and the complexities of human nature have left an indelible mark on literature."
+  },
+  {
+    "FullName": "Herman Melville",
+    "Nationality": "American",
+    "Biography": "Herman Melville was an American author best known for his novel 'Moby-Dick' and his seafaring tales. Born in New York City, Melville's works explore themes of obsession, fate, and the struggle between man and nature. Though largely overlooked during his lifetime, Melville's literary legacy has grown over the years, and 'Moby-Dick' is now regarded as one of the greatest American novels ever written."
+  },
+  {
+    "FullName": "Cormac McCarthy",
+    "Nationality": "American",
+    "Biography": "Cormac McCarthy is an American author known for his spare and powerful prose and his exploration of themes such as violence, morality, and the American landscape. Born in Rhode Island, McCarthy's novels, including 'Blood Meridian' and 'The Road,' are celebrated for their lyrical language and bleak yet profound insights into the human condition. His work has earned him numerous awards, including the Pulitzer Prize for Fiction."
+  },
+  {
+    "FullName": "Bret Easton Ellis",
+    "Nationality": "American",
+    "Biography": "Bret Easton Ellis is an American author known for his controversial and provocative novels depicting the excesses of contemporary American society. Born in Los Angeles, California, Ellis's works, including 'Less Than Zero' and 'American Psycho,' have sparked debate and controversy with their graphic depictions of violence, materialism, and nihilism. His uncompromising exploration of the darker aspects of human nature has made him a polarizing figure in literature."
+  },
+  {
+    "FullName": "Antoine de Saint-Exupry",
+    "Nationality": "French",
+    "Biography": "Antoine de Saint-Exupéry was a French writer, poet, and aviator best known for his novella 'The Little Prince.' Born in Lyon, France, Saint-Exupéry's lyrical and philosophical tale, beloved by readers of all ages, explores themes of friendship, love, and the search for meaning in life. His poignant reflections on the human condition and the importance of imagination continue to resonate with readers around the world."
+  },
+  {
+    "FullName": "J.D. Salinger",
+    "Nationality": "American",
+    "Biography": "J.D. Salinger was an American author known for his novel 'The Catcher in the Rye,' one of the most widely read and influential works of 20th-century literature. Born in New York City, Salinger's iconic protagonist, Holden Caulfield, captured the imagination of readers with his alienation, rebellion, and search for authenticity. Despite his reclusive nature, Salinger's literary legacy endures as a touchstone of adolescent angst and existential disillusionment."
+  },
+  {
+    "FullName": "Donna Tartt",
+    "Nationality": "American",
+    "Biography": "Donna Tartt is an American author known for her novels 'The Secret History,' 'The Little Friend,' and 'The Goldfinch,' which won the Pulitzer Prize for Fiction in 2014. Born in Mississippi, Tartt's meticulously crafted narratives and richly drawn characters have earned her critical acclaim and a devoted following. Her immersive storytelling and exploration of themes such as art, friendship, and loss have solidified her reputation as one of the preeminent voices in contemporary literature."
+  },
+  {
+    "FullName": "Oscar Wilde",
+    "Nationality": "Irish",
+    "Biography": "Oscar Wilde was an Irish playwright, poet, and author known for his wit, flamboyance, and contributions to literature and aesthetics. Born in Dublin, Ireland, Wilde's plays, including 'The Importance of Being Earnest' and 'The Picture of Dorian Gray,' are celebrated for their sharp satire and social commentary. Despite his tragic downfall and imprisonment, Wilde's enduring legacy continues to inspire artists, writers, and thinkers worldwide."
+  },
+  {
+    "FullName": "Colson Whitehead",
+    "Nationality": "American",
+    "Biography": "Colson Whitehead is an American author known for his novels exploring African-American history and culture. Born in New York City, Whitehead's works, including 'The Underground Railroad' and 'The Nickel Boys,' have earned him critical acclaim and numerous awards, including the Pulitzer Prize for Fiction. His powerful storytelling and unflinching examination of race and identity have cemented his place as one of the most important voices in contemporary literature."
+  },
+  {
+    "FullName": "Emily Brontë",
+    "Nationality": "British",
+    "Biography": "Emily Brontë was a British novelist and poet best known for her only novel, 'Wuthering Heights.' Born in Yorkshire, England, Brontë's haunting tale of passion, revenge, and the Yorkshire moors has become a classic of English literature. Despite her relatively short life, Brontë's enigmatic personality and evocative writing style continue to fascinate readers and scholars alike."
+  },
+  {
+    "FullName": "Stephen King",
+    "Nationality": "American",
+    "Biography": "Stephen King is an American author of horror, supernatural fiction, suspense, and fantasy novels. Born in Maine, King's prolific output and uncanny ability to tap into primal fears have made him one of the most popular and influential writers of his generation. His works, such as 'The Shining,' 'It,' and 'The Stand,' have sold millions of copies worldwide and been adapted into numerous films, television series, and other media."
+  },
+  {
+    "FullName": "Trevor Noah",
+    "Nationality": "South African",
+    "Biography": "Trevor Noah is a South African comedian, television host, and author best known for hosting 'The Daily Show' on Comedy Central. Born in Johannesburg, South Africa, Noah's memoir, 'Born a Crime,' explores his childhood growing up during the apartheid era and his rise to prominence in the entertainment industry. His incisive wit, sharp social commentary, and personal anecdotes have earned him widespread acclaim and a global audience."
+  },
+  {
+    "FullName": "C.S. Lewis",
+    "Nationality": "British",
+    "Biography": "C.S. Lewis was a British writer and scholar best known for his fantasy series 'The Chronicles of Narnia.' Born in Belfast, Ireland, Lewis's imaginative tales of adventure, magic, and Christian allegory have captivated readers of all ages. His works, including 'The Lion, the Witch and the Wardrobe,' continue to inspire and enchant readers around the world."
+  },
+  {
+    "FullName": "Virginia Woolf",
+    "Nationality": "British",
+    "Biography": "Virginia Woolf was a British writer and modernist literary figure known for her novels, essays, and pioneering works of feminist literature. Born in London, England, Woolf's experimental narratives, stream-of-consciousness writing style, and exploration of the inner lives of her characters have left an indelible mark on 20th-century literature. Her most famous works include 'Mrs. Dalloway' and 'To the Lighthouse.'"
+  },
+  {
+    "FullName": "Aldous Huxley",
+    "Nationality": "British",
+    "Biography": "Aldous Huxley was a British writer and philosopher known for his dystopian novel 'Brave New World.' Born into a prominent intellectual family, Huxley's exploration of technology, society, and individual freedom has made him one of the most influential figures in 20th-century literature. His works continue to provoke thought and discussion on the ethical implications of scientific advancement."
+  },
+  {
+    "FullName": "Lisa Wingate",
+    "Nationality": "American",
+    "Biography": "Lisa Wingate is an American author known for her bestselling novels, including 'Before We Were Yours' and 'The Book of Lost Friends.' Born in Texas, Wingate's compelling storytelling and heartfelt narratives often draw inspiration from historical events and personal experiences. Her works explore themes of family, resilience, and the enduring power of hope."
+  },
+  {
+    "FullName": "Victor Hugo",
+    "Nationality": "French",
+    "Biography": "Victor Hugo was a French poet, novelist, and playwright known for his epic historical novels, including 'Les Misérables' and 'The Hunchback of Notre-Dame.' Born in Besançon, France, Hugo's literary masterpieces have had a profound impact on French literature and culture. His impassioned advocacy for social justice and human rights continues to resonate with readers worldwide."
+  },
+  {
+    "FullName": "Homer",
+    "Nationality": "Greek",
+    "Biography": "Homer is an ancient Greek poet traditionally credited with composing the epic poems 'The Iliad' and 'The Odyssey.' Little is known about Homer's life, but his works, which explore themes of heroism, fate, and the human condition, have had a lasting influence on Western literature and culture. His epic narratives have been studied, adapted, and celebrated for centuries."
+  },
+  {
+    "FullName": "Margaret Atwood",
+    "Nationality": "Canadian",
+    "Biography": "Margaret Atwood is a Canadian author known for her dystopian fiction and feminist themes. Born in Ottawa, Canada, Atwood's novels, including 'The Handmaid's Tale' and 'Oryx and Crake,' explore issues of power, gender, and environmental degradation. Her visionary storytelling and incisive social commentary have earned her numerous awards and international acclaim."
+  },
+  {
+    "FullName": "F. Scott Fitzgerald",
+    "Nationality": "American",
+    "Biography": "F. Scott Fitzgerald was an American novelist and short story writer known for his portrayal of the Jazz Age in America. Born in St. Paul, Minnesota, Fitzgerald's novels, including 'The Great Gatsby' and 'Tender Is the Night,' capture the glamour, excess, and disillusionment of the Roaring Twenties. His elegant prose and exploration of the American Dream have secured his place as one of the greatest American writers of the 20th century."
+  },
+  {
+    "FullName": "Henry David Thoreau",
+    "Nationality": "American",
+    "Biography": "Henry David Thoreau was an American essayist, poet, and philosopher known for his transcendentalist writings and his book 'Walden.' Born in Concord, Massachusetts, Thoreau's celebration of nature, simplicity, and self-reliance has inspired generations of readers to seek a deeper connection with the natural world and live deliberately. His influence on environmentalism and social activism remains profound."
+  },
+  {
+    "FullName": "Suzanne Collins",
+    "Nationality": "American",
+    "Biography": "Suzanne Collins is an American author known for her bestselling 'The Hunger Games' trilogy. Born in Hartford, Connecticut, Collins's dystopian novels, set in a post-apocalyptic future, have captured the imaginations of readers of all ages with their themes of survival, sacrifice, and rebellion. Her powerful storytelling and complex characters have made her one of the most successful authors of young adult literature."
+  },
+  {
+    "FullName": "H.G. Wells",
+    "Nationality": "British",
+    "Biography": "H.G. Wells was a British writer and visionary known for his science fiction novels, including 'The War of the Worlds' and 'The Time Machine.' Born in Bromley, England, Wells's imaginative tales of alien invasions, time travel, and futuristic societies have left an indelible mark on the genre of science fiction. His works continue to inspire writers, filmmakers, and scientists to explore the possibilities of the future."
+  },
+  {
+    "FullName": "J.R.R. Tolkien",
+    "Nationality": "British",
+    "Biography": "J.R.R. Tolkien was a British writer, philologist, and academic known for his fantasy novels 'The Hobbit' and 'The Lord of the Rings.' Born in Bloemfontein, South Africa, Tolkien's richly imagined world of Middle-earth, populated by hobbits, elves, and wizards, has captured the hearts and imaginations of readers worldwide. His works, celebrated for their depth of mythology and linguistic invention, have become timeless classics of fantasy literature."
+  },
+  {
+    "FullName": "Harper Lee",
+    "Nationality": "American",
+    "Biography": "Harper Lee was an American author best known for her novel 'To Kill a Mockingbird.' Born in Monroeville, Alabama, Lee's exploration of racial injustice and moral growth in the American South has earned her widespread acclaim and a Pulitzer Prize. Despite publishing only one novel, Lee's impact on literature and social consciousness remains profound, cementing her status as one of the most important American writers of the 20th century."
+  }
+]
