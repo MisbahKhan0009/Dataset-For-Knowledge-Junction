@@ -1,0 +1,902 @@
+[
+  {
+    "Title": "To Kill a Mockingbird",
+    "Publish Date": "11/07/1960",
+    "ISBN": 9780061120084,
+    "LanguageID": 1,
+    "PublisherID": 5,
+    "AuthorID": 83,
+    "CategoryID": 3
+  },
+  {
+    "Title": "1984",
+    "Publish Date": "08/06/1949",
+    "ISBN": 9780451524935,
+    "LanguageID": 1,
+    "PublisherID": 60,
+    "AuthorID": 49,
+    "CategoryID": 41
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Publish Date": "28/01/1813",
+    "ISBN": 9780141439518,
+    "LanguageID": 1,
+    "PublisherID": 22,
+    "AuthorID": 19,
+    "CategoryID": 5
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Publish Date": "10/04/1925",
+    "ISBN": 9780743273565,
+    "LanguageID": 1,
+    "PublisherID": 26,
+    "AuthorID": 78,
+    "CategoryID": 3
+  },
+  {
+    "Title": "Moby-Dick",
+    "Publish Date": "18/10/1851",
+    "ISBN": 9780143124672,
+    "LanguageID": 1,
+    "PublisherID": 64,
+    "AuthorID": 60,
+    "CategoryID": 8
+  },
+  {
+    "Title": "Jane Eyre",
+    "Publish Date": "16/10/1847",
+    "ISBN": 9780141441146,
+    "LanguageID": 1,
+    "PublisherID": 38,
+    "AuthorID": 10,
+    "CategoryID": 42
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Publish Date": "16/07/1951",
+    "ISBN": 9780316769488,
+    "LanguageID": 1,
+    "PublisherID": 21,
+    "AuthorID": 64,
+    "CategoryID": 3
+  },
+  {
+    "Title": "Brave New World",
+    "Publish Date": "17/07/1932",
+    "ISBN": 9780060850524,
+    "LanguageID": 1,
+    "PublisherID": 71,
+    "AuthorID": 73,
+    "CategoryID": 40
+  },
+  {
+    "Title": "The Hobbit",
+    "Publish Date": "21/09/1937",
+    "ISBN": 9780618968633,
+    "LanguageID": 1,
+    "PublisherID": 11,
+    "AuthorID": 82,
+    "CategoryID": 21
+  },
+  {
+    "Title": "Lord of the Flies",
+    "Publish Date": "17/09/1954",
+    "ISBN": 9780571295715,
+    "LanguageID": 1,
+    "PublisherID": 44,
+    "AuthorID": 13,
+    "CategoryID": 35
+  },
+  {
+    "Title": "Animal Farm",
+    "Publish Date": "17/08/1945",
+    "ISBN": 9780452284241,
+    "LanguageID": 1,
+    "PublisherID": 60,
+    "AuthorID": 49,
+    "CategoryID": 15
+  },
+  {
+    "Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "Publish Date": "16/10/1950",
+    "ISBN": 9780066238500,
+    "LanguageID": 1,
+    "PublisherID": 39,
+    "AuthorID": 71,
+    "CategoryID": 21
+  },
+  {
+    "Title": "Wuthering Heights",
+    "Publish Date": "13/11/1847",
+    "ISBN": 9780141439556,
+    "LanguageID": 1,
+    "PublisherID": 50,
+    "AuthorID": 68,
+    "CategoryID": 42
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Publish Date": "20/06/1890",
+    "ISBN": 9780141439570,
+    "LanguageID": 1,
+    "PublisherID": 53,
+    "AuthorID": 66,
+    "CategoryID": 27
+  },
+  {
+    "Title": "Gone with the Wind",
+    "Publish Date": "30/06/1936",
+    "ISBN": 9780446675536,
+    "LanguageID": 1,
+    "PublisherID": 42,
+    "AuthorID": 53,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Adventures of Huckleberry Finn",
+    "Publish Date": "10/12/1884",
+    "ISBN": 9780141439648,
+    "LanguageID": 1,
+    "PublisherID": 71,
+    "AuthorID": 33,
+    "CategoryID": 36
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Publish Date": "11/06/1866",
+    "ISBN": 9780143058142,
+    "LanguageID": 1,
+    "PublisherID": 27,
+    "AuthorID": 59,
+    "CategoryID": 11
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Publish Date": "29/07/1954",
+    "ISBN": 9780618640157,
+    "LanguageID": 1,
+    "PublisherID": 20,
+    "AuthorID": 82,
+    "CategoryID": 21
+  },
+  {
+    "Title": "The Grapes of Wrath",
+    "Publish Date": "14/04/1939",
+    "ISBN": 9780143039431,
+    "LanguageID": 1,
+    "PublisherID": 15,
+    "AuthorID": 15,
+    "CategoryID": 17
+  },
+  {
+    "Title": "Anna Karenina",
+    "Publish Date": "08/12/1877",
+    "ISBN": 9780143035006,
+    "LanguageID": 1,
+    "PublisherID": 27,
+    "AuthorID": 55,
+    "CategoryID": 17
+  },
+  {
+    "Title": "The Little Prince",
+    "Publish Date": "06/04/1943",
+    "ISBN": 9780156012195,
+    "LanguageID": 1,
+    "PublisherID": 66,
+    "AuthorID": 63,
+    "CategoryID": 30
+  },
+  {
+    "Title": "Sense and Sensibility",
+    "Publish Date": "30/10/1811",
+    "ISBN": 9780141439662,
+    "LanguageID": 1,
+    "PublisherID": 73,
+    "AuthorID": 19,
+    "CategoryID": 6
+  },
+  {
+    "Title": "Frankenstein",
+    "Publish Date": "01/01/1818",
+    "ISBN": 9780141439471,
+    "LanguageID": 1,
+    "PublisherID": 24,
+    "AuthorID": 44,
+    "CategoryID": 42
+  },
+  {
+    "Title": "Don Quixote",
+    "Publish Date": "16/01/1605",
+    "ISBN": 9780060934347,
+    "LanguageID": 1,
+    "PublisherID": 54,
+    "AuthorID": 35,
+    "CategoryID": 36
+  },
+  {
+    "Title": "The Odyssey",
+    "Publish Date": "08/04/800 BCE",
+    "ISBN": 9780143039950,
+    "LanguageID": 1,
+    "PublisherID": 45,
+    "AuthorID": 76,
+    "CategoryID": 12
+  },
+  {
+    "Title": "Les Mis\u00e9rables",
+    "Publish Date": "03/04/1862",
+    "ISBN": 9780451419439,
+    "LanguageID": 1,
+    "PublisherID": 47,
+    "AuthorID": 75,
+    "CategoryID": 39
+  },
+  {
+    "Title": "One Hundred Years of Solitude",
+    "Publish Date": "05/06/1967",
+    "ISBN": 9780060883287,
+    "LanguageID": 1,
+    "PublisherID": 30,
+    "AuthorID": 30,
+    "CategoryID": 31
+  },
+  {
+    "Title": "The Brothers Karamazov",
+    "Publish Date": "12/12/1880",
+    "ISBN": 9780143058142,
+    "LanguageID": 1,
+    "PublisherID": 27,
+    "AuthorID": 59,
+    "CategoryID": 11
+  },
+  {
+    "Title": "War and Peace",
+    "Publish Date": "09/06/1869",
+    "ISBN": 9780679602811,
+    "LanguageID": 1,
+    "PublisherID": 27,
+    "AuthorID": 55,
+    "CategoryID": 39
+  },
+  {
+    "Title": "Great Expectations",
+    "Publish Date": "01/12/1860",
+    "ISBN": 9780141439563,
+    "LanguageID": 1,
+    "PublisherID": 9,
+    "AuthorID": 2,
+    "CategoryID": 17
+  },
+  {
+    "Title": "The Scarlet Letter",
+    "Publish Date": "16/03/1850",
+    "ISBN": 9780142437261,
+    "LanguageID": 1,
+    "PublisherID": 74,
+    "AuthorID": 22,
+    "CategoryID": 42
+  },
+  {
+    "Title": "The Bell Jar",
+    "Publish Date": "14/01/1963",
+    "ISBN": 9780061148514,
+    "LanguageID": 1,
+    "PublisherID": 17,
+    "AuthorID": 8,
+    "CategoryID": 18
+  },
+  {
+    "Title": "A Tale of Two Cities",
+    "Publish Date": "30/04/1859",
+    "ISBN": 9780141439600,
+    "LanguageID": 1,
+    "PublisherID": 9,
+    "AuthorID": 2,
+    "CategoryID": 34
+  },
+  {
+    "Title": "Catch-22",
+    "Publish Date": "10/10/1961",
+    "ISBN": 9780099470465,
+    "LanguageID": 1,
+    "PublisherID": 65,
+    "AuthorID": 20,
+    "CategoryID": 29
+  },
+  {
+    "Title": "Heart of Darkness",
+    "Publish Date": "03/02/1899",
+    "ISBN": 9780486264646,
+    "LanguageID": 1,
+    "PublisherID": 36,
+    "AuthorID": 37,
+    "CategoryID": 16
+  },
+  {
+    "Title": "Walden",
+    "Publish Date": "09/08/1854",
+    "ISBN": 9780486284958,
+    "LanguageID": 1,
+    "PublisherID": 48,
+    "AuthorID": 79,
+    "CategoryID": 14
+  },
+  {
+    "Title": "The Sun Also Rises",
+    "Publish Date": "22/10/1926",
+    "ISBN": 9780743297332,
+    "LanguageID": 1,
+    "PublisherID": 52,
+    "AuthorID": 16,
+    "CategoryID": 22
+  },
+  {
+    "Title": "The Stranger",
+    "Publish Date": "01/05/1942",
+    "ISBN": 9780679720201,
+    "LanguageID": 1,
+    "PublisherID": 33,
+    "AuthorID": 3,
+    "CategoryID": 1
+  },
+  {
+    "Title": "Middlemarch",
+    "Publish Date": "01/12/1871",
+    "ISBN": 9780141439549,
+    "LanguageID": 1,
+    "PublisherID": 69,
+    "AuthorID": 38,
+    "CategoryID": 17
+  },
+  {
+    "Title": "Mrs. Dalloway",
+    "Publish Date": "14/05/1925",
+    "ISBN": 9780151009986,
+    "LanguageID": 1,
+    "PublisherID": 1,
+    "AuthorID": 72,
+    "CategoryID": 22
+  },
+  {
+    "Title": "The Canterbury Tales",
+    "Publish Date": "01/01/1400",
+    "ISBN": 9780393958049,
+    "LanguageID": 1,
+    "PublisherID": 34,
+    "AuthorID": 39,
+    "CategoryID": 9
+  },
+  {
+    "Title": "The Divine Comedy",
+    "Publish Date": "14/09/1320",
+    "ISBN": 9780141197494,
+    "LanguageID": 1,
+    "PublisherID": 61,
+    "AuthorID": 34,
+    "CategoryID": 4
+  },
+  {
+    "Title": "The Iliad",
+    "Publish Date": "01/01/800 BCE",
+    "ISBN": 9780140445923,
+    "LanguageID": 1,
+    "PublisherID": 2,
+    "AuthorID": 76,
+    "CategoryID": 4
+  },
+  {
+    "Title": "The Aeneid",
+    "Publish Date": "01/01/29 BCE",
+    "ISBN": 9780140449327,
+    "LanguageID": 1,
+    "PublisherID": 2,
+    "AuthorID": 6,
+    "CategoryID": 4
+  },
+  {
+    "Title": "The Sound and the Fury",
+    "Publish Date": "07/10/1929",
+    "ISBN": 9780679732242,
+    "LanguageID": 1,
+    "PublisherID": 62,
+    "AuthorID": 14,
+    "CategoryID": 22
+  },
+  {
+    "Title": "David Copperfield",
+    "Publish Date": "14/06/1850",
+    "ISBN": 9780140439441,
+    "LanguageID": 1,
+    "PublisherID": 23,
+    "AuthorID": 2,
+    "CategoryID": 17
+  },
+  {
+    "Title": "Tess of the d'Urbervilles",
+    "Publish Date": "01/01/1891",
+    "ISBN": 9780141439594,
+    "LanguageID": 1,
+    "PublisherID": 58,
+    "AuthorID": 46,
+    "CategoryID": 32
+  },
+  {
+    "Title": "Ulysses",
+    "Publish Date": "02/02/1922",
+    "ISBN": 9780679722762,
+    "LanguageID": 1,
+    "PublisherID": 67,
+    "AuthorID": 12,
+    "CategoryID": 22
+  },
+  {
+    "Title": "The War of the Worlds",
+    "Publish Date": "01/01/1898",
+    "ISBN": 9780141441031,
+    "LanguageID": 1,
+    "PublisherID": 46,
+    "AuthorID": 81,
+    "CategoryID": 40
+  },
+  {
+    "Title": "The Jungle Book",
+    "Publish Date": "14/05/1894",
+    "ISBN": 9780486110289,
+    "LanguageID": 1,
+    "PublisherID": 42,
+    "AuthorID": 29,
+    "CategoryID": 7
+  },
+  {
+    "Title": "A Farewell to Arms",
+    "Publish Date": "27/09/1929",
+    "ISBN": 9780684801469,
+    "LanguageID": 1,
+    "PublisherID": 52,
+    "AuthorID": 16,
+    "CategoryID": 28
+  },
+  {
+    "Title": "Slaughterhouse-Five",
+    "Publish Date": "31/03/1969",
+    "ISBN": 9780099800200,
+    "LanguageID": 1,
+    "PublisherID": 37,
+    "AuthorID": 31,
+    "CategoryID": 29
+  },
+  {
+    "Title": "The Road",
+    "Publish Date": "26/09/2006",
+    "ISBN": 9780307265432,
+    "LanguageID": 1,
+    "PublisherID": 72,
+    "AuthorID": 61,
+    "CategoryID": 13
+  },
+  {
+    "Title": "Beloved",
+    "Publish Date": "08/09/1987",
+    "ISBN": 9781400033416,
+    "LanguageID": 1,
+    "PublisherID": 72,
+    "AuthorID": 21,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Secret History",
+    "Publish Date": "29/09/1992",
+    "ISBN": 9781400031702,
+    "LanguageID": 1,
+    "PublisherID": 72,
+    "AuthorID": 65,
+    "CategoryID": 24
+  },
+  {
+    "Title": "White Teeth",
+    "Publish Date": "27/01/2000",
+    "ISBN": 9780670887316,
+    "LanguageID": 1,
+    "PublisherID": 3,
+    "AuthorID": 47,
+    "CategoryID": 33
+  },
+  {
+    "Title": "American Psycho",
+    "Publish Date": "25/03/1991",
+    "ISBN": 9780679735779,
+    "LanguageID": 1,
+    "PublisherID": 43,
+    "AuthorID": 62,
+    "CategoryID": 29
+  },
+  {
+    "Title": "The Girl with the Dragon Tattoo",
+    "Publish Date": "01/08/2005",
+    "ISBN": 9780307269751,
+    "LanguageID": 1,
+    "PublisherID": 51,
+    "AuthorID": 42,
+    "CategoryID": 38
+  },
+  {
+    "Title": "The Handmaid's Tale",
+    "Publish Date": "17/09/1985",
+    "ISBN": 9780385490818,
+    "LanguageID": 1,
+    "PublisherID": 13,
+    "AuthorID": 77,
+    "CategoryID": 41
+  },
+  {
+    "Title": "The Night Circus",
+    "Publish Date": "13/09/2011",
+    "ISBN": 9780385534635,
+    "LanguageID": 1,
+    "PublisherID": 18,
+    "AuthorID": 1,
+    "CategoryID": 21
+  },
+  {
+    "Title": "Norwegian Wood",
+    "Publish Date": "20/09/1987",
+    "ISBN": 9780375704024,
+    "LanguageID": 1,
+    "PublisherID": 29,
+    "AuthorID": 28,
+    "CategoryID": 43
+  },
+  {
+    "Title": "The Goldfinch",
+    "Publish Date": "22/10/2013",
+    "ISBN": 9780316055444,
+    "LanguageID": 1,
+    "PublisherID": 21,
+    "AuthorID": 65,
+    "CategoryID": 24
+  },
+  {
+    "Title": "The Martian",
+    "Publish Date": "11/02/2014",
+    "ISBN": 9780553418026,
+    "LanguageID": 1,
+    "PublisherID": 55,
+    "AuthorID": 45,
+    "CategoryID": 40
+  },
+  {
+    "Title": "The Curious Incident of the Dog in the Night-Time",
+    "Publish Date": "31/05/2003",
+    "ISBN": 9780385509459,
+    "LanguageID": 1,
+    "PublisherID": 18,
+    "AuthorID": 48,
+    "CategoryID": 24
+  },
+  {
+    "Title": "The Help",
+    "Publish Date": "10/02/2009",
+    "ISBN": 9780399155345,
+    "LanguageID": 1,
+    "PublisherID": 12,
+    "AuthorID": 18,
+    "CategoryID": 39
+  },
+  {
+    "Title": "Life of Pi",
+    "Publish Date": "11/09/2001",
+    "ISBN": 9780156027328,
+    "LanguageID": 1,
+    "PublisherID": 4,
+    "AuthorID": 58,
+    "CategoryID": 8
+  },
+  {
+    "Title": "The Kite Runner",
+    "Publish Date": "29/05/2003",
+    "ISBN": 9781594631931,
+    "LanguageID": 1,
+    "PublisherID": 40,
+    "AuthorID": 56,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Fault in Our Stars",
+    "Publish Date": "10/01/2012",
+    "ISBN": 9780525478812,
+    "LanguageID": 1,
+    "PublisherID": 25,
+    "AuthorID": 17,
+    "CategoryID": 37
+  },
+  {
+    "Title": "The Alchemist",
+    "Publish Date": "01/01/1988",
+    "ISBN": 9780062315007,
+    "LanguageID": 1,
+    "PublisherID": 56,
+    "AuthorID": 5,
+    "CategoryID": 26
+  },
+  {
+    "Title": "The Road Less Traveled",
+    "Publish Date": "01/06/1978",
+    "ISBN": 9780671250676,
+    "LanguageID": 1,
+    "PublisherID": 65,
+    "AuthorID": 24,
+    "CategoryID": 44
+  },
+  {
+    "Title": "A Clash of Kings",
+    "Publish Date": "16/11/1998",
+    "ISBN": 9780553108033,
+    "LanguageID": 1,
+    "PublisherID": 49,
+    "AuthorID": 51,
+    "CategoryID": 19
+  },
+  {
+    "Title": "The Shining",
+    "Publish Date": "28/01/1977",
+    "ISBN": 9780385121675,
+    "LanguageID": 1,
+    "PublisherID": 18,
+    "AuthorID": 69,
+    "CategoryID": 25
+  },
+  {
+    "Title": "A Brief History of Time",
+    "Publish Date": "01/04/1988",
+    "ISBN": 9780553380163,
+    "LanguageID": 1,
+    "PublisherID": 10,
+    "AuthorID": 26,
+    "CategoryID": 23
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Publish Date": "18/03/2003",
+    "ISBN": 9780385504201,
+    "LanguageID": 1,
+    "PublisherID": 18,
+    "AuthorID": 57,
+    "CategoryID": 24
+  },
+  {
+    "Title": "The Count of Monte Cristo",
+    "Publish Date": "28/08/1844",
+    "ISBN": 9780141392461,
+    "LanguageID": 1,
+    "PublisherID": 31,
+    "AuthorID": 50,
+    "CategoryID": 8
+  },
+  {
+    "Title": "The Time Traveler's Wife",
+    "Publish Date": "01/09/2003",
+    "ISBN": 9780156029438,
+    "LanguageID": 1,
+    "PublisherID": 57,
+    "AuthorID": 23,
+    "CategoryID": 43
+  },
+  {
+    "Title": "The Adventures of Sherlock Holmes",
+    "Publish Date": "14/10/1892",
+    "ISBN": 9781983540292,
+    "LanguageID": 1,
+    "PublisherID": 70,
+    "AuthorID": 9,
+    "CategoryID": 24
+  },
+  {
+    "Title": "Inferno",
+    "Publish Date": "14/05/2013",
+    "ISBN": 9780385537858,
+    "LanguageID": 1,
+    "PublisherID": 18,
+    "AuthorID": 57,
+    "CategoryID": 24
+  },
+  {
+    "Title": "A Game of Thrones",
+    "Publish Date": "06/08/1996",
+    "ISBN": 9780553103540,
+    "LanguageID": 1,
+    "PublisherID": 10,
+    "AuthorID": 51,
+    "CategoryID": 19
+  },
+  {
+    "Title": "The Book Thief",
+    "Publish Date": "14/03/2006",
+    "ISBN": 9780375842207,
+    "LanguageID": 1,
+    "PublisherID": 14,
+    "AuthorID": 27,
+    "CategoryID": 39
+  },
+  {
+    "Title": "Dune",
+    "Publish Date": "01/06/1965",
+    "ISBN": 9780593099322,
+    "LanguageID": 1,
+    "PublisherID": 16,
+    "AuthorID": 41,
+    "CategoryID": 40
+  },
+  {
+    "Title": "The Hunger Games",
+    "Publish Date": "14/09/2008",
+    "ISBN": 9780439023481,
+    "LanguageID": 1,
+    "PublisherID": 35,
+    "AuthorID": 80,
+    "CategoryID": 41
+  },
+  {
+    "Title": "Gone Girl",
+    "Publish Date": "30/04/2012",
+    "ISBN": 9780307588371,
+    "LanguageID": 1,
+    "PublisherID": 55,
+    "AuthorID": 7,
+    "CategoryID": 24
+  },
+  {
+    "Title": "The Name of the Wind",
+    "Publish Date": "27/03/2007",
+    "ISBN": 9780756404741,
+    "LanguageID": 1,
+    "PublisherID": 28,
+    "AuthorID": 32,
+    "CategoryID": 21
+  },
+  {
+    "Title": "The Help",
+    "Publish Date": "10/02/2009",
+    "ISBN": 9780399155345,
+    "LanguageID": 1,
+    "PublisherID": 12,
+    "AuthorID": 18,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Hitchhiker's Guide to the Galaxy",
+    "Publish Date": "12/10/1979",
+    "ISBN": 9780345391803,
+    "LanguageID": 1,
+    "PublisherID": 41,
+    "AuthorID": 52,
+    "CategoryID": 40
+  },
+  {
+    "Title": "A Brief History of Time",
+    "Publish Date": "01/04/1988",
+    "ISBN": 9780553380163,
+    "LanguageID": 1,
+    "PublisherID": 10,
+    "AuthorID": 26,
+    "CategoryID": 23
+  },
+  {
+    "Title": "The Power of Habit",
+    "Publish Date": "28/02/2012",
+    "ISBN": 9781400069286,
+    "LanguageID": 1,
+    "PublisherID": 63,
+    "AuthorID": 36,
+    "CategoryID": 44
+  },
+  {
+    "Title": "Thinking, Fast and Slow",
+    "Publish Date": "25/10/2011",
+    "ISBN": 9780374275631,
+    "LanguageID": 1,
+    "PublisherID": 19,
+    "AuthorID": 4,
+    "CategoryID": 20
+  },
+  {
+    "Title": "A Thousand Splendid Suns",
+    "Publish Date": "22/05/2007",
+    "ISBN": 9781594489501,
+    "LanguageID": 1,
+    "PublisherID": 40,
+    "AuthorID": 56,
+    "CategoryID": 39
+  },
+  {
+    "Title": "Educated",
+    "Publish Date": "20/02/2018",
+    "ISBN": 9780399590504,
+    "LanguageID": 1,
+    "PublisherID": 63,
+    "AuthorID": 43,
+    "CategoryID": 10
+  },
+  {
+    "Title": "Born a Crime",
+    "Publish Date": "15/11/2016",
+    "ISBN": 9780399588174,
+    "LanguageID": 1,
+    "PublisherID": 7,
+    "AuthorID": 70,
+    "CategoryID": 2
+  },
+  {
+    "Title": "The Tattooist of Auschwitz",
+    "Publish Date": "04/09/2018",
+    "ISBN": 9780062870674,
+    "LanguageID": 1,
+    "PublisherID": 8,
+    "AuthorID": 11,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Underground Railroad",
+    "Publish Date": "02/08/2016",
+    "ISBN": 9780385542364,
+    "LanguageID": 1,
+    "PublisherID": 18,
+    "AuthorID": 67,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Nightingale",
+    "Publish Date": "03/02/2015",
+    "ISBN": 9781250080400,
+    "LanguageID": 1,
+    "PublisherID": 68,
+    "AuthorID": 40,
+    "CategoryID": 39
+  },
+  {
+    "Title": "Educated",
+    "Publish Date": "20/02/2018",
+    "ISBN": 9780399590504,
+    "LanguageID": 1,
+    "PublisherID": 63,
+    "AuthorID": 43,
+    "CategoryID": 10
+  },
+  {
+    "Title": "Where the Crawdads Sing",
+    "Publish Date": "14/08/2018",
+    "ISBN": 9780735219090,
+    "LanguageID": 1,
+    "PublisherID": 32,
+    "AuthorID": 54,
+    "CategoryID": 24
+  },
+  {
+    "Title": "Before We Were Yours",
+    "Publish Date": "06/06/2017",
+    "ISBN": 9780425284681,
+    "LanguageID": 1,
+    "PublisherID": 59,
+    "AuthorID": 74,
+    "CategoryID": 39
+  },
+  {
+    "Title": "The Silent Patient",
+    "Publish Date": "05/02/2019",
+    "ISBN": 9781250301697,
+    "LanguageID": 1,
+    "PublisherID": 6,
+    "AuthorID": 25,
+    "CategoryID": 24
+  },
+  {
+    "Title": "The Tattooist of Auschwitz",
+    "Publish Date": "04/09/2018",
+    "ISBN": 9780062870674,
+    "LanguageID": 1,
+    "PublisherID": 8,
+    "AuthorID": 11,
+    "CategoryID": 39
+  }
+]
