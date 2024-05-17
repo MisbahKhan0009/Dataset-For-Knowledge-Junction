@@ -1,0 +1,178 @@
+[
+  {
+    "Name": "Existentialist novel",
+    "Description": "Fictional works exploring themes of existential philosophy, often focusing on individual freedom, choice, and the meaning of existence."
+  },
+  {
+    "Name": "Autobiography",
+    "Description": "Personal narratives written by the subject, detailing their own life experiences and reflections."
+  },
+  {
+    "Name": "Fiction",
+    "Description": "Imaginative storytelling that may or may not be based on real events or characters."
+  },
+  {
+    "Name": "Epic Poetry",
+    "Description": "Long narrative poems often celebrating heroic deeds, legendary figures, or mythological tales."
+  },
+  {
+    "Name": "Classic Literature",
+    "Description": "Timeless literary works that have enduring significance and are widely regarded as exemplary or noteworthy."
+  },
+  {
+    "Name": "Romantic Novel",
+    "Description": "Fictional narratives emphasizing emotional and romantic themes, often centered around love stories."
+  },
+  {
+    "Name": "Children's literature",
+    "Description": "Literature specifically created for and aimed at children, typically featuring age-appropriate themes, language, and illustrations."
+  },
+  {
+    "Name": "Adventure Fiction",
+    "Description": "Narrative works characterized by exciting and daring exploits, often involving travel, exploration, or risk-taking."
+  },
+  {
+    "Name": "Literature",
+    "Description": "Written works, including novels, poetry, plays, and essays, valued for their artistic merit, intellectual depth, and cultural significance."
+  },
+  {
+    "Name": "Memoir",
+    "Description": "Personal accounts or recollections of one's own experiences, often focusing on specific periods, events, or themes in the author's life."
+  },
+  {
+    "Name": "Philosophical novel",
+    "Description": "Fictional narratives that explore philosophical concepts, debates, or questions, often through character development and plot."
+  },
+  {
+    "Name": "Epic poetry",
+    "Description": "Long narrative poems often celebrating heroic deeds, legendary figures, or mythological tales."
+  },
+  {
+    "Name": "Post-apocalyptic Fiction",
+    "Description": "Fiction set in a world or society following a catastrophic event, exploring themes of survival, adaptation, and rebuilding."
+  },
+  {
+    "Name": "Philosophical literature",
+    "Description": "Written works that delve into philosophical ideas, theories, or inquiries, often presented in literary form."
+  },
+  {
+    "Name": "Political Satire",
+    "Description": "Literary works that use humor, irony, or sarcasm to critique or ridicule political figures, institutions, or ideologies."
+  },
+  {
+    "Name": "Novella",
+    "Description": "Narrative works shorter than a novel but longer than a short story, offering a focused exploration of character, theme, or plot."
+  },
+  {
+    "Name": "Realism",
+    "Description": "Literary movement or style characterized by the depiction of ordinary life, often focusing on everyday experiences and social realities."
+  },
+  {
+    "Name": "Semi-autobiographical novel",
+    "Description": "Fictional works that draw heavily from the author's own life experiences, blurring the lines between autobiography and fiction."
+  },
+  {
+    "Name": "Epic Fantasy",
+    "Description": "Narrative works set in fantastical worlds featuring epic quests, magical elements, and grand conflicts between forces of good and evil."
+  },
+  {
+    "Name": "Psychology",
+    "Description": "Literature that explores psychological concepts, theories, or phenomena, offering insights into human behavior, cognition, and emotion."
+  },
+  {
+    "Name": "Fantasy",
+    "Description": "Fictional narratives set in imaginary worlds or featuring fantastical elements such as magic, mythical creatures, or supernatural powers."
+  },
+  {
+    "Name": "Modernist novel",
+    "Description": "Literary works produced during the modernist literary movement, characterized by experimental forms, stream-of-consciousness narration, and fragmented structures."
+  },
+  {
+    "Name": "Science",
+    "Description": "Written works that explore scientific principles, theories, discoveries, or advancements, aimed at both general and specialized audiences."
+  },
+  {
+    "Name": "Mystery",
+    "Description": "Narrative works centered around the investigation and resolution of a puzzling or enigmatic event, often involving crime, detection, and suspense."
+  },
+  {
+    "Name": "Horror",
+    "Description": "Literary genre focused on eliciting fear, terror, or dread in the reader, often through supernatural, grotesque, or macabre elements."
+  },
+  {
+    "Name": "Quest Fiction",
+    "Description": "Narrative works in which characters embark on a journey or mission, often facing challenges, obstacles, and personal growth along the way."
+  },
+  {
+    "Name": "Philosophical fiction",
+    "Description": "Fictional narratives that use storytelling as a means to explore philosophical themes, ideas, or questions."
+  },
+  {
+    "Name": "War novel",
+    "Description": "Fictional works that depict war and its impact on individuals, societies, and cultures, often exploring themes of heroism, sacrifice, and trauma."
+  },
+  {
+    "Name": "Satirical novel",
+    "Description": "Narrative works characterized by satire, employing humor, irony, or sarcasm to criticize or lampoon aspects of society, politics, or human behavior."
+  },
+  {
+    "Name": "Children's Literature",
+    "Description": "Literary works specifically created for children, designed to entertain, educate, or inspire young readers."
+  },
+  {
+    "Name": "Magic Realism",
+    "Description": "Narrative genre blending realistic settings with magical or fantastical elements, often exploring themes of identity, culture, and perception."
+  },
+  {
+    "Name": "Tragedy",
+    "Description": "Dramatic works depicting the downfall or suffering of a protagonist, often due to a tragic flaw or external circumstances, eliciting feelings of pity or fear."
+  },
+  {
+    "Name": "Multicultural Fiction",
+    "Description": "Literary works that explore themes of cultural diversity, identity, and cross-cultural experiences, often reflecting the perspectives of marginalized or underrepresented groups."
+  },
+  {
+    "Name": "Historical Novel",
+    "Description": "Fictional narratives set in the past, often incorporating real historical events, figures, or settings, offering insights into different time periods and societies."
+  },
+  {
+    "Name": "Allegorical Novel",
+    "Description": "Narrative works in which characters, events, or settings represent abstract ideas."
+  },
+  {
+    "Name": "Picaresque novel",
+    "Description": "Narrative works featuring a roguish, often humorous protagonist who travels through various adventures and encounters."
+  },
+  {
+    "Name": "Young Adult Fiction",
+    "Description": "Literature aimed at adolescent readers, typically featuring themes and characters relevant to the experiences and interests of young adults."
+  },
+  {
+    "Name": "Crime Fiction",
+    "Description": "Narrative works focused on crime, investigation, and detection, often featuring detectives, criminals, and suspenseful plot twists."
+  },
+  {
+    "Name": "Historical Fiction",
+    "Description": "Fictional narratives set in the past, drawing inspiration from historical events, figures, and settings, while often incorporating imaginative elements."
+  },
+  {
+    "Name": "Science Fiction",
+    "Description": "Narrative works exploring speculative or futuristic concepts, often centered around science, technology, and their potential impact on society."
+  },
+  {
+    "Name": "Dystopian Fiction",
+    "Description": "Literature set in a dystopian society or future, characterized by oppressive social control, dehumanization, and often a bleak outlook on humanity."
+  },
+  {
+    "Name": "Gothic Fiction",
+    "Description": "Literary genre characterized by a dark, mysterious atmosphere, supernatural elements, and themes of horror, death, and decay."
+  },
+  {
+    "Name": "Romance",
+    "Description": "Narrative works focused on romantic relationships, love, and emotional connections between characters."
+  },
+  {
+    "Name": "Self-help",
+    "Description": "Literature aimed at personal development and improvement, offering advice, strategies, and insights for achieving success, happiness, or fulfillment."
+  }
+]
