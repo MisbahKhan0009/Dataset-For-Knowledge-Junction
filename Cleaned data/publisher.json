@@ -1,0 +1,372 @@
+[
+  {
+    "Name": "Hogarth Press",
+    "Location": "Richmond",
+    "ContactInformation": "hogarthpress@example.com"
+  },
+  {
+    "Name": "None",
+    "Location": "Dhaka",
+    "ContactInformation": "none@example.com"
+  },
+  {
+    "Name": "Hamish Hamilton",
+    "Location": "London",
+    "ContactInformation": "hamilton@example.com"
+  },
+  {
+    "Name": "Knopf Canada",
+    "Location": "Toronto",
+    "ContactInformation": "knopfcanada@example.com"
+  },
+  {
+    "Name": "Harper Perennial Modern Classics",
+    "Location": "Kolkata",
+    "ContactInformation": "harperperennial@example.com"
+  },
+  {
+    "Name": "Celadon Books",
+    "Location": "New York",
+    "ContactInformation": "celadon@example.com"
+  },
+  {
+    "Name": "Spiegel & Grau",
+    "Location": "New York",
+    "ContactInformation": "spiegelgrau@example.com"
+  },
+  {
+    "Name": "Harper",
+    "Location": "London",
+    "ContactInformation": "harper@example.com"
+  },
+  {
+    "Name": "Chapman & Hall",
+    "Location": "London",
+    "ContactInformation": "chapmanhall@example.com"
+  },
+  {
+    "Name": "Bantam Books",
+    "Location": "Dhaka",
+    "ContactInformation": "bantambooks@example.com"
+  },
+  {
+    "Name": "George Allen & Unwin",
+    "Location": "London",
+    "ContactInformation": "georgeallenunwin@example.com"
+  },
+  {
+    "Name": "Amy Einhorn Books",
+    "Location": "Los Angeles",
+    "ContactInformation": "amyeinhorn@example.com"
+  },
+  {
+    "Name": "McClelland & Stewart",
+    "Location": "Toronto",
+    "ContactInformation": "mcclellandstewart@example.com"
+  },
+  {
+    "Name": "Knopf",
+    "Location": "New York",
+    "ContactInformation": "knopf@example.com"
+  },
+  {
+    "Name": "The Viking Press",
+    "Location": "New York",
+    "ContactInformation": "vikingpress@example.com"
+  },
+  {
+    "Name": "Chilton Books",
+    "Location": "London",
+    "ContactInformation": "chiltonbooks@example.com"
+  },
+  {
+    "Name": "Heinemann",
+    "Location": "London",
+    "ContactInformation": "heinemann@example.com"
+  },
+  {
+    "Name": "Doubleday",
+    "Location": "New York",
+    "ContactInformation": "doubleday@example.com"
+  },
+  {
+    "Name": "Farrar, Straus and Giroux",
+    "Location": "New York",
+    "ContactInformation": "farrarstrausgiroux@example.com"
+  },
+  {
+    "Name": "Allen & Unwin",
+    "Location": "Sydney",
+    "ContactInformation": "allenunwin@example.com"
+  },
+  {
+    "Name": "Little, Brown and Company",
+    "Location": "New York",
+    "ContactInformation": "littlebrown@example.com"
+  },
+  {
+    "Name": "T. Egerton, Whitehall",
+    "Location": "London",
+    "ContactInformation": "tegerton@example.com"
+  },
+  {
+    "Name": "Bradbury & Evans",
+    "Location": "London",
+    "ContactInformation": "bradburyevans@example.com"
+  },
+  {
+    "Name": "Lackington, Hughes, Harding, Mavor & Jones",
+    "Location": "London",
+    "ContactInformation": "lackington@example.com"
+  },
+  {
+    "Name": "Dutton Books",
+    "Location": "New York",
+    "ContactInformation": "duttonbooks@example.com"
+  },
+  {
+    "Name": "Charles Scribner's Sons",
+    "Location": "New York",
+    "ContactInformation": "scribnerssons@example.com"
+  },
+  {
+    "Name": "The Russian Messenger",
+    "Location": "Delhi",
+    "ContactInformation": "russianmessenger@example.com"
+  },
+  {
+    "Name": "DAW Books",
+    "Location": "New York",
+    "ContactInformation": "dawbooks@example.com"
+  },
+  {
+    "Name": "Kodansha",
+    "Location": "Tokyo",
+    "ContactInformation": "kodansha@example.com"
+  },
+  {
+    "Name": "Harper & Row",
+    "Location": "New York",
+    "ContactInformation": "harperrow@example.com"
+  },
+  {
+    "Name": "Ption",
+    "Location": "Paris",
+    "ContactInformation": "ption@example.com"
+  },
+  {
+    "Name": "G.P. Putnam's Sons",
+    "Location": "New York",
+    "ContactInformation": "putnams@example.com"
+  },
+  {
+    "Name": "Gallimard",
+    "Location": "Paris",
+    "ContactInformation": "gallimard@example.com"
+  },
+  {
+    "Name": "William Caxton",
+    "Location": "London",
+    "ContactInformation": "caxton@example.com"
+  },
+  {
+    "Name": "Scholastic",
+    "Location": "Tokyo",
+    "ContactInformation": "scholastic@example.com"
+  },
+  {
+    "Name": "Blackwood's Magazine",
+    "Location": "Edinburgh",
+    "ContactInformation": "blackwood@example.com"
+  },
+  {
+    "Name": "Delacorte Press",
+    "Location": "New York",
+    "ContactInformation": "delacorte@example.com"
+  },
+  {
+    "Name": "Smith, Elder & Co.",
+    "Location": "London",
+    "ContactInformation": "smithelder@example.com"
+  },
+  {
+    "Name": "Geoffrey Bles",
+    "Location": "London",
+    "ContactInformation": "geoffreybles@example.com"
+  },
+  {
+    "Name": "Riverhead Books",
+    "Location": "New York",
+    "ContactInformation": "riverheadbooks@example.com"
+  },
+  {
+    "Name": "Pan Books",
+    "Location": "London",
+    "ContactInformation": "panbooks@example.com"
+  },
+  {
+    "Name": "Macmillan Publishers",
+    "Location": "London",
+    "ContactInformation": "macmillan@example.com"
+  },
+  {
+    "Name": "Vintage Books",
+    "Location": "New York",
+    "ContactInformation": "vintage@example.com"
+  },
+  {
+    "Name": "Faber and Faber",
+    "Location": "London",
+    "ContactInformation": "faberfaber@example.com"
+  },
+  {
+    "Name": "Smyrna",
+    "Location": "Mumbai",
+    "ContactInformation": "smyrna@example.com"
+  },
+  {
+    "Name": "William Heinemann",
+    "Location": "London",
+    "ContactInformation": "williamheinemann@example.com"
+  },
+  {
+    "Name": "A. Lacroix, Verboeckhoven & Cie.",
+    "Location": "Brussels",
+    "ContactInformation": "lacroixverboeckhoven@example.com"
+  },
+  {
+    "Name": "Ticknor and Fields",
+    "Location": "Boston",
+    "ContactInformation": "ticknorfieds@example.com"
+  },
+  {
+    "Name": "Bantam Spectra",
+    "Location": "Singapore",
+    "ContactInformation": "bantamspectra@example.com"
+  },
+  {
+    "Name": "Thomas Cautley Newby",
+    "Location": "London",
+    "ContactInformation": "thomascautley@example.com"
+  },
+  {
+    "Name": "Norstedts Farlag",
+    "Location": "Stockholm",
+    "ContactInformation": "norstedts@example.com"
+  },
+  {
+    "Name": "Scribner's",
+    "Location": "New York",
+    "ContactInformation": "scribners@example.com"
+  },
+  {
+    "Name": "Lippincott's Monthly Magazine",
+    "Location": "Rome",
+    "ContactInformation": "lippincott@example.com"
+  },
+  {
+    "Name": "Francisco de Robles",
+    "Location": "Madrid",
+    "ContactInformation": "franciscode@example.com"
+  },
+  {
+    "Name": "Crown Publishing Group",
+    "Location": "New York",
+    "ContactInformation": "crownpub@example.com"
+  },
+  {
+    "Name": "HarperTorch",
+    "Location": "Washington",
+    "ContactInformation": "harpertorch@example.com"
+  },
+  {
+    "Name": "MacAdam/Cage",
+    "Location": "San Francisco",
+    "ContactInformation": "macadamcage@example.com"
+  },
+  {
+    "Name": "James R. Osgood, McIlvaine & Co.",
+    "Location": "London",
+    "ContactInformation": "osgoodmcilvaine@example.com"
+  },
+  {
+    "Name": "Ballantine Books",
+    "Location": "New York",
+    "ContactInformation": "ballantinebooks@example.com"
+  },
+  {
+    "Name": "Secker & Warburg",
+    "Location": "London",
+    "ContactInformation": "seckerwarburg@example.com"
+  },
+  {
+    "Name": "A. Nonesuch Press",
+    "Location": "London",
+    "ContactInformation": "nonesuch@example.com"
+  },
+  {
+    "Name": "Jonathan Cape & Harrison Smith",
+    "Location": "New York",
+    "ContactInformation": "jonathancape@example.com"
+  },
+  {
+    "Name": "Random House",
+    "Location": "New York",
+    "ContactInformation": "randomhouse@example.com"
+  },
+  {
+    "Name": "Richard Bentley (UK)",
+    "Location": "London",
+    "ContactInformation": "richardbentley@example.com"
+  },
+  {
+    "Name": "Simon & Schuster",
+    "Location": "New York",
+    "ContactInformation": "simonschuster@example.com"
+  },
+  {
+    "Name": "Reynal & Hitchcock",
+    "Location": "Cumilla",
+    "ContactInformation": "reynalhitchcock@example.com"
+  },
+  {
+    "Name": "Sylvia Beach",
+    "Location": "Paris",
+    "ContactInformation": "sylviabeach@example.com"
+  },
+  {
+    "Name": "St. Martin's Press",
+    "Location": "New York",
+    "ContactInformation": "stmartins@example.com"
+  },
+  {
+    "Name": "William Blackwood & Sons",
+    "Location": "Edinburgh",
+    "ContactInformation": "blackwoodsons@example.com"
+  },
+  {
+    "Name": "George Newnes",
+    "Location": "London",
+    "ContactInformation": "georgenewnes@example.com"
+  },
+  {
+    "Name": "Chatto & Windus",
+    "Location": "London",
+    "ContactInformation": "chatto@example.com"
+  },
+  {
+    "Name": "Alfred A. Knopf",
+    "Location": "New York",
+    "ContactInformation": "knopf@example.com"
+  },
+  {
+    "Name": "Thomas Egerton, Military Library",
+    "Location": "London",
+    "ContactInformation": "tegertonmil@example.com"
+  },
+  {
+    "Name": "Ticknor, Reed, and Fields",
+    "Location": "Boston",
+    "ContactInformation": "ticknorreed@example.com"
+  }
+]
