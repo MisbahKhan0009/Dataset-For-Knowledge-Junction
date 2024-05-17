@@ -1,421 +1,420 @@
 [
-    {
-      "Title": "To Kill a Mockingbird",
-      "Category": "Fiction",
-      "Publisher": "Harper Perennial Modern Classics",
-      "Publish Date": "11/07/1960",
-      "ISBN": 9780061120084,
-      "Author": "Harper Lee"
-    },
-    {
-      "Title": "1984",
-      "Category": "Dystopian Fiction",
-      "Publisher": "Secker & Warburg",
-      "Publish Date": "08/06/1949",
-      "ISBN": 9780451524935,
-      "Author": "George Orwell"
-    },
-    {
-      "Title": "Pride and Prejudice",
-      "Category": "Classic Literature",
-      "Publisher": "T. Egerton, Whitehall",
-      "Publish Date": "28/01/1813",
-      "ISBN": 9780141439518,
-      "Author": "Jane Austen"
-    },
-    {
-      "Title": "The Great Gatsby",
-      "Category": "Fiction",
-      "Publisher": "Charles Scribner's Sons",
-      "Publish Date": "10/04/1925",
-      "ISBN": 9780743273565,
-      "Author": "F. Scott Fitzgerald"
-    },
-    {
-      "Title": "Moby-Dick",
-      "Category": "Adventure Fiction",
-      "Publisher": "Richard Bentley (UK)",
-      "Publish Date": "18/10/1851",
-      "ISBN": 9780143124672,
-      "Author": "Herman Melville"
-    },
-    {
-      "Title": "Jane Eyre",
-      "Category": "Gothic Fiction",
-      "Publisher": "Smith, Elder & Co.",
-      "Publish Date": "16/10/1847",
-      "ISBN": 9780141441146,
-      "Author": "Charlotte Brontë"
-    },
-    {
-      "Title": "The Catcher in the Rye",
-      "Category": "Fiction",
-      "Publisher": "Little, Brown and Company",
-      "Publish Date": "16/07/1951",
-      "ISBN": 9780316769488,
-      "Author": "J.D. Salinger"
-    },
-    {
-      "Title": "Brave New World",
-      "Category": "Science Fiction",
-      "Publisher": "Chatto & Windus",
-      "Publish Date": "17/07/1932",
-      "ISBN": 9780060850524,
-      "Author": "Aldous Huxley"
-    },
-    {
-      "Title": "The Hobbit",
-      "Category": "Fantasy",
-      "Publisher": "George Allen & Unwin",
-      "Publish Date": "21/09/1937",
-      "ISBN": 9780618968633,
-      "Author": "J.R.R. Tolkien"
-    },
-    {
-      "Title": "Lord of the Flies",
-      "Category": "Allegorical Novel",
-      "Publisher": "Faber and Faber",
-      "Publish Date": "17/09/1954",
-      "ISBN": 9780571295715,
-      "Author": "William Golding"
-    },
-    {
-      "Title": "Animal Farm",
-      "Category": "Political Satire",
-      "Publisher": "Secker & Warburg",
-      "Publish Date": "17/08/1945",
-      "ISBN": 9780452284241,
-      "Author": "George Orwell"
-    },
-    {
-      "Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-      "Category": "Fantasy",
-      "Publisher": "Geoffrey Bles",
-      "Publish Date": "16/10/1950",
-      "ISBN": 9780066238500,
-      "Author": "C.S. Lewis"
-    },
-    {
-      "Title": "Wuthering Heights",
-      "Category": "Gothic Fiction",
-      "Publisher": "Thomas Cautley Newby",
-      "Publish Date": "13/11/1847",
-      "ISBN": 9780141439556,
-      "Author": "Emily Brontë"
-    },
-    {
-      "Title": "The Picture of Dorian Gray",
-      "Category": "Philosophical fiction",
-      "Publisher": "Lippincott's Monthly Magazine",
-      "Publish Date": "20/06/1890",
-      "ISBN": 9780141439570,
-      "Author": "Oscar Wilde"
-    },
-    {
-      "Title": "Gone with the Wind",
-      "Category": "Historical Fiction",
-      "Publisher": "Macmillan Publishers",
-      "Publish Date": "30/06/1936",
-      "ISBN": 9780446675536,
-      "Author": "Margaret Mitchell"
-    },
-    {
-      "Title": "The Adventures of Huckleberry Finn",
-      "Category": "Picaresque novel",
-      "Publisher": "Chatto & Windus",
-      "Publish Date": "10/12/1884",
-      "ISBN": 9780141439648,
-      "Author": "Mark Twain"
-    },
-    {
-      "Title": "Crime and Punishment",
-      "Category": "Philosophical novel",
-      "Publisher": "The Russian Messenger",
-      "Publish Date": "11/06/1866",
-      "ISBN": 9780143058142,
-      "Author": "Fyodor Dostoevsky"
-    },
-    {
-      "Title": "The Lord of the Rings",
-      "Category": "Fantasy",
-      "Publisher": "Allen & Unwin",
-      "Publish Date": "29/07/1954",
-      "ISBN": 9780618640157,
-      "Author": "J.R.R. Tolkien"
-    },
-    {
-      "Title": "The Grapes of Wrath",
-      "Category": "Realism",
-      "Publisher": "The Viking Press",
-      "Publish Date": "14/04/1939",
-      "ISBN": 9780143039431,
-      "Author": "John Steinbeck"
-    },
-    {
-      "Title": "Anna Karenina",
-      "Category": "Realism",
-      "Publisher": "The Russian Messenger",
-      "Publish Date": "08/12/1877",
-      "ISBN": 9780143035006,
-      "Author": "Leo Tolstoy"
-    },
-    {
-      "Title": "The Little Prince",
-      "Category": "Children's Literature",
-      "Publisher": "Reynal & Hitchcock",
-      "Publish Date": "06/04/1943",
-      "ISBN": 9780156012195,
-      "Author": "Antoine de Saint-Exupéry"
-    },
-    {
-      "Title": "Sense and Sensibility",
-      "Category": "Romantic Novel",
-      "Publisher": "Thomas Egerton, Military Library",
-      "Publish Date": "30/10/1811",
-      "ISBN": 9780141439662,
-      "Author": "Jane Austen"
-    },
-    {
-      "Title": "Frankenstein",
-      "Category": "Gothic Fiction",
-      "Publisher": "Lackington, Hughes, Harding, Mavor & Jones",
-      "Publish Date": "01/01/1818",
-      "ISBN": 9780141439471,
-      "Author": "Mary Shelley"
-    },
-    {
-      "Title": "Don Quixote",
-      "Category": "Picaresque novel",
-      "Publisher": "Francisco de Robles",
-      "Publish Date": "16/01/1605",
-      "ISBN": 9780060934347,
-      "Author": "Miguel de Cervantes"
-    },
-    {
-      "Title": "The Odyssey",
-      "Category": "Epic poetry",
-      "Publisher": "Smyrna",
-      "Publish Date": "08/04/800 BCE",
-      "ISBN": 9780143039950,
-      "Author": "Homer"
-    },
-    {
-      "Title": "Les Misérables",
-      "Category": "Historical Fiction",
-      "Publisher": "A. Lacroix, Verboeckhoven & Cie.",
-      "Publish Date": "03/04/1862",
-      "ISBN": 9780451419439,
-      "Author": "Victor Hugo"
-    },
-    {
-      "Title": "One Hundred Years of Solitude",
-      "Category": "Magic Realism",
-      "Publisher": "Harper & Row",
-      "Publish Date": "05/06/1967",
-      "ISBN": 9780060883287,
-      "Author": "Gabriel García Márquez"
-    },
-    {
-      "Title": "The Brothers Karamazov",
-      "Category": "Philosophical novel",
-      "Publisher": "The Russian Messenger",
-      "Publish Date": "12/12/1880",
-      "ISBN": 9780143058142,
-      "Author": "Fyodor Dostoevsky"
-    },
-    {
-      "Title": "War and Peace",
-      "Category": "Historical Fiction",
-      "Publisher": "The Russian Messenger",
-      "Publish Date": "09/06/1869",
-      "ISBN": 9780679602811,
-      "Author": "Leo Tolstoy"
-    },
-    {
-      "Title": "Great Expectations",
-      "Category": "Realism",
-      "Publisher": "Chapman & Hall",
-      "Publish Date": "01/12/1860",
-      "ISBN": 9780141439563,
-      "Author": "Charles Dickens"
-    },
-    {
-      "Title": "The Scarlet Letter",
-      "Category": "Gothic Fiction",
-      "Publisher": "Ticknor, Reed, and Fields",
-      "Publish Date": "16/03/1850",
-      "ISBN": 9780142437261,
-      "Author": "Nathaniel Hawthorne"
-    },
-    {
-      "Title": "The Bell Jar",
-      "Category": "Semi-autobiographical novel",
-      "Publisher": "Heinemann",
-      "Publish Date": "14/01/1963",
-      "ISBN": 9780061148514,
-      "Author": "Sylvia Plath"
-    },
-    {
-      "Title": "A Tale of Two Cities",
-      "Category": "Historical Novel",
-      "Publisher": "Chapman & Hall",
-      "Publish Date": "30/04/1859",
-      "ISBN": 9780141439600,
-      "Author": "Charles Dickens"
-    },
-    {
-      "Title": "Catch-22",
-      "Category": "Satirical novel",
-      "Publisher": "Simon & Schuster",
-      "Publish Date": "10/10/1961",
-      "ISBN": 9780099470465,
-      "Author": "Joseph Heller"
-    },
-    {
-      "Title": "Heart of Darkness",
-      "Category": "Novella",
-      "Publisher": "Blackwood's Magazine",
-      "Publish Date": "03/02/1899",
-      "ISBN": 9780486264646,
-      "Author": "Joseph Conrad"
-    },
-    {
-      "Title": "Walden",
-      "Category": "Philosophical literature",
-      "Publisher": "Ticknor and Fields",
-      "Publish Date": "09/08/1854",
-      "ISBN": 9780486284958,
-      "Author": "Henry David Thoreau"
-    },
-    {
-      "Title": "The Sun Also Rises",
-      "Category": "Modernist novel",
-      "Publisher": "Scribner's",
-      "Publish Date": "22/10/1926",
-      "ISBN": 9780743297332,
-      "Author": "Ernest Hemingway"
-    },
-    {
-      "Title": "The Stranger",
-      "Category": "Existentialist novel",
-      "Publisher": "Gallimard",
-      "Publish Date": "01/05/1942",
-      "ISBN": 9780679720201,
-      "Author": "Albert Camus"
-    },
-    {
-      "Title": "Middlemarch",
-      "Category": "Realism",
-      "Publisher": "William Blackwood & Sons",
-      "Publish Date": "01/12/1871",
-      "ISBN": 9780141439549,
-      "Author": "George Eliot"
-    },
-    {
-      "Title": "Mrs. Dalloway",
-      "Category": "Modernist novel",
-      "Publisher": "Hogarth Press",
-      "Publish Date": "14/05/1925",
-      "ISBN": 9780151009986,
-      "Author": "Virginia Woolf"
-    },
-    {
-      "Title": "The Canterbury Tales",
-      "Category": "Literature",
-      "Publisher": "William Caxton",
-      "Publish Date": "01/01/1400",
-      "ISBN": 9780393958049,
-      "Author": "Geoffrey Chaucer"
-    },
-    {
-      "Title": "The Divine Comedy",
-      "Category": "Epic Poetry",
-      "Publisher": "A. Nonesuch Press",
-      "Publish Date": "14/09/1320",
-      "ISBN": 9780141197494,
-      "Author": "Dante Alighieri"
-    },
-    {
-      "Title": "The Iliad",
-      "Category": "Epic Poetry",
-      "Publisher": "None",
-      "Publish Date": "01/01/800 BCE",
-      "ISBN": 9780140445923,
-      "Author": "Homer"
-    },
-    {
-      "Title": "The Aeneid",
-      "Category": "Epic Poetry",
-      "Publisher": "None",
-      "Publish Date": "01/01/29 BCE",
-      "ISBN": 9780140449327,
-      "Author": "Virgil"
-    },
-    {
-      "Title": "The Sound and the Fury",
-      "Category": "Modernist novel",
-      "Publisher": "Jonathan Cape & Harrison Smith",
-      "Publish Date": "07/10/1929",
-      "ISBN": 9780679732242,
-      "Author": "William Faulkner"
-    },
-    {
-      "Title": "David Copperfield",
-      "Category": "Realism",
-      "Publisher": "Bradbury & Evans",
-      "Publish Date": "14/06/1850",
-      "ISBN": 9780140439441,
-      "Author": "Charles Dickens"
-    },
-    {
-      "Title": "Tess of the d'Urbervilles",
-      "Category": "Tragedy",
-      "Publisher": "James R. Osgood, McIlvaine & Co.",
-      "Publish Date": "01/01/1891",
-      "ISBN": 9780141439594,
-      "Author": "Thomas Hardy"
-    },
-    {
-      "Title": "Ulysses",
-      "Category": "Modernist novel",
-      "Publisher": "Sylvia Beach",
-      "Publish Date": "02/02/1922",
-      "ISBN": 9780679722762,
-      "Author": "James Joyce"
-    },
-    {
-      "Title": "The War of the Worlds",
-      "Category": "Science Fiction",
-      "Publisher": "William Heinemann",
-      "Publish Date": "01/01/1898",
-      "ISBN": 9780141441031,
-      "Author": "H.G. Wells"
-    },
-    {
-      "Title": "The Jungle Book",
-      "Category": "Children's literature",
-      "Publisher": "Macmillan Publishers",
-      "Publish Date": "14/05/1894",
-      "ISBN": 9780486110289,
-      "Author": "Rudyard Kipling"
-    },
-    {
-      "Title": "A Farewell to Arms",
-      "Category": "War novel",
-      "Publisher": "Scribner's",
-      "Publish Date": "27/09/1929",
-      "ISBN": 9780684801469,
-      "Author": "Ernest Hemingway"
-    },
-    {
-      "Title": "Slaughterhouse-Five",
-      "Category": "Satirical novel",
-      "Publisher": "Delacorte Press",
-      "Publish Date": "31/03/1969",
-      "ISBN": 9780099800200,
-      "Author": "Kurt Vonnegut"
-    }
-  
+  {
+    "Title": "To Kill a Mockingbird",
+    "Category": "Fiction",
+    "Publisher": "Harper Perennial Modern Classics",
+    "Publish Date": "11/07/1960",
+    "ISBN": 9780061120084,
+    "Author": "Harper Lee"
+  },
+  {
+    "Title": "1984",
+    "Category": "Dystopian Fiction",
+    "Publisher": "Secker & Warburg",
+    "Publish Date": "08/06/1949",
+    "ISBN": 9780451524935,
+    "Author": "George Orwell"
+  },
+  {
+    "Title": "Pride and Prejudice",
+    "Category": "Classic Literature",
+    "Publisher": "T. Egerton, Whitehall",
+    "Publish Date": "28/01/1813",
+    "ISBN": 9780141439518,
+    "Author": "Jane Austen"
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Category": "Fiction",
+    "Publisher": "Charles Scribner's Sons",
+    "Publish Date": "10/04/1925",
+    "ISBN": 9780743273565,
+    "Author": "F. Scott Fitzgerald"
+  },
+  {
+    "Title": "Moby-Dick",
+    "Category": "Adventure Fiction",
+    "Publisher": "Richard Bentley (UK)",
+    "Publish Date": "18/10/1851",
+    "ISBN": 9780143124672,
+    "Author": "Herman Melville"
+  },
+  {
+    "Title": "Jane Eyre",
+    "Category": "Gothic Fiction",
+    "Publisher": "Smith, Elder & Co.",
+    "Publish Date": "16/10/1847",
+    "ISBN": 9780141441146,
+    "Author": "Charlotte Brontë"
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Category": "Fiction",
+    "Publisher": "Little, Brown and Company",
+    "Publish Date": "16/07/1951",
+    "ISBN": 9780316769488,
+    "Author": "J.D. Salinger"
+  },
+  {
+    "Title": "Brave New World",
+    "Category": "Science Fiction",
+    "Publisher": "Chatto & Windus",
+    "Publish Date": "17/07/1932",
+    "ISBN": 9780060850524,
+    "Author": "Aldous Huxley"
+  },
+  {
+    "Title": "The Hobbit",
+    "Category": "Fantasy",
+    "Publisher": "George Allen & Unwin",
+    "Publish Date": "21/09/1937",
+    "ISBN": 9780618968633,
+    "Author": "J.R.R. Tolkien"
+  },
+  {
+    "Title": "Lord of the Flies",
+    "Category": "Allegorical Novel",
+    "Publisher": "Faber and Faber",
+    "Publish Date": "17/09/1954",
+    "ISBN": 9780571295715,
+    "Author": "William Golding"
+  },
+  {
+    "Title": "Animal Farm",
+    "Category": "Political Satire",
+    "Publisher": "Secker & Warburg",
+    "Publish Date": "17/08/1945",
+    "ISBN": 9780452284241,
+    "Author": "George Orwell"
+  },
+  {
+    "Title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "Category": "Fantasy",
+    "Publisher": "Geoffrey Bles",
+    "Publish Date": "16/10/1950",
+    "ISBN": 9780066238500,
+    "Author": "C.S. Lewis"
+  },
+  {
+    "Title": "Wuthering Heights",
+    "Category": "Gothic Fiction",
+    "Publisher": "Thomas Cautley Newby",
+    "Publish Date": "13/11/1847",
+    "ISBN": 9780141439556,
+    "Author": "Emily Brontë"
+  },
+  {
+    "Title": "The Picture of Dorian Gray",
+    "Category": "Philosophical fiction",
+    "Publisher": "Lippincott's Monthly Magazine",
+    "Publish Date": "20/06/1890",
+    "ISBN": 9780141439570,
+    "Author": "Oscar Wilde"
+  },
+  {
+    "Title": "Gone with the Wind",
+    "Category": "Historical Fiction",
+    "Publisher": "Macmillan Publishers",
+    "Publish Date": "30/06/1936",
+    "ISBN": 9780446675536,
+    "Author": "Margaret Mitchell"
+  },
+  {
+    "Title": "The Adventures of Huckleberry Finn",
+    "Category": "Picaresque novel",
+    "Publisher": "Chatto & Windus",
+    "Publish Date": "10/12/1884",
+    "ISBN": 9780141439648,
+    "Author": "Mark Twain"
+  },
+  {
+    "Title": "Crime and Punishment",
+    "Category": "Philosophical novel",
+    "Publisher": "The Russian Messenger",
+    "Publish Date": "11/06/1866",
+    "ISBN": 9780143058142,
+    "Author": "Fyodor Dostoevsky"
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Category": "Fantasy",
+    "Publisher": "Allen & Unwin",
+    "Publish Date": "29/07/1954",
+    "ISBN": 9780618640157,
+    "Author": "J.R.R. Tolkien"
+  },
+  {
+    "Title": "The Grapes of Wrath",
+    "Category": "Realism",
+    "Publisher": "The Viking Press",
+    "Publish Date": "14/04/1939",
+    "ISBN": 9780143039431,
+    "Author": "John Steinbeck"
+  },
+  {
+    "Title": "Anna Karenina",
+    "Category": "Realism",
+    "Publisher": "The Russian Messenger",
+    "Publish Date": "08/12/1877",
+    "ISBN": 9780143035006,
+    "Author": "Leo Tolstoy"
+  },
+  {
+    "Title": "The Little Prince",
+    "Category": "Children's Literature",
+    "Publisher": "Reynal & Hitchcock",
+    "Publish Date": "06/04/1943",
+    "ISBN": 9780156012195,
+    "Author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "Title": "Sense and Sensibility",
+    "Category": "Romantic Novel",
+    "Publisher": "Thomas Egerton, Military Library",
+    "Publish Date": "30/10/1811",
+    "ISBN": 9780141439662,
+    "Author": "Jane Austen"
+  },
+  {
+    "Title": "Frankenstein",
+    "Category": "Gothic Fiction",
+    "Publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+    "Publish Date": "01/01/1818",
+    "ISBN": 9780141439471,
+    "Author": "Mary Shelley"
+  },
+  {
+    "Title": "Don Quixote",
+    "Category": "Picaresque novel",
+    "Publisher": "Francisco de Robles",
+    "Publish Date": "16/01/1605",
+    "ISBN": 9780060934347,
+    "Author": "Miguel de Cervantes"
+  },
+  {
+    "Title": "The Odyssey",
+    "Category": "Epic poetry",
+    "Publisher": "Smyrna",
+    "Publish Date": "08/04/800 BCE",
+    "ISBN": 9780143039950,
+    "Author": "Homer"
+  },
+  {
+    "Title": "Les Misérables",
+    "Category": "Historical Fiction",
+    "Publisher": "A. Lacroix, Verboeckhoven & Cie.",
+    "Publish Date": "03/04/1862",
+    "ISBN": 9780451419439,
+    "Author": "Victor Hugo"
+  },
+  {
+    "Title": "One Hundred Years of Solitude",
+    "Category": "Magic Realism",
+    "Publisher": "Harper & Row",
+    "Publish Date": "05/06/1967",
+    "ISBN": 9780060883287,
+    "Author": "Gabriel García Márquez"
+  },
+  {
+    "Title": "The Brothers Karamazov",
+    "Category": "Philosophical novel",
+    "Publisher": "The Russian Messenger",
+    "Publish Date": "12/12/1880",
+    "ISBN": 9780143058142,
+    "Author": "Fyodor Dostoevsky"
+  },
+  {
+    "Title": "War and Peace",
+    "Category": "Historical Fiction",
+    "Publisher": "The Russian Messenger",
+    "Publish Date": "09/06/1869",
+    "ISBN": 9780679602811,
+    "Author": "Leo Tolstoy"
+  },
+  {
+    "Title": "Great Expectations",
+    "Category": "Realism",
+    "Publisher": "Chapman & Hall",
+    "Publish Date": "01/12/1860",
+    "ISBN": 9780141439563,
+    "Author": "Charles Dickens"
+  },
+  {
+    "Title": "The Scarlet Letter",
+    "Category": "Gothic Fiction",
+    "Publisher": "Ticknor, Reed, and Fields",
+    "Publish Date": "16/03/1850",
+    "ISBN": 9780142437261,
+    "Author": "Nathaniel Hawthorne"
+  },
+  {
+    "Title": "The Bell Jar",
+    "Category": "Semi-autobiographical novel",
+    "Publisher": "Heinemann",
+    "Publish Date": "14/01/1963",
+    "ISBN": 9780061148514,
+    "Author": "Sylvia Plath"
+  },
+  {
+    "Title": "A Tale of Two Cities",
+    "Category": "Historical Novel",
+    "Publisher": "Chapman & Hall",
+    "Publish Date": "30/04/1859",
+    "ISBN": 9780141439600,
+    "Author": "Charles Dickens"
+  },
+  {
+    "Title": "Catch-22",
+    "Category": "Satirical novel",
+    "Publisher": "Simon & Schuster",
+    "Publish Date": "10/10/1961",
+    "ISBN": 9780099470465,
+    "Author": "Joseph Heller"
+  },
+  {
+    "Title": "Heart of Darkness",
+    "Category": "Novella",
+    "Publisher": "Blackwood's Magazine",
+    "Publish Date": "03/02/1899",
+    "ISBN": 9780486264646,
+    "Author": "Joseph Conrad"
+  },
+  {
+    "Title": "Walden",
+    "Category": "Philosophical literature",
+    "Publisher": "Ticknor and Fields",
+    "Publish Date": "09/08/1854",
+    "ISBN": 9780486284958,
+    "Author": "Henry David Thoreau"
+  },
+  {
+    "Title": "The Sun Also Rises",
+    "Category": "Modernist novel",
+    "Publisher": "Scribner's",
+    "Publish Date": "22/10/1926",
+    "ISBN": 9780743297332,
+    "Author": "Ernest Hemingway"
+  },
+  {
+    "Title": "The Stranger",
+    "Category": "Existentialist novel",
+    "Publisher": "Gallimard",
+    "Publish Date": "01/05/1942",
+    "ISBN": 9780679720201,
+    "Author": "Albert Camus"
+  },
+  {
+    "Title": "Middlemarch",
+    "Category": "Realism",
+    "Publisher": "William Blackwood & Sons",
+    "Publish Date": "01/12/1871",
+    "ISBN": 9780141439549,
+    "Author": "George Eliot"
+  },
+  {
+    "Title": "Mrs. Dalloway",
+    "Category": "Modernist novel",
+    "Publisher": "Hogarth Press",
+    "Publish Date": "14/05/1925",
+    "ISBN": 9780151009986,
+    "Author": "Virginia Woolf"
+  },
+  {
+    "Title": "The Canterbury Tales",
+    "Category": "Literature",
+    "Publisher": "William Caxton",
+    "Publish Date": "01/01/1400",
+    "ISBN": 9780393958049,
+    "Author": "Geoffrey Chaucer"
+  },
+  {
+    "Title": "The Divine Comedy",
+    "Category": "Epic Poetry",
+    "Publisher": "A. Nonesuch Press",
+    "Publish Date": "14/09/1320",
+    "ISBN": 9780141197494,
+    "Author": "Dante Alighieri"
+  },
+  {
+    "Title": "The Iliad",
+    "Category": "Epic Poetry",
+    "Publisher": "None",
+    "Publish Date": "01/01/800 BCE",
+    "ISBN": 9780140445923,
+    "Author": "Homer"
+  },
+  {
+    "Title": "The Aeneid",
+    "Category": "Epic Poetry",
+    "Publisher": "None",
+    "Publish Date": "01/01/29 BCE",
+    "ISBN": 9780140449327,
+    "Author": "Virgil"
+  },
+  {
+    "Title": "The Sound and the Fury",
+    "Category": "Modernist novel",
+    "Publisher": "Jonathan Cape & Harrison Smith",
+    "Publish Date": "07/10/1929",
+    "ISBN": 9780679732242,
+    "Author": "William Faulkner"
+  },
+  {
+    "Title": "David Copperfield",
+    "Category": "Realism",
+    "Publisher": "Bradbury & Evans",
+    "Publish Date": "14/06/1850",
+    "ISBN": 9780140439441,
+    "Author": "Charles Dickens"
+  },
+  {
+    "Title": "Tess of the d'Urbervilles",
+    "Category": "Tragedy",
+    "Publisher": "James R. Osgood, McIlvaine & Co.",
+    "Publish Date": "01/01/1891",
+    "ISBN": 9780141439594,
+    "Author": "Thomas Hardy"
+  },
+  {
+    "Title": "Ulysses",
+    "Category": "Modernist novel",
+    "Publisher": "Sylvia Beach",
+    "Publish Date": "02/02/1922",
+    "ISBN": 9780679722762,
+    "Author": "James Joyce"
+  },
+  {
+    "Title": "The War of the Worlds",
+    "Category": "Science Fiction",
+    "Publisher": "William Heinemann",
+    "Publish Date": "01/01/1898",
+    "ISBN": 9780141441031,
+    "Author": "H.G. Wells"
+  },
+  {
+    "Title": "The Jungle Book",
+    "Category": "Children's literature",
+    "Publisher": "Macmillan Publishers",
+    "Publish Date": "14/05/1894",
+    "ISBN": 9780486110289,
+    "Author": "Rudyard Kipling"
+  },
+  {
+    "Title": "A Farewell to Arms",
+    "Category": "War novel",
+    "Publisher": "Scribner's",
+    "Publish Date": "27/09/1929",
+    "ISBN": 9780684801469,
+    "Author": "Ernest Hemingway"
+  },
+  {
+    "Title": "Slaughterhouse-Five",
+    "Category": "Satirical novel",
+    "Publisher": "Delacorte Press",
+    "Publish Date": "31/03/1969",
+    "ISBN": 9780099800200,
+    "Author": "Kurt Vonnegut"
+  },
 
   {
     "Title": "The Road",
